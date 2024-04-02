@@ -3,11 +3,18 @@
 # WCA 규정 Version: January 1, 2024[`[official](https://github.com/thewca/wca-regulations/tree/official/):[586f970](https://github.com/thewca/wca-regulations/commits/586f970)`]
 
 ## 참고
-WCA 규정과 권장 사항
+
+### 번역
+
+번역본은 편의를 위해 WCA 웹사이트에서 제공되지만, 공식 버전이 아님을 유의한다.
+번역본과 (현재 공식적인) 영문 버전 사이에 차이가 있는 경우 영문 버전을 사용해야 합니다.
+
+### WCA 규정과 권장 사항
+
 WCA 규정은 국제 큐브 협회(이하 WCA)가 승인한 모든 공인 대회에 적용되는 모든 규정을 포함한다.
 WCA 규정은 [WCA 권장 사항](https://www.worldcubeassociation.org/regulations/guidelines.html#)으로 추가 설명이 될 수 있다. 이 규정들은 완전한 문서로 구성되어있으며, 권장 사항은 추가적인 설명이 포함되어있다.
 
-### 번역
+### 단어 선택
 "must", "must not", "should", "should not" and "may" 와 같은 단어는 [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt)에 의거한다.
 
 ### 인터넷 상의 정보
