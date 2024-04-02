@@ -1,32 +1,32 @@
-# 제 0조 : 규정과 권장 사항
+# <wca-title>WCA 규정
 
-# WCA 규정 Version: January 1, 2024[`[official](https://github.com/thewca/wca-regulations/tree/official/):[586f970](https://github.com/thewca/wca-regulations/commits/586f970)`]
+<version>버전: 2024년 1월 1일
 
 ## 참고
 
 ### 번역
 
 번역본은 편의를 위해 WCA 웹사이트에서 제공되지만, 공식 버전이 아님을 유의한다.
-번역본과 (현재 공식적인) 영문 버전 사이에 차이가 있는 경우 영문 버전을 사용해야 합니다.
+번역본과 (현재 공식적인) 영문 버전 사이에 차이가 있는 경우 영문 버전이 사용되어야 한다.
 
 ### WCA 규정과 권장 사항
 
-WCA 규정은 국제 큐브 협회(이하 WCA)가 승인한 모든 공인 대회에 적용되는 모든 규정을 포함한다.
-WCA 규정은 [WCA 권장 사항](https://www.worldcubeassociation.org/regulations/guidelines.html#)으로 추가 설명이 될 수 있다. 이 규정들은 완전한 문서로 구성되어있으며, 권장 사항은 추가적인 설명이 포함되어있다.
+WCA 규정은 세계 큐브 협회(이하 WCA)에 의해 승인되는 모든 공인 대회에 적용되는 모든 규정을 포함한다.
+WCA 규정은 [WCA 권장 사항](guidelines:top)으로 보충될 수 있다. 규정은 완전한 문서로 여겨져야 하나, 권장 사항은 추가적인 명확화와 설명이 포함되어있다.
 
 ### 단어 선택
-"must", "must not", "should", "should not" and "may" 와 같은 단어는 [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt)에 의거한다.
+"must", "must not", "should", "should not" and "may" 와 같은 단어는 [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt)을 따른다.
 
 ### 인터넷 상의 정보
-국제 큐브 협회: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)
-WCA 규정의 원본: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/)
-WCA 규정의 [PDF 양식](https://www.worldcubeassociation.org/regulations/wca-regulations-and-guidelines.pdf)
+세계 큐브 협회 웹 사이트: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)
+WCA 규정 원본: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/)
+WCA 규정의 [PDF 서식](link:pdf)
 
 ### 출처
-WCA 규정과 권장 사항의 변천은 [GitHub](https://github.com/thewca/wca-regulations)에 있으며 [WCA Forum](https://forum.worldcubeassociation.org/c/regulations)에서 토론이 가능하다.
+WCA 규정과 권장 사항의 변천은 [GitHub](https://github.com/thewca/wca-regulations)에 공개되어 있으며, 논의는 [WCA Forum](https://forum.worldcubeassociation.org/c/regulations)에 공개되어 있다.
 
-### Contact
-질문 사항 및 피드백이 있다면 [WCA Regulations Committee (WRC)](mailto:wrc@worldcubeassociation.org)으로 연락 바랍니다.
+### 연락
+질문 사항 및 피드백이 있다면 [WCA 규정 위원회 (WRC)](mailto:wrc@worldcubeassociation.org)으로 연락 바랍니다.
 
 ## [목차](https://www.worldcubeassociation.org/regulations/#contents)
 참고: 규정이 삭제된 경우, 항목과 규정 번호가 재조정되지 않으므로 번호의 차이가 있을 수 있다.
