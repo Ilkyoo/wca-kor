@@ -1,26 +1,27 @@
 # 제 0조 : 규정과 권장 사항
 
-##WCA 규정## Version: January 1, 2024[`[official](https://github.com/thewca/wca-regulations/tree/official/):[586f970](https://github.com/thewca/wca-regulations/commits/586f970)`]
-##참고
-WCA 규정과 권장 사항##
+# WCA 규정 Version: January 1, 2024[`[official](https://github.com/thewca/wca-regulations/tree/official/):[586f970](https://github.com/thewca/wca-regulations/commits/586f970)`]
+
+## 참고
+WCA 규정과 권장 사항
 WCA 규정은 국제 큐브 협회(이하 WCA)가 승인한 모든 공인 대회에 적용되는 모든 규정을 포함한다.
 WCA 규정은 [WCA 권장 사항](https://www.worldcubeassociation.org/regulations/guidelines.html#)으로 추가 설명이 될 수 있다. 이 규정들은 완전한 문서로 구성되어있으며, 권장 사항은 추가적인 설명이 포함되어있다.
 
-##번역##
+### 번역
 "must", "must not", "should", "should not" and "may" 와 같은 단어는 [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt)에 의거한다.
 
-##인터넷 상의 정보##
+### 인터넷 상의 정보
 국제 큐브 협회: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)
 WCA 규정의 원본: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/)
 WCA 규정의 [PDF 양식](https://www.worldcubeassociation.org/regulations/wca-regulations-and-guidelines.pdf)
 
-##출처##
+### 출처
 WCA 규정과 권장 사항의 변천은 [GitHub](https://github.com/thewca/wca-regulations)에 있으며 [WCA Forum](https://forum.worldcubeassociation.org/c/regulations)에서 토론이 가능하다.
 
-##Contact##
+### Contact
 질문 사항 및 피드백이 있다면 [WCA Regulations Committee (WRC)](mailto:wrc@worldcubeassociation.org)으로 연락 바랍니다.
 
-####[목차](https://www.worldcubeassociation.org/regulations/#contents)
+## [목차](https://www.worldcubeassociation.org/regulations/#contents)
 참고: 규정이 삭제된 경우, 항목과 규정 번호가 재조정되지 않으므로 번호의 차이가 있을 수 있다.
 
 - 제 1조: [운영진](https://www.worldcubeassociation.org/regulations/#article-1-officials)
@@ -40,130 +41,122 @@ WCA 규정과 권장 사항의 변천은 [GitHub](https://github.com/thewca/wca-
 - 제 F조: [클락](https://www.worldcubeassociation.org/regulations/#article-F-clock)
 - 제 H조: [복수 눈 가리기](https://www.worldcubeassociation.org/regulations/#article-H-multiple-blindfolded)
 
-# 제 1조 : 운영진
-
-[제 1조](https://www.worldcubeassociation.org/regulations/#article-1-officials)##: 운영진##
+## [제 1조](https://www.worldcubeassociation.org/regulations/#article-1-officials): 운영진
 - [1a](https://www.worldcubeassociation.org/regulations/#1a)) 각 대회는 WCA 파견위원과 다음과 같은 운영진(한 명 이상)을 포함해야 한다. : 심판, 스크램블러, 기록입력자
 - [1b](https://www.worldcubeassociation.org/regulations/#1b)) 운영진은 대회 전, 중 후의 책임이 있다.
 - [1c](https://www.worldcubeassociation.org/regulations/#1c)) WCA 파견위원은 대회가 WCA 규정에 부합하고 ,WCA 정책이나 요구 사항에 맞는지 확인할 책임이 있습니다. WCA 파견위원은 운영진 팀 구성원에게 위임할 권한이 있지만, 어떻게 수행되었는지에 대한 책임이 있다.
-    ◦ [1c1](https://www.worldcubeassociation.org/regulations/#1c1)) WCA 파견위원은 이 대회가 [WCA Scramble Accountability Policy](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf)을 따랐는지 보증해야 한다.
+    - [1c1](https://www.worldcubeassociation.org/regulations/#1c1)) WCA 파견위원은 이 대회가 [WCA Scramble Accountability Policy](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf)을 따랐는지 보증해야 한다.
 - [1e](https://www.worldcubeassociation.org/regulations/#1e)) 각각의 종목은 한 명 이상의 심판이 필요하다.
-    ◦ [1e1](https://www.worldcubeassociation.org/regulations/#1e1)) 심판은 해당 종목의 절차를 진행할 때 책임이 있다.
+    - [1e1](https://www.worldcubeassociation.org/regulations/#1e1)) 심판은 해당 종목의 절차를 진행할 때 책임이 있다.
         - [1e1a](https://www.worldcubeassociation.org/regulations/#1e1a)) 한 명의 심판은 WCA 규정을 항상 잘 따를 수 있다는 가정 하에 WCA 파견위원의 재량에 따라 동시에 다수의 참가자를 심판 볼 수 있다. 
-    ◦ [1e2](https://www.worldcubeassociation.org/regulations/#1e2)) 모든 참가자는 심판을 볼 줄 알아야 한다. 요청시, 참가자는 합당한 이유(예: 퍼즐에 친숙하지 않음)가 있을 경우 WCA 파견위원의 재량으로 제외할 수 있다.  어길 시 벌칙: 해당 종목 혹은 다수의 종목 실격, 또는 대회 실격( [규정 2k](https://www.worldcubeassociation.org/regulations/#2k) 참조).
+    - [1e2](https://www.worldcubeassociation.org/regulations/#1e2)) 모든 참가자는 심판을 볼 줄 알아야 한다. 요청시, 참가자는 합당한 이유(예: 퍼즐에 친숙하지 않음)가 있을 경우 WCA 파견위원의 재량으로 제외할 수 있다.  어길 시 벌칙: 해당 종목 혹은 다수의 종목 실격, 또는 대회 실격( [규정 2k](https://www.worldcubeassociation.org/regulations/#2k) 참조).
 - [1f](https://www.worldcubeassociation.org/regulations/#1f)) 각각의 종목은 한 명 이상의 스크램블러가 필요하다. 예외: 3x3x3 최소회전
-    ◦ [1f1](https://www.worldcubeassociation.org/regulations/#1f1)) 스크램블러는 퍼즐을 스크램블 공식을 적용한다. ([규정 A2](https://www.worldcubeassociation.org/regulations/#A2) 참조).
-    ◦ [1f2](https://www.worldcubeassociation.org/regulations/#1f2)) 모든 참가자는 스크림블을 할 줄 알아야 한다. 요청시 참가자는 합당한 이유(예: 스크램블 표기법에 익숙하지 않음)가 있을 경우 WCA 파견위원의 재량으로 제외할 수 있다. 어길 시 벌칙: 해당 종목 혹은 다수의 종목 실격, 또는 대회 실격([규정 2k](https://www.worldcubeassociation.org/regulations/#2k) 참조).
+    - [1f1](https://www.worldcubeassociation.org/regulations/#1f1)) 스크램블러는 퍼즐을 스크램블 공식을 적용한다. ([규정 A2](https://www.worldcubeassociation.org/regulations/#A2) 참조).
+    - [1f2](https://www.worldcubeassociation.org/regulations/#1f2)) 모든 참가자는 스크림블을 할 줄 알아야 한다. 요청시 참가자는 합당한 이유(예: 스크램블 표기법에 익숙하지 않음)가 있을 경우 WCA 파견위원의 재량으로 제외할 수 있다. 어길 시 벌칙: 해당 종목 혹은 다수의 종목 실격, 또는 대회 실격([규정 2k](https://www.worldcubeassociation.org/regulations/#2k) 참조).
 - [1g](https://www.worldcubeassociation.org/regulations/#1g)) 각각의 종목은 한 명 이상의 기록입력자가 필요하다.
-    ◦ [1g1](https://www.worldcubeassociation.org/regulations/#1g1)) 기록입력자는 기록을 취합하는데 책임이 있다.
-    ◦ [1g2](https://www.worldcubeassociation.org/regulations/#1g2)) 모든 기록지의 기록 변경은 WCA 파견위원의 재량 하에 허가된다.
+    - [1g1](https://www.worldcubeassociation.org/regulations/#1g1)) 기록입력자는 기록을 취합하는데 책임이 있다.
+    - [1g2](https://www.worldcubeassociation.org/regulations/#1g2)) 모든 기록지의 기록 변경은 WCA 파견위원의 재량 하에 허가된다.
 - [1h](https://www.worldcubeassociation.org/regulations/#1h)) 한 종목의 같은 라운드에 있는 참가자는 한 그룹 혹은 다수의 그룹으로 나누어 측정할 수 있다.
-    ◦ [1h1](https://www.worldcubeassociation.org/regulations/#1h1)) 해당 라운드의 스크램블러와 심판은 본인의 시도가 모두 끝나기 전에 스크램블 혹은 심판을 하지 않는다. 그들은 WCA 파견위원의 재량에 따라 본인이 속한 그룹의 스크램블 혹은 심판을 하도록 할 수 있지만 운영진은 반드시 스크램블러와 심판이 아직 끝내지 않은 시도들을 보지 못했다는 것을 보장해야 한다. ([규정 4b2](https://www.worldcubeassociation.org/regulations/#4b2) 참조).
+    - [1h1](https://www.worldcubeassociation.org/regulations/#1h1)) 해당 라운드의 스크램블러와 심판은 본인의 시도가 모두 끝나기 전에 스크램블 혹은 심판을 하지 않는다. 그들은 WCA 파견위원의 재량에 따라 본인이 속한 그룹의 스크램블 혹은 심판을 하도록 할 수 있지만 운영진은 반드시 스크램블러와 심판이 아직 끝내지 않은 시도들을 보지 못했다는 것을 보장해야 한다. ([규정 4b2](https://www.worldcubeassociation.org/regulations/#4b2) 참조).
 - [1j](https://www.worldcubeassociation.org/regulations/#1j)) 모든 운영진들은 대회에 참가할 수 있다.
 - [1k](https://www.worldcubeassociation.org/regulations/#1k)) 운영진들은 여러 개의 역할을 맡을 수 있다. (예: 운영진, WCA 파견위원, 심판, 기록입력자, 스크램블러)
 
-    # 제 2조 : 선수/참가자
-
-[제 2조](https://www.worldcubeassociation.org/regulations/#article-2-competitors)##: 선수/참가자##
+    ## [제 2조](https://www.worldcubeassociation.org/regulations/#article-2-competitors): 선수/참가자
 - [2a](https://www.worldcubeassociation.org/regulations/#2a)) 다음 사항을 만족하면 누구나 WCA 대회에 참가할 수 있다.:
-    ◦ [2a1](https://www.worldcubeassociation.org/regulations/#2a1)) WCA 규정을 지키는 자.
-    ◦ [2a2](https://www.worldcubeassociation.org/regulations/#2a2)) 대회 요구 사항을 지키는 자, 이 요구 사항은 대회 전에 명확히 발표되어야 한다.
-    ◦ [2a3](https://www.worldcubeassociation.org/regulations/#2a3)) WCA에 의해 참가가 제한되지 않은 자.
-    ◦ [2a4](https://www.worldcubeassociation.org/regulations/#2a4)) WCA 파견위원에 의해 필요해 보이는 안전 수칙을 지키는 자, 이 요구 사항은 대회 전에 명확히 발표되어야 한다.
+    - [2a1](https://www.worldcubeassociation.org/regulations/#2a1)) WCA 규정을 지키는 자.
+    - [2a2](https://www.worldcubeassociation.org/regulations/#2a2)) 대회 요구 사항을 지키는 자, 이 요구 사항은 대회 전에 명확히 발표되어야 한다.
+    - [2a3](https://www.worldcubeassociation.org/regulations/#2a3)) WCA에 의해 참가가 제한되지 않은 자.
+    - [2a4](https://www.worldcubeassociation.org/regulations/#2a4)) WCA 파견위원에 의해 필요해 보이는 안전 수칙을 지키는 자, 이 요구 사항은 대회 전에 명확히 발표되어야 한다.
 - [2b](https://www.worldcubeassociation.org/regulations/#2b)) 18세 미만의 선수들은 그들의 부모 혹은 보호자로부터 참가 및 측정 동의서를 받아야 한다.
 - [2c](https://www.worldcubeassociation.org/regulations/#2c)) 참가자는 운영진이 필요한 모든 정보를 제공함으로써 참가 신청을 한다. (이름, 국적, 생년월일, 성별, 연락 수단, 참가 종목을 포함)
-    ◦ [2c1](https://www.worldcubeassociation.org/regulations/#2c1)) 참가자는 운영진과 WCA 파견위원에 정해지는 완전한 참가 신청 없이는 참가가 불가능하다.
-    ◦ [2c2](https://www.worldcubeassociation.org/regulations/#2c2)) 기참가자들은 WCA 정보에 개인정보를 재공해야 한다. 참가자가 개인정보를 변경하고 싶을 경우, [WCA Results Team](https://www.worldcubeassociation.org/contact/website) 혹은 WCA 파견위원에게 연락을 해야 한다.
+    - [2c1](https://www.worldcubeassociation.org/regulations/#2c1)) 참가자는 운영진과 WCA 파견위원에 정해지는 완전한 참가 신청 없이는 참가가 불가능하다.
+    - [2c2](https://www.worldcubeassociation.org/regulations/#2c2)) 기참가자들은 WCA 정보에 개인정보를 재공해야 한다. 참가자가 개인정보를 변경하고 싶을 경우, [WCA Results Team](https://www.worldcubeassociation.org/contact/website) 혹은 WCA 파견위원에게 연락을 해야 한다.
 - [2d](https://www.worldcubeassociation.org/regulations/#2d)) 참가자의 이름, 국적, 성별, 그리고 대회 기록은 공개 정보로 간주된다. 다른 모든 개인 정보는 비공개 정보로 간주되며 참가자의 허락 없이 외부에 노출되어서는 안된다.
 - [2e](https://www.worldcubeassociation.org/regulations/#2e)) 선수는 본인이 시민권을 소유하고 있는 국가를 표시해야 한다. WCA 파견위원은 그들의 첫 대회에서 문서(여권 등)를 통해서 시민권을 증명해야 한다. 참가자가 신청한 대회에서 본인의 국적을 증명할 수 없으면 WCA Board에 재량에 따라 해당 참가자를 소급 적용하여 실격 혹은 제한할 수 있다.
-    ◦ [2e1](https://www.worldcubeassociation.org/regulations/#2e1)) 유효한 국가들은 [WCA List of Recognized Regions](https://www.worldcubeassociation.org/regulations/countries/)에 의해 규정된다.
-    ◦ [2e2](https://www.worldcubeassociation.org/regulations/#2e2)) 국적 변동이 있는 선수는 매 해의 첫 해의 첫 대회에서 변경이 가능하다.
+    - [2e1](https://www.worldcubeassociation.org/regulations/#2e1)) 유효한 국가들은 [WCA List of Recognized Regions](https://www.worldcubeassociation.org/regulations/countries/)에 의해 규정된다.
+    - [2e2](https://www.worldcubeassociation.org/regulations/#2e2)) 국적 변동이 있는 선수는 매 해의 첫 해의 첫 대회에서 변경이 가능하다.
         - [2e2a](https://www.worldcubeassociation.org/regulations/#2e2a)) 예외: 선수가 이전에 나타내던 국가의 시민권을 잃었을 경우, 선수는 반드시 다음 대회 전에 국적을 변경해야 한다. ([규정 2c2](https://www.worldcubeassociation.org/regulations/#2c2) 참조).
         - [2e2b](https://www.worldcubeassociation.org/regulations/#2e2b)) 예외: 선수가 그 해에 새로운 시민권을 취득했을 경우, 다음 대회 사이의 임의의 시점에 변경이 가능하다.
-    ◦ [2e3](https://www.worldcubeassociation.org/regulations/#2e3)) 시민권이 없는 선수는 "Stateless" 상태로 참가가 가능하다.
+    - [2e3](https://www.worldcubeassociation.org/regulations/#2e3)) 시민권이 없는 선수는 "Stateless" 상태로 참가가 가능하다.
 - [2f](https://www.worldcubeassociation.org/regulations/#2f)) 참가자는 적당한 방법으로 대회 장소 규칙을 반드시 지켜야 한다.
 - [2g](https://www.worldcubeassociation.org/regulations/#2g)) 참가자는 지정된 대회 장소 안에 있을 때는 반드시 정숙해야 한다. 대화는 허용되지만, 적당한 수준이어야 하고, 측정 중인 참가자에게서 멀리 있어야 한다.
-    ◦ [2g3](https://www.worldcubeassociation.org/regulations/#2g3)) 진행 중인 그룹에 있는 참가자들은 그 그룹의 스크램블 상태를 다른 참가자와 소통해서는 안된다. 어길 시 벌칙: WCA 파견위원의 재량에 따라 해당 종목 실격. 예외: 3x3x3 최소 회전 종목에서, 본인의 시도를 끝마친 선수는 해당 시도를 측정 중이지 않은 사람과 스크램블 상태에 대해 공유할 수 있다.
+    - [2g3](https://www.worldcubeassociation.org/regulations/#2g3)) 진행 중인 그룹에 있는 참가자들은 그 그룹의 스크램블 상태를 다른 참가자와 소통해서는 안된다. 어길 시 벌칙: WCA 파견위원의 재량에 따라 해당 종목 실격. 예외: 3x3x3 최소 회전 종목에서, 본인의 시도를 끝마친 선수는 해당 시도를 측정 중이지 않은 사람과 스크램블 상태에 대해 공유할 수 있다.
 - [2h](https://www.worldcubeassociation.org/regulations/#2h)) 대회장 안에 있을 때에는 참가자는 적절한 옷을 입어야 한다. WCA 파견위원의 재량에 따라서 부적절한 옷을 입은 참가자는 실격 처리가 될 수 있다.
 - [2i](https://www.worldcubeassociation.org/regulations/#2i)) 미리보기 혹은 솔빙 도중, 선수들은 전자장치를 절대로 사용해서는 안된다. (예: 핸드폰, MP3 플레이어, 녹음기, 추가 조명) 어길 시 벌칙: 해당 시도 실격 (DNF).
-    ◦ [2i1](https://www.worldcubeassociation.org/regulations/#2i1)) WCA 파견위원의 재량으로 선수는 불공평한 이득을 주지 않는 비전자장치를 사용할 수 있다. 이것은 다음을 포함한다:
+    - [2i1](https://www.worldcubeassociation.org/regulations/#2i1)) WCA 파견위원의 재량으로 선수는 불공평한 이득을 주지 않는 비전자장치를 사용할 수 있다. 이것은 다음을 포함한다:
         - [2i1a](https://www.worldcubeassociation.org/regulations/#2i1a)) 선수가 착용하고 있는 의학적 보조 장치 (예: 안경, 손목 보호대) [규정 2i](https://www.worldcubeassociation.org/regulations/#2i)의 예외, 참가자가 마땅한 비전자장치 대체품이 없다면 의학적 보조 장치는 전자장치가 가능하다. (예시: 보청기, 인공 심장)
         - [2i1b](https://www.worldcubeassociation.org/regulations/#2i1b)) 귀마개. (전자 귀마개는 불가능)
         - [2i1c](https://www.worldcubeassociation.org/regulations/#2i1c)) 핫팩.
         - [2i1d](https://www.worldcubeassociation.org/regulations/#2i1d)) 식음료.
-    ◦ [2i2](https://www.worldcubeassociation.org/regulations/#2i2)) WCA 파견위원의 재량에 따라서 선수는 측정 장소에서 카메라를 사용할 수 있으나 시작부터 끝까지 아래 규정을 지켜야 한다. 어길 시 벌칙 : 해당 시도 실격 (DNF).
+    - [2i2](https://www.worldcubeassociation.org/regulations/#2i2)) WCA 파견위원의 재량에 따라서 선수는 측정 장소에서 카메라를 사용할 수 있으나 시작부터 끝까지 아래 규정을 지켜야 한다. 어길 시 벌칙 : 해당 시도 실격 (DNF).
         - [2i2a](https://www.worldcubeassociation.org/regulations/#2i2a)) 카메라 화면은 빈 상태 혹은 참가자의 시야에서 보이지 않아야 한다. ([규정 A5b](https://www.worldcubeassociation.org/regulations/#A5b) 참조).
-    ◦ [2i4](https://www.worldcubeassociation.org/regulations/#2i4)) 대회 측정을 방해하는 것을 피하기 위해 선수들은 핸드폰을 꺼야 한다.
+    - [2i4](https://www.worldcubeassociation.org/regulations/#2i4)) 대회 측정을 방해하는 것을 피하기 위해 선수들은 핸드폰을 꺼야 한다.
 - [2j](https://www.worldcubeassociation.org/regulations/#2j)) WCA 파견위원은 참가자의 특정 시도 혹은 종목을 실격시킬 수 있다.
-    ◦ [2j1](https://www.worldcubeassociation.org/regulations/#2j1)) 어떠한 이유로 참가자의 종목이 실격 처리 됐을 경우, 더 이상 측정 기회가 주어지지 않는다.
+    - [2j1](https://www.worldcubeassociation.org/regulations/#2j1)) 어떠한 이유로 참가자의 종목이 실격 처리 됐을 경우, 더 이상 측정 기회가 주어지지 않는다.
         - [2j1a](https://www.worldcubeassociation.org/regulations/#2j1a)) 선수가 실격되기 전 하나 이상의 시도를 이미 시작했다면, 남아 있는 모든 기록들은 DNF로 기록된다. 참가자가 시도를 하지 않았다면(혹은 기록이 없거나 DNS 기록만 있는 경우) 기록은 입력되지 않는다.
-    ◦ [2j2](https://www.worldcubeassociation.org/regulations/#2j2)) 실격 처리가 적용되었을 때 이미 완료되어있는 시도에 대한 기록은 실격 처리되어서는 안된다. 예외: 부정행위. ([규정 2k2a](https://www.worldcubeassociation.org/regulations/#2k2a) 참조)
-    ◦ [2j3](https://www.worldcubeassociation.org/regulations/#2j3)) 실격 처리된 시도와 관련 있는 특정 시도들에 한하여 [규정 2k](https://www.worldcubeassociation.org/regulations/#2k)에 묘사되어 있는 순서를 따라 실격 처리가 될 수 있다.
+    - [2j2](https://www.worldcubeassociation.org/regulations/#2j2)) 실격 처리가 적용되었을 때 이미 완료되어있는 시도에 대한 기록은 실격 처리되어서는 안된다. 예외: 부정행위. ([규정 2k2a](https://www.worldcubeassociation.org/regulations/#2k2a) 참조)
+    - [2j3](https://www.worldcubeassociation.org/regulations/#2j3)) 실격 처리된 시도와 관련 있는 특정 시도들에 한하여 [규정 2k](https://www.worldcubeassociation.org/regulations/#2k)에 묘사되어 있는 순서를 따라 실격 처리가 될 수 있다.
 - [2k](https://www.worldcubeassociation.org/regulations/#2k)) 선수가 다음 항목에 해당하는 경우 WCA 파견위원의 재량에 따라 참가자는 특정 시도 혹은 종목(단일 혹은 복수 종목)에서 실격 처리가 될 수 있다.
-    ◦ [2k1](https://www.worldcubeassociation.org/regulations/#2k1)) 제 시간에 오지 못한 경우.
-    ◦ [2k2](https://www.worldcubeassociation.org/regulations/#2k2)) 대회 진행 중 부정행위 혹은 기만 행위로 의심될 경우. 
+    - [2k1](https://www.worldcubeassociation.org/regulations/#2k1)) 제 시간에 오지 못한 경우.
+    - [2k2](https://www.worldcubeassociation.org/regulations/#2k2)) 대회 진행 중 부정행위 혹은 기만 행위로 의심될 경우. 
         - [2k2a](https://www.worldcubeassociation.org/regulations/#2k2a)) WCA 파견위원은 의심되는 기록을 실격 처리할 수 있다.
-    ◦ [2k3](https://www.worldcubeassociation.org/regulations/#2k3)) 불법적/폭력적/비도덕적인 행동 혹은 의도적으로 대회 시설의 피해 또는 개인에게 피해를 주는 행동을 한 경우.
-    ◦ [2k4](https://www.worldcubeassociation.org/regulations/#2k4)) 대회 중에 다른 이들을 방해 혹은 공격하는 경우.
-    ◦ [2k5](https://www.worldcubeassociation.org/regulations/#2k5)) 대회 중에 WCA 규정을 지키는데 실패한 경우.
-    ◦ [2k6](https://www.worldcubeassociation.org/regulations/#2k6)) 종목 요구 사항을 충족하지 못한 경우. (예: 퍼즐을 맞출 줄 모름) 참가자는 DNF 기록 혹은 의도적인 안 좋은 기록을 예상한 상태로 기록을 측정하면 안된다.
+    - [2k3](https://www.worldcubeassociation.org/regulations/#2k3)) 불법적/폭력적/비도덕적인 행동 혹은 의도적으로 대회 시설의 피해 또는 개인에게 피해를 주는 행동을 한 경우.
+    - [2k4](https://www.worldcubeassociation.org/regulations/#2k4)) 대회 중에 다른 이들을 방해 혹은 공격하는 경우.
+    - [2k5](https://www.worldcubeassociation.org/regulations/#2k5)) 대회 중에 WCA 규정을 지키는데 실패한 경우.
+    - [2k6](https://www.worldcubeassociation.org/regulations/#2k6)) 종목 요구 사항을 충족하지 못한 경우. (예: 퍼즐을 맞출 줄 모름) 참가자는 DNF 기록 혹은 의도적인 안 좋은 기록을 예상한 상태로 기록을 측정하면 안된다.
 - [2l](https://www.worldcubeassociation.org/regulations/#2l)) 위반 사항의 경중에 따라 해당 선수는 즉시 혹은 경고 후 실격 처리가 될 수 있다.
-    ◦ [2l1](https://www.worldcubeassociation.org/regulations/#2l1)) 실격당한 선수는 어떠한 대회 참가 비용도 환불 요청할 권한이 없다.
+    - [2l1](https://www.worldcubeassociation.org/regulations/#2l1)) 실격당한 선수는 어떠한 대회 참가 비용도 환불 요청할 권한이 없다.
 - [2n](https://www.worldcubeassociation.org/regulations/#2n)) 선수는 WCA 파견위원에게 대화로 논쟁을 할 수 있다.
-    ◦ [2n1](https://www.worldcubeassociation.org/regulations/#2n1)) 논쟁은 대회 동안에서만 진행되어야 하며 ([규정 9u](https://www.worldcubeassociation.org/regulations/#9u) 참조), 논쟁거리가 발생한지 30분 이내 혹은 해당 종목의 후속 라운드가 시작하기 전에 진행되어야 한다.
-    ◦ [2n2](https://www.worldcubeassociation.org/regulations/#2n2)) WCA 파견위원은 해당 종목의 다음 라운드가 시작하기 전에 반드시 이 논쟁을 해결해야 한다.
-    ◦ [2n3](https://www.worldcubeassociation.org/regulations/#2n3)) 선수는 WCA 파견위원의 최종 결정을 반드시 받아들여야 한다. 어길 시 벌칙: 대회 실격
+    - [2n1](https://www.worldcubeassociation.org/regulations/#2n1)) 논쟁은 대회 동안에서만 진행되어야 하며 ([규정 9u](https://www.worldcubeassociation.org/regulations/#9u) 참조), 논쟁거리가 발생한지 30분 이내 혹은 해당 종목의 후속 라운드가 시작하기 전에 진행되어야 한다.
+    - [2n2](https://www.worldcubeassociation.org/regulations/#2n2)) WCA 파견위원은 해당 종목의 다음 라운드가 시작하기 전에 반드시 이 논쟁을 해결해야 한다.
+    - [2n3](https://www.worldcubeassociation.org/regulations/#2n3)) 선수는 WCA 파견위원의 최종 결정을 반드시 받아들여야 한다. 어길 시 벌칙: 대회 실격
 - [2s](https://www.worldcubeassociation.org/regulations/#2s)) WCA 규정 중 하나 이상에 의해 제한이 생길 수 있는 장애를 가지고 있는 선수들은 WCA 파견위원으로부터 특별한 기구를 요청할 수 있다. 이러한 것을 요청하는 선수는 운영진과 WCA 파견위원에게 연락을 최소 대회 2주 전에 해야 한다.
-    ◦ [2s1](https://www.worldcubeassociation.org/regulations/#2s1)) 규칙적인 대회 절차를 수행하는데 불가능한 선수는 특별한 기구를 요청할 수 있다. 이러한 경우는 WCA 규정위원회에게 사용 전 승인을 받아야 한다.
+    - [2s1](https://www.worldcubeassociation.org/regulations/#2s1)) 규칙적인 대회 절차를 수행하는데 불가능한 선수는 특별한 기구를 요청할 수 있다. 이러한 경우는 WCA 규정위원회에게 사용 전 승인을 받아야 한다.
 - [2t](https://www.worldcubeassociation.org/regulations/#2t)) 모든 선수는 대회 전에 WCA 규정을 반드시 인지하고 이해하고 있어야 한다.
 - [2u](https://www.worldcubeassociation.org/regulations/#2u)) 참가자는 자리에 있어야 하며 해당 시도를 측정하기 위해 불려지면 측정할 준비가 되어 있어야 한다. 어길 시 벌칙: 해당 종목의 실격.
-    ◦ [2u1](https://www.worldcubeassociation.org/regulations/#2u1)) 예외: 개인에게 개별적으로 배정된 시도때문에 자리에 없는 경우(예: 최소회전, 복수 눈 가리기 종목 중) WCA 파견위원의 재량에 따라 선수가 해당 시도를 하지 않은 것(DNS)으로 간주할 수 있다.
-    ◦ [2u2](https://www.worldcubeassociation.org/regulations/#2u2)) 예외: 누적 기록 제한이 있는 라운드에서, 늦게 도착한 선수는 WCA 파견위원의 재량에 따라 축소된 누적 기록 제한으로 기록을 측정할 수 있다.
+    - [2u1](https://www.worldcubeassociation.org/regulations/#2u1)) 예외: 개인에게 개별적으로 배정된 시도때문에 자리에 없는 경우(예: 최소회전, 복수 눈 가리기 종목 중) WCA 파견위원의 재량에 따라 선수가 해당 시도를 하지 않은 것(DNS)으로 간주할 수 있다.
+    - [2u2](https://www.worldcubeassociation.org/regulations/#2u2)) 예외: 누적 기록 제한이 있는 라운드에서, 늦게 도착한 선수는 WCA 파견위원의 재량에 따라 축소된 누적 기록 제한으로 기록을 측정할 수 있다.
 
-    # 제 3조 : 퍼즐
-
-[제 3조](https://www.worldcubeassociation.org/regulations/#article-3-puzzles)##: 퍼즐##
+    ## [제 3조](https://www.worldcubeassociation.org/regulations/#article-3-puzzles): 퍼즐
 - [3a](https://www.worldcubeassociation.org/regulations/#3a)) 참가자는 본인의 퍼즐을 대회에 반드시 제공해야 한다.
-    ◦ [3a1](https://www.worldcubeassociation.org/regulations/#3a1)) 참가자가 불려지면 반드시 퍼즐을 제출할 준비가 되어있어야 한다. ([규정 2u](https://www.worldcubeassociation.org/regulations/#2u) 참조).
-    ◦ [3a2](https://www.worldcubeassociation.org/regulations/#3a2)) 퍼즐은 반드시 완전히 작동되어야 하며, 이는 일반적인 스크램블이 가능해야 한다.
-    ◦ [3a3](https://www.worldcubeassociation.org/regulations/#3a3)) 다면체 퍼즐은 다 맞춰진 상태에서 반드시 한 면에 한 가지 색상만을 써야 한다. 각각의 퍼즐은 반드시 원래 퍼즐과 기능적으로 동일한 움직임, 상태, 그리고 해법을 가지고 있어야 한다.
-    ◦ [3a4](https://www.worldcubeassociation.org/regulations/#3a4)) 퍼즐은 전자부품을 절대로 포함해서는 안된다. (예: 블루투스 혹은 와이-파이 구성품, 모터, 센서, 조명) [규정 2i](https://www.worldcubeassociation.org/regulations/#2i) 참조.
+    - [3a1](https://www.worldcubeassociation.org/regulations/#3a1)) 참가자가 불려지면 반드시 퍼즐을 제출할 준비가 되어있어야 한다. ([규정 2u](https://www.worldcubeassociation.org/regulations/#2u) 참조).
+    - [3a2](https://www.worldcubeassociation.org/regulations/#3a2)) 퍼즐은 반드시 완전히 작동되어야 하며, 이는 일반적인 스크램블이 가능해야 한다.
+    - [3a3](https://www.worldcubeassociation.org/regulations/#3a3)) 다면체 퍼즐은 다 맞춰진 상태에서 반드시 한 면에 한 가지 색상만을 써야 한다. 각각의 퍼즐은 반드시 원래 퍼즐과 기능적으로 동일한 움직임, 상태, 그리고 해법을 가지고 있어야 한다.
+    - [3a4](https://www.worldcubeassociation.org/regulations/#3a4)) 퍼즐은 전자부품을 절대로 포함해서는 안된다. (예: 블루투스 혹은 와이-파이 구성품, 모터, 센서, 조명) [규정 2i](https://www.worldcubeassociation.org/regulations/#2i) 참조.
 - [3d](https://www.worldcubeassociation.org/regulations/#3d)) 퍼즐은 반드시 색상이 있는 조각을 포함해야 하며, 이것은 아래 중 하나만을 만족하는 색상 조합이어야 한다: 스티커, 색상 타일, 색상 플라스틱, 혹은 페인트칠이나 프린팅된 색상. 모든 색상 조각들은 반드시 비슷한 물질로 만들어져야 한다.
-    ◦ [3d1](https://www.worldcubeassociation.org/regulations/#3d1)) 명시된 시각 장애가 있는 선수들은 다음의 예외를 적용한다.:
+    - [3d1](https://www.worldcubeassociation.org/regulations/#3d1)) 명시된 시각 장애가 있는 선수들은 다음의 예외를 적용한다.:
         - [3d1a](https://www.worldcubeassociation.org/regulations/#3d1a)) 맹인 선수는 다른 면들에 다른 질감으로 이루어진 퍼즐을 사용할 수 있다. 각각의 면은 스크램블과 심판을 돕기 위해 확실한 색이 있는 것이 추천된다.
         - [3d1b](https://www.worldcubeassociation.org/regulations/#3d1b)) 필요한 수 이상의 색을 구별하지 못하는 색맹, 색약 선수는 패턴이 들어가 있는 색상 조각을 사용할 수 있으며, [규정 2s](https://www.worldcubeassociation.org/regulations/#2s)에 의해 분명히 허가된 것이어야 한다. 패턴은 스티커에 있거나 그려진 것일 수 있다.
-    ◦ [3d2](https://www.worldcubeassociation.org/regulations/#3d2)) 색상 조각의 색들은 반드시 확실해야 하며 이는 한 면에 동일한 색상이어야 한다. 각각의 색은 다른 색상과 분명히 구분되어야 한다.
+    - [3d2](https://www.worldcubeassociation.org/regulations/#3d2)) 색상 조각의 색들은 반드시 확실해야 하며 이는 한 면에 동일한 색상이어야 한다. 각각의 색은 다른 색상과 분명히 구분되어야 한다.
 - [3h](https://www.worldcubeassociation.org/regulations/#3h)) 퍼즐의 기본 개념을 강화시키는 개조는 허용되지 않는다. 개조되지 않은 것과 비교했을 때 선수에게 추가적인 정보(조각의 방향이나 확인)를 주지 않을 때에만 퍼즐의 개조형은 허용된다.
-    ◦ [3h1](https://www.worldcubeassociation.org/regulations/#3h1)) "필로우" 퍼즐은 허용된다.
-    ◦ [3h2](https://www.worldcubeassociation.org/regulations/#3h2)) 안쪽을 볼 수 있는 색상 플라스틱으로 이루어진 퍼즐(예: 자체 색 퍼즐)은 허용된다. 다음 퍼즐들은 이에 포함되지 않는다.:
+    - [3h1](https://www.worldcubeassociation.org/regulations/#3h1)) "필로우" 퍼즐은 허용된다.
+    - [3h2](https://www.worldcubeassociation.org/regulations/#3h2)) 안쪽을 볼 수 있는 색상 플라스틱으로 이루어진 퍼즐(예: 자체 색 퍼즐)은 허용된다. 다음 퍼즐들은 이에 포함되지 않는다.:
         - [3h2a](https://www.worldcubeassociation.org/regulations/#3h2a)) 퍼즐의 상태에 대해서 더 많은 정보를 노출시킬 수 있는 투명한 조각들로 이루어진 퍼즐. 예외: 덧붙이는 스티커 혹은 로고([규정 3l](https://www.worldcubeassociation.org/regulations/#3l) 참조).
-    ◦ [3h3](https://www.worldcubeassociation.org/regulations/#3h3)) 선수가 한 어떠한 개조의 저조한 성능으로 인한 기록은 추가 기회의 근거가 되지 않는다.
-    ◦ [3h4](https://www.worldcubeassociation.org/regulations/#3h4)) 클락 종목에서, 다음 개조들은 허용된다.:
+    - [3h3](https://www.worldcubeassociation.org/regulations/#3h3)) 선수가 한 어떠한 개조의 저조한 성능으로 인한 기록은 추가 기회의 근거가 되지 않는다.
+    - [3h4](https://www.worldcubeassociation.org/regulations/#3h4)) 클락 종목에서, 다음 개조들은 허용된다.:
         - [3h4a](https://www.worldcubeassociation.org/regulations/#3h4a)) WCA 파견위원의 재량에 따라 커스텀 "삽입"(원래 삽입되어 있는 것과 동일한 모양과 크기)은 허용되며 명확한 12시를 가리키고 있어야 한다.
         - [3h4b](https://www.worldcubeassociation.org/regulations/#3h4b)) WCA 파견위원의 재량에 따라 불공평한 이득을 주지 않는 퍼즐 디자인 변경은 허용된다. (예: 바둑판 패턴, 커스텀 디자인 된 면, 클락 한쪽에 테이프 붙이기)
         - [3h4c](https://www.worldcubeassociation.org/regulations/#3h4c)) WCA 파견위원의 재량에 따라 같은 쪽의 다른 핀들과 구별되는 핀 커스텀은 허용된다.
         - [3h4d](https://www.worldcubeassociation.org/regulations/#3h4d)) 안쪽 클락 면을 가리지 않는다는 조건 하에 로고는 퍼즐 어느 곳에 있어도 가능하다.
-    ◦ [3h5](https://www.worldcubeassociation.org/regulations/#3h5)) 클락 종목에서, 헐렁한 핀(직접 누르는 것 대신에 중력을 이용하여 딸깍거리거나 느슨해지는 핀)은 합당한 마모가 아니며, 이러한 퍼즐은 절대로 허용되어서는 안된다.
+    - [3h5](https://www.worldcubeassociation.org/regulations/#3h5)) 클락 종목에서, 헐렁한 핀(직접 누르는 것 대신에 중력을 이용하여 딸깍거리거나 느슨해지는 핀)은 합당한 마모가 아니며, 이러한 퍼즐은 절대로 허용되어서는 안된다.
 - [3j](https://www.worldcubeassociation.org/regulations/#3j)) 퍼즐은 반드시 깨끗해야 하며, 어떠한 마킹, 단차, 파손 등 비슷한 조각과 확연하게 구별할 수 있을 정도의 차이를 절대로 가져선 안된다. 예외: 로고([규정 3l](https://www.worldcubeassociation.org/regulations/#3l) 참조).
-    ◦ [3j1](https://www.worldcubeassociation.org/regulations/#3j1)) WCA 파견위원의 재량에 따라 합당한 마모가 있는 퍼즐은 허용된다.
+    - [3j1](https://www.worldcubeassociation.org/regulations/#3j1)) WCA 파견위원의 재량에 따라 합당한 마모가 있는 퍼즐은 허용된다.
         - [3j1a](https://www.worldcubeassociation.org/regulations/#3j1a)) 퍼즐의 상태(예: 특정 조각의 위치)에 대해서 확실한 추가 정보를 주지 않는다고 판단될 때만 합당한 마모라고 여겨진다.
-    ◦ [3j2](https://www.worldcubeassociation.org/regulations/#3j2)) 정의 : 두 조각이 같은 크기와 더불어 같은 모양 혹은 대칭 모양이라면 그 두 조각들은 서로 비슷하다고 정의한다.
-    ◦ [3j3](https://www.worldcubeassociation.org/regulations/#3j3)) 촉감으로 조각의 방향을 구별할 수 있는 물결 무늬 혹은 질감이 있는 조각을 포함하는 퍼즐은 눈 가리기 종목에서 허용되지 않는다.
+    - [3j2](https://www.worldcubeassociation.org/regulations/#3j2)) 정의 : 두 조각이 같은 크기와 더불어 같은 모양 혹은 대칭 모양이라면 그 두 조각들은 서로 비슷하다고 정의한다.
+    - [3j3](https://www.worldcubeassociation.org/regulations/#3j3)) 촉감으로 조각의 방향을 구별할 수 있는 물결 무늬 혹은 질감이 있는 조각을 포함하는 퍼즐은 눈 가리기 종목에서 허용되지 않는다.
 - [3k](https://www.worldcubeassociation.org/regulations/#3k)) 대회에서 사용되기 전 퍼즐은 WCA 파견위원에 의해 허가를 받아야 한다.
-    ◦ [3k1](https://www.worldcubeassociation.org/regulations/#3k1)) 라운드 진행 중에 허가받지 않은 퍼즐이 발견된 경우, 해당 참가자는 이 퍼즐을 더 이상 사용이 불가하며, 반드시 대체품을 제출해야 한다.
-    ◦ [3k2](https://www.worldcubeassociation.org/regulations/#3k2)) 허가되지 않은 퍼즐로 완료된 시도의 벌칙 : 해당 시도 실격 (DNF) 다음과 같은 예외가 적용된다.:
+    - [3k1](https://www.worldcubeassociation.org/regulations/#3k1)) 라운드 진행 중에 허가받지 않은 퍼즐이 발견된 경우, 해당 참가자는 이 퍼즐을 더 이상 사용이 불가하며, 반드시 대체품을 제출해야 한다.
+    - [3k2](https://www.worldcubeassociation.org/regulations/#3k2)) 허가되지 않은 퍼즐로 완료된 시도의 벌칙 : 해당 시도 실격 (DNF) 다음과 같은 예외가 적용된다.:
         - [3k2a](https://www.worldcubeassociation.org/regulations/#3k2a)) 라운드가 끝나기 전 허가되지 않은 퍼즐이 발견된 경우, WCA 파견위원의 재량에 따라 영향 받는 기록들을 엑스트라 시도로 대체할 수 있다.
         - [3k2b](https://www.worldcubeassociation.org/regulations/#3k2b)) 3x3x3 복수 눈 가리기: 허가되지 않은 퍼즐이 발견된 경우, WCA 파견위원의 재량에 따라 해당 시도를 실격시키는 것이 아닌 다 맞추지 못한 퍼즐에 포함하여 셀 수 있다.
 - [3l](https://www.worldcubeassociation.org/regulations/#3l)) 퍼즐은 하나 이상의 로고를 부착할 수 있으며 이때 붙여지는 조각은 반드시 한 조각이어야 한다. 예외: 눈 가리고 맞추기 종목에서 퍼즐은 절대로 로고가 있으면 안된다.
-    ◦ [3l1](https://www.worldcubeassociation.org/regulations/#3l1)) 로고는 반드시 센터 조각에 있어야 한다. 센터 조각이 없는 퍼즐에 대한 예외:
+    - [3l1](https://www.worldcubeassociation.org/regulations/#3l1)) 로고는 반드시 센터 조각에 있어야 한다. 센터 조각이 없는 퍼즐에 대한 예외:
         - [3l1a](https://www.worldcubeassociation.org/regulations/#3l1a)) 피라밍크스와 2x2x2 종목에서, 로고는 어느 조각에 있어도 가능하다.
         - [3l1b](https://www.worldcubeassociation.org/regulations/#3l1b)) 스퀘어-1 종목에서, 로고는 반드시 중앙을 가로지르는 조각에 있어야 한다.
-    ◦ [3l2](https://www.worldcubeassociation.org/regulations/#3l2)) 로고는 음각, 양각, 덧붙이는 스티커의 부분일 수 있다.
+    - [3l2](https://www.worldcubeassociation.org/regulations/#3l2)) 로고는 음각, 양각, 덧붙이는 스티커의 부분일 수 있다.
 - [3m](https://www.worldcubeassociation.org/regulations/#3m)) 위 WCA 규정을 모두 만족하는 퍼즐인 경우, 모든 브랜드의 퍼즐 및 조각들은 허용된다.
 
-# 제 4조 : 스크램블
-
-## [제 4조](https://www.worldcubeassociation.org/regulations/#article-4-scrambling)##: 스크램블##
+## [제 4조](https://www.worldcubeassociation.org/regulations/#article-4-scrambling): 스크램블
 
 - [4a](https://www.worldcubeassociation.org/regulations/#4a)) 스크램블러는 스크램블 공식을 퍼즐에 적용한다.
 - [4b](https://www.worldcubeassociation.org/regulations/#4b)) 퍼즐은 반드시 컴퓨터로 생성된 랜덤 스크램블 공식으로 섞여야 합니다.
@@ -191,136 +184,126 @@ WCA 규정과 권장 사항의 변천은 [GitHub](https://github.com/thewca/wca-
         - [4g1b](https://www.worldcubeassociation.org/regulations/#4g1b)) 5x5x5 큐브 종목에서, 스크램블러는 퍼즐 상태를 정정해야 한다. 만약 정정을 하는데 심각한 일정의 영향을 끼친다면 WCA 파견위원의 재량에 따라 퍼즐의 상태를 정정하지 않아도 된다.
     - [4g2](https://www.worldcubeassociation.org/regulations/#4g2)) 복수 눈 가리기 종목에서, 스크램블을 모두 마친 후, 스크램블러는 반드시 중복되는 스크램블이 없는지 확인해야 한다.
 
-    # 제 5조 : 퍼즐 파손
-
-[제 5조](https://www.worldcubeassociation.org/regulations/#article-5-puzzle-defects)##: 퍼즐 파손##
+    ## [제 5조](https://www.worldcubeassociation.org/regulations/#article-5-puzzle-defects): 퍼즐 파손
 - [5a](https://www.worldcubeassociation.org/regulations/#5a)) 퍼즐 파손의 예시는 다음을 포함한다.: 튀어나온 조각, 제자리에서 돌아간 조각, 빠진 나사/캡/스티커
 - [5b](https://www.worldcubeassociation.org/regulations/#5b)) 퍼즐 파손이 시도 중에 발생하면, 선수는 그 파손을 수리하고 시도를 이어나갈지, 멈출지 고를 수 있다.
-    ◦ [5b1](https://www.worldcubeassociation.org/regulations/#5b1)) 선수가 수리하기로 했다면, 파손된 조각만을 고쳐야 한다. 도구나 다른 퍼즐의 조각은 절대로 사용될 수 없다. 어길 시 벌칙: 해당 시도 실격 (DNF)
-    ◦ [5b2](https://www.worldcubeassociation.org/regulations/#5b2)) 어떠한 수리도 참가자에게 이득을 주어서는 안된다. 어길 시 벌칙: 해당 시도 실격 (DNF)
-    ◦ [5b3](https://www.worldcubeassociation.org/regulations/#5b3)) 허용된 수리:
+    - [5b1](https://www.worldcubeassociation.org/regulations/#5b1)) 선수가 수리하기로 했다면, 파손된 조각만을 고쳐야 한다. 도구나 다른 퍼즐의 조각은 절대로 사용될 수 없다. 어길 시 벌칙: 해당 시도 실격 (DNF)
+    - [5b2](https://www.worldcubeassociation.org/regulations/#5b2)) 어떠한 수리도 참가자에게 이득을 주어서는 안된다. 어길 시 벌칙: 해당 시도 실격 (DNF)
+    - [5b3](https://www.worldcubeassociation.org/regulations/#5b3)) 허용된 수리:
         - [5b3a](https://www.worldcubeassociation.org/regulations/#5b3a)) 어떤 조각이 떨어졌거나 다른 위치로 갔을 경우, 선수는 되돌릴 수 있다.
         - [5b3b](https://www.worldcubeassociation.org/regulations/#5b3b)) 선수가 퍼즐을 고쳤으나 솔빙 도중 완전히 맞출 수 없는 상태인 것을 발견했을 때, 맞출 수 있는 상태로 만들기 위해 최대 4 조각까지 분해했다가 재조립할 수 있다.
         - [5b3c](https://www.worldcubeassociation.org/regulations/#5b3c)) 만약 퍼즐이 맞출 수 없는 상태이면서, 코너 조각 한 개를 돌려서 해결할 수 있다면, 선수는 분해 없이 코너 조각 한 개를 돌려서 상태를 되돌릴 수 있다.
-    ◦ [5b4](https://www.worldcubeassociation.org/regulations/#5b4)) 눈 가리고 맞추기 단계에서([규정 B4](https://www.worldcubeassociation.org/regulations/#B4) 참조), 모든 수리는 반드시 눈을 가린 상태에서 진행되어야 한다. 어길 시 벌칙: 해당 시도 실격 (DNF)
-    ◦ [5b5](https://www.worldcubeassociation.org/regulations/#5b5)) 측정을 마친 뒤에 퍼즐의 어느 조각이 물리적으로 떨어져 있거나 완전히 제자리에 있지 않다면, 다음과 같은 규정을 적용한다.:
+    - [5b4](https://www.worldcubeassociation.org/regulations/#5b4)) 눈 가리고 맞추기 단계에서([규정 B4](https://www.worldcubeassociation.org/regulations/#B4) 참조), 모든 수리는 반드시 눈을 가린 상태에서 진행되어야 한다. 어길 시 벌칙: 해당 시도 실격 (DNF)
+    - [5b5](https://www.worldcubeassociation.org/regulations/#5b5)) 측정을 마친 뒤에 퍼즐의 어느 조각이 물리적으로 떨어져 있거나 완전히 제자리에 있지 않다면, 다음과 같은 규정을 적용한다.:
         - [5b5a](https://www.worldcubeassociation.org/regulations/#5b5a)) 색이 있는 면에 영향을 주지 않는 하나 혹은 그 이상의 조각이라면 그 퍼즐은 맞춰져 있다고 간주한다.
         - [5b5b](https://www.worldcubeassociation.org/regulations/#5b5b)) 한 가지 색이 있는 면의 한 조각이라면, 그 퍼즐은 맞춰져 있다고 간주한다.
         - [5b5c](https://www.worldcubeassociation.org/regulations/#5b5c)) 한 가지 색이 있는 면의 두 조각 이상이라면, 그 퍼즐은 맞춰지지 않았다고 간주한다. (DNF)
         - [5b5d](https://www.worldcubeassociation.org/regulations/#5b5d)) 두 가지 색 이상이 있는 면의 하나 이상의 조각이라면, 그 퍼즐은 맞춰지지 않았다고 간주한다. (DNF)
         - [5b5e](https://www.worldcubeassociation.org/regulations/#5b5e)) 규정 [5b5c](https://www.worldcubeassociation.org/regulations/#5b5c)와 [5b5d](https://www.worldcubeassociation.org/regulations/#5b5d)는 [5b5a](https://www.worldcubeassociation.org/regulations/#5b5a)와 [5b5b](https://www.worldcubeassociation.org/regulations/#5b5b)보다 우선순위로 적용된다.
         - [5b5f](https://www.worldcubeassociation.org/regulations/#5b5f)) 만약 조각이 부분적으로 떨어져 있거나 완전히 위치한 게 아니라면, 최종 위치는 현재 퍼즐의 상태를 고려하여 퍼즐 작동 방식에 한하여 영향을 받는 조각과 가장 가까운 위치로 결정된다. 만약 이 위치가 맞춰진 상태로 만든다면, 해당 조각은 퍼즐 파손이라고 간주되지 않는다.
-    ◦ [5b6](https://www.worldcubeassociation.org/regulations/#5b6)) 정의 : 조각은 퍼즐을 작동할 때 서로 움직이지 않는 퍼즐 구성의 그룹으로부터 하나 또는 그 이상에게 완전히 연결되어 있는 구성품이다. (예: 3x3x3 센터 캡, 피라밍크스 팁, 한 면이 없는 3x3x3 코서 조각, 3x3x3 코너 조각의 한 면)
+    - [5b6](https://www.worldcubeassociation.org/regulations/#5b6)) 정의 : 조각은 퍼즐을 작동할 때 서로 움직이지 않는 퍼즐 구성의 그룹으로부터 하나 또는 그 이상에게 완전히 연결되어 있는 구성품이다. (예: 3x3x3 센터 캡, 피라밍크스 팁, 한 면이 없는 3x3x3 코서 조각, 3x3x3 코너 조각의 한 면)
 
-    # 제 7조 환경
-
-[제 7조](https://www.worldcubeassociation.org/regulations/#article-7-environment)##: 환경##
+    ## [제 7조](https://www.worldcubeassociation.org/regulations/#article-7-environment): 환경
 - [7b](https://www.worldcubeassociation.org/regulations/#7b)) 관중은 반드시 측정하는 공간과 최소 1.5m 이상 떨어져 있어야 한다.
 - [7c](https://www.worldcubeassociation.org/regulations/#7c)) 대회 장소의 조명은 특별한 주의가 필요하다. 조명은 선수들이 쉽게 색을 구분할 수 있는 백색 조명이어야 한다.
 - [7e](https://www.worldcubeassociation.org/regulations/#7e)) 대회장소는 반드시 금연 구역이어야 한다.
 - [7f](https://www.worldcubeassociation.org/regulations/#7f)) 측정 장소:
-    ◦ [7f1](https://www.worldcubeassociation.org/regulations/#7f1)) 정의:
+    - [7f1](https://www.worldcubeassociation.org/regulations/#7f1)) 정의:
         - [7f1a](https://www.worldcubeassociation.org/regulations/#7f1a)) 스택매트: 스피드 스택매트 타이머와 풀 사이즈 매트. Gen3, Gen4, Gen5 타이머가 사용되어야 한다.
         - [7f1b](https://www.worldcubeassociation.org/regulations/#7f1b)) 매트: 스택매트의 매트.
         - [7f1c](https://www.worldcubeassociation.org/regulations/#7f1c)) 타이머: 스택매트의 타이머, 혹은 스톱워치(긴 종목)
         - [7f1d](https://www.worldcubeassociation.org/regulations/#7f1d)) 표면: 스택매트가 설치된 평평한 표면. 타이머는 표면의 일부로 간주되지 않는다.
-    ◦ [7f2](https://www.worldcubeassociation.org/regulations/#7f2)) 스택매트 타이머는 표면에 설치된 매트와 반드시 붙어있어야 하고, 타이머 쪽이 선수에게 가장 가까운 쪽이 되게 해야 한다.
-    ◦ [7f3](https://www.worldcubeassociation.org/regulations/#7f3)) 운영진은  우연히 눌리기 어렵게 버튼을 만들거나(예: 버튼에 O링 부착) 배터리를 더 확실하게(배터리 칸을 덧붙이기) 하면서 일반적인 사고에 더 튼튼하게 하도록 개조할 수 있다.
-    ◦ [7f4](https://www.worldcubeassociation.org/regulations/#7f4)) Gen5 프로 타이머는 반드시 2-pad 모드로 사용되어야 한다.
+    - [7f2](https://www.worldcubeassociation.org/regulations/#7f2)) 스택매트 타이머는 표면에 설치된 매트와 반드시 붙어있어야 하고, 타이머 쪽이 선수에게 가장 가까운 쪽이 되게 해야 한다.
+    - [7f3](https://www.worldcubeassociation.org/regulations/#7f3)) 운영진은  우연히 눌리기 어렵게 버튼을 만들거나(예: 버튼에 O링 부착) 배터리를 더 확실하게(배터리 칸을 덧붙이기) 하면서 일반적인 사고에 더 튼튼하게 하도록 개조할 수 있다.
+    - [7f4](https://www.worldcubeassociation.org/regulations/#7f4)) Gen5 프로 타이머는 반드시 2-pad 모드로 사용되어야 한다.
 - [7h](https://www.worldcubeassociation.org/regulations/#7h)) 대회 장소는 하나 이상의 선수 대기석이 있어야 한다.
-    ◦ [7h1](https://www.worldcubeassociation.org/regulations/#7h1)) 운영진은 선수가 해당 라운드의 모든 시도를 끝낼 때까지 선수 대기석에 남아있을 것을 요구할 수 있다.
-    ◦ [7h2](https://www.worldcubeassociation.org/regulations/#7h2)) 정의: 선수 대기석은 측정석으로 가기 위해 불려질 때를 대비하여 선수가 있어야 할 장소다.
+    - [7h1](https://www.worldcubeassociation.org/regulations/#7h1)) 운영진은 선수가 해당 라운드의 모든 시도를 끝낼 때까지 선수 대기석에 남아있을 것을 요구할 수 있다.
+    - [7h2](https://www.worldcubeassociation.org/regulations/#7h2)) 정의: 선수 대기석은 측정석으로 가기 위해 불려질 때를 대비하여 선수가 있어야 할 장소다.
 
-    # 제 9조 : 종목
-
-####[제 9조](https://www.worldcubeassociation.org/regulations/#article-9-events)##: 종목##
+    ## [제 9조](https://www.worldcubeassociation.org/regulations/#article-9-events): 종목
 - [9a](https://www.worldcubeassociation.org/regulations/#9a)) WCA는 “트위스티 퍼즐”이라고 알려진 퍼즐들에 대한 대회를 주관한다.
 - [9b](https://www.worldcubeassociation.org/regulations/#9b)) WCA의 공인 종목과 형식들:
-    ◦ [9b1](https://www.worldcubeassociation.org/regulations/#9b1)) 3x3x3 큐브, 2x2x2 큐브, 4x4x4 큐브, 5x5x5 큐브, 3x3x3 한 손, 클락, 메가밍크스, 피라밍크스, 스큐브, 그리고 스퀘어-1.
+    - [9b1](https://www.worldcubeassociation.org/regulations/#9b1)) 3x3x3 큐브, 2x2x2 큐브, 4x4x4 큐브, 5x5x5 큐브, 3x3x3 한 손, 클락, 메가밍크스, 피라밍크스, 스큐브, 그리고 스퀘어-1.
         - [9b1a](https://www.worldcubeassociation.org/regulations/#9b1a)) 라운드 형식: "5회 평균"
         - [9b1b](https://www.worldcubeassociation.org/regulations/#9b1b)) 컷오프 형식: "2회 최고"  / "5회 평균"
-    ◦ [9b2](https://www.worldcubeassociation.org/regulations/#9b2)) 6x6x6 큐브와 7x7x7 큐브.
+    - [9b2](https://www.worldcubeassociation.org/regulations/#9b2)) 6x6x6 큐브와 7x7x7 큐브.
         - [9b2a](https://www.worldcubeassociation.org/regulations/#9b2a)) 라운드 형식: "3회 평균".
         - [9b2b](https://www.worldcubeassociation.org/regulations/#9b2b)) 컷오프 형식: "1회 최고"  / "3회 평균"
-    ◦ [9b3](https://www.worldcubeassociation.org/regulations/#9b3)) 3x3x3 눈 가리기, 4x4x4 눈 가리기, 5x5x5 눈 가리기.
+    - [9b3](https://www.worldcubeassociation.org/regulations/#9b3)) 3x3x3 눈 가리기, 4x4x4 눈 가리기, 5x5x5 눈 가리기.
         - [9b3a](https://www.worldcubeassociation.org/regulations/#9b3a)) 라운드 형식: "3회 최고".
         - [9b3b](https://www.worldcubeassociation.org/regulations/#9b3b)) 이 종목들에서, WCA는 “3회 최고” 기록들을 기반으로 한 “3회 평균” 순위와 기록도 제공한다.
-    ◦ [9b4](https://www.worldcubeassociation.org/regulations/#9b4)) 최소회전.
+    - [9b4](https://www.worldcubeassociation.org/regulations/#9b4)) 최소회전.
         - [9b4a](https://www.worldcubeassociation.org/regulations/#9b4a)) 라운드 형식: "X회 최고" (X는 1 또는 2) 혹은 "3회 평균"
         - [9b4b](https://www.worldcubeassociation.org/regulations/#9b4b)) 컷오프 형식: "1회 최고" / ”2회 최고” 혹은 “X회 최고” (X는 1 또는 2) / “3회 평균”
-    ◦ [9b5](https://www.worldcubeassociation.org/regulations/#9b5)) 3x3x3 복수 눈 가리기.
+    - [9b5](https://www.worldcubeassociation.org/regulations/#9b5)) 3x3x3 복수 눈 가리기.
         - [9b5a](https://www.worldcubeassociation.org/regulations/#9b5a)) 라운드 형식: "X회 최고" (X는 1 또는 2 또는 3)
         - [9b5b](https://www.worldcubeassociation.org/regulations/#9b5b)) 컷오프 형식: "X회 최고" (X는 1 또는 2) / "Y회 최고" (Y는 2 또는 3이며 Y > X)
 - [9f](https://www.worldcubeassociation.org/regulations/#9f)) 라운드의 결과는 다음과 같은 방식으로 기록된다.:
-    ◦ [9f1](https://www.worldcubeassociation.org/regulations/#9f1)) 3x3x3 복수 눈 가리기 종목을 제외하고 모든 시간 기록 종목은 10분 이내, 소수점 두 번째 자리까지 기록된다. 모든 10분 이내의 평균은 소수점 두 번째 자리까지 반올림하여 기록된다.
-    ◦ [9f2](https://www.worldcubeassociation.org/regulations/#9f2)) 3x3x3 복수 눈 가리기 종목과 같이 모든 10분을 넘어간 기록, 평균은 초까지 반올림하여 기록된다.(예: X.49 → X, X.50 → X+1).
-    ◦ [9f4](https://www.worldcubeassociation.org/regulations/#9f4)) 해당 시도가 실격 혹은 맞춰지지 않은 상태로 끝났다면 그 기록은 DNF(Did Not Finish)으로 기록된다.
+    - [9f1](https://www.worldcubeassociation.org/regulations/#9f1)) 3x3x3 복수 눈 가리기 종목을 제외하고 모든 시간 기록 종목은 10분 이내, 소수점 두 번째 자리까지 기록된다. 모든 10분 이내의 평균은 소수점 두 번째 자리까지 반올림하여 기록된다.
+    - [9f2](https://www.worldcubeassociation.org/regulations/#9f2)) 3x3x3 복수 눈 가리기 종목과 같이 모든 10분을 넘어간 기록, 평균은 초까지 반올림하여 기록된다.(예: X.49 → X, X.50 → X+1).
+    - [9f4](https://www.worldcubeassociation.org/regulations/#9f4)) 해당 시도가 실격 혹은 맞춰지지 않은 상태로 끝났다면 그 기록은 DNF(Did Not Finish)으로 기록된다.
         - [9f4a](https://www.worldcubeassociation.org/regulations/#9f4a)) 시도가 확실히 실격될 정도로 선수가 규정을 어겼을 시, 심판은 즉시 그 시도를 멈춰야 한다. 심판이 불확실하거나 논쟁이 지장을 줄 수 있다면,(예: 엑스트라 시도가 대회를 지연시킴) 심판은 WCA 파견위원에게 상담해야 한다.
-    ◦ [9f5](https://www.worldcubeassociation.org/regulations/#9f5)) 선수가 시도를 시작할 수 있지만 거부했을 때 해당 기록은 DNS (Did Not Start)로 기록된다.
-    ◦ [9f6](https://www.worldcubeassociation.org/regulations/#9f6)) "X회 최고" 라운드에서, 각각의 참가자들은 X회의 시도를 할당 받는다. 라운드에서 최고 기록이 참가자의 해당 라운드 순위를 결정한다.
-    ◦ [9f7](https://www.worldcubeassociation.org/regulations/#9f7)) "X회 최고" 라운드에서,  DNF나 DNS는 최저 기록이다.
-    ◦ [9f8](https://www.worldcubeassociation.org/regulations/#9f8)) "5회 평균" 라운드에서, 참가자들은 5회의 시도를 할당 받는다. 5회의 시도 중에서, 최고 기록, 최저 기록은 제외되며, 남은 3회의 산술 평균이 그 선수의 해당 라운드 순위를 결정한다.
-    ◦ [9f9](https://www.worldcubeassociation.org/regulations/#9f9)) "5회 평균" 라운드에서, 하나의 DNF 또는 DNS는 참가자의 해당 라운드 최저 기록으로 인정된다. 참가자가 하나 이상의 DNF 그리고/혹은 DNS기록이 있다면, 그 선수의 해당 라운드 평균 기록은 DNF이다.
-    ◦ [9f10](https://www.worldcubeassociation.org/regulations/#9f10)) "3회 평균" 라운드에서, 참가자들은 3회의 시도를 할당 받는다. 3회의 산술 평균이 그 선수의 해당 라운드 순위를 결정한다.
-    ◦ [9f11](https://www.worldcubeassociation.org/regulations/#9f11)) "3회 평균" 라운드에서, 참가자가 최소 한 개 이상의 DNF 혹은 DNS 기록을 받았다면, 그 선수의 해당 라운드의 평균은 DNF이다.
-    ◦ [9f12](https://www.worldcubeassociation.org/regulations/#9f12)) "3회 최고" 라운드에서, 순위는 선수의 최고 기록을 기반으로 정렬된다. 다음 항목이 기록을 비교하는데 적용된다.:
+    - [9f5](https://www.worldcubeassociation.org/regulations/#9f5)) 선수가 시도를 시작할 수 있지만 거부했을 때 해당 기록은 DNS (Did Not Start)로 기록된다.
+    - [9f6](https://www.worldcubeassociation.org/regulations/#9f6)) "X회 최고" 라운드에서, 각각의 참가자들은 X회의 시도를 할당 받는다. 라운드에서 최고 기록이 참가자의 해당 라운드 순위를 결정한다.
+    - [9f7](https://www.worldcubeassociation.org/regulations/#9f7)) "X회 최고" 라운드에서,  DNF나 DNS는 최저 기록이다.
+    - [9f8](https://www.worldcubeassociation.org/regulations/#9f8)) "5회 평균" 라운드에서, 참가자들은 5회의 시도를 할당 받는다. 5회의 시도 중에서, 최고 기록, 최저 기록은 제외되며, 남은 3회의 산술 평균이 그 선수의 해당 라운드 순위를 결정한다.
+    - [9f9](https://www.worldcubeassociation.org/regulations/#9f9)) "5회 평균" 라운드에서, 하나의 DNF 또는 DNS는 참가자의 해당 라운드 최저 기록으로 인정된다. 참가자가 하나 이상의 DNF 그리고/혹은 DNS기록이 있다면, 그 선수의 해당 라운드 평균 기록은 DNF이다.
+    - [9f10](https://www.worldcubeassociation.org/regulations/#9f10)) "3회 평균" 라운드에서, 참가자들은 3회의 시도를 할당 받는다. 3회의 산술 평균이 그 선수의 해당 라운드 순위를 결정한다.
+    - [9f11](https://www.worldcubeassociation.org/regulations/#9f11)) "3회 평균" 라운드에서, 참가자가 최소 한 개 이상의 DNF 혹은 DNS 기록을 받았다면, 그 선수의 해당 라운드의 평균은 DNF이다.
+    - [9f12](https://www.worldcubeassociation.org/regulations/#9f12)) "3회 최고" 라운드에서, 순위는 선수의 최고 기록을 기반으로 정렬된다. 다음 항목이 기록을 비교하는데 적용된다.:
         - [9f12a](https://www.worldcubeassociation.org/regulations/#9f12a)) 시간 기록에서, "더 좋은 기록"은 더 짧은 시간을 의미한다.
         - [9f12b](https://www.worldcubeassociation.org/regulations/#9f12b)) 최소회전 종목에서, "더 좋은 기록"은 더 짧은 해답 길이를 의미한다.
         - [9f12c](https://www.worldcubeassociation.org/regulations/#9f12c)) 3x3x3 복수 눈 가리기 종목에서, 순위는 맞춘 퍼즐의 수에서 못 맞춘 퍼즐의 수를 뺀 기록을 기반하여 정렬되며, 숫자가 클수록 더 좋은 기록이다. 만약 그 차이가 0보다 작거나, 혹은 단 하나의 퍼즐만 맞춰져 있을 경우, 해당 시도는 맞추지 않은 것으로 간주(DNF)한다. 선수들이 같은 기록을 얻었다면, 순위는 전체 시간을 기반하여 정렬하고, 짧은 시간이 더 좋은 기록이다. 선수들이 같은 기록과 같은 시간까지 기록했을 경우, 맞추지 못한 퍼즐의 수를 기반하여 정렬하고, 그 수가 적을수록 더 좋은 기록이다.
-    ◦ [9f13](https://www.worldcubeassociation.org/regulations/#9f13)) "3회 평균"과 "5회 평균” 라운드에서, 순위는 선수들의 평균을 기반하여 정렬되고, “더 좋은 기록”은 더 작은 기록 값을 의미한다.
-    ◦ [9f14](https://www.worldcubeassociation.org/regulations/#9f14)) "3회 평균"과 "5회 평균” 라운드에서, 둘 이상의 선수가 같은 평균을 기록했다면 순위는 각각의 선수의 최고 기록을 기반하여 정렬하고, “더 좋은 기록”은 더 작은 기록 값을 의미한다.
-    ◦ [9f15](https://www.worldcubeassociation.org/regulations/#9f15)) 같은 기록을 얻었을 경우 같은 순위를 부여한다.
+    - [9f13](https://www.worldcubeassociation.org/regulations/#9f13)) "3회 평균"과 "5회 평균” 라운드에서, 순위는 선수들의 평균을 기반하여 정렬되고, “더 좋은 기록”은 더 작은 기록 값을 의미한다.
+    - [9f14](https://www.worldcubeassociation.org/regulations/#9f14)) "3회 평균"과 "5회 평균” 라운드에서, 둘 이상의 선수가 같은 평균을 기록했다면 순위는 각각의 선수의 최고 기록을 기반하여 정렬하고, “더 좋은 기록”은 더 작은 기록 값을 의미한다.
+    - [9f15](https://www.worldcubeassociation.org/regulations/#9f15)) 같은 기록을 얻었을 경우 같은 순위를 부여한다.
 - [9g](https://www.worldcubeassociation.org/regulations/#9g)) "X회 최고" 형식의 컷오프 라운드는 컷오프 요구 사항이 존재한다. (예: "2회 최고" 2분 컷오프). 컷오프 기회에서 최소 한 번 이상 컷오프를 만족했다면, 나머지 시도를 시작할 권리가 있다. 컷오프 기회에서의 시도는 풀 라운드 형식의 부분이다.
 - [9i](https://www.worldcubeassociation.org/regulations/#9i)) 공식 WCA 대회의 기록은 WCA 세계 랭킹에 올라간다.
-    ◦ [9i1](https://www.worldcubeassociation.org/regulations/#9i1)) WCA는 다음의 지역 기록을 제공한다.: 국가 기록, 대륙 기록, 세계 기록
-    ◦ [9i2](https://www.worldcubeassociation.org/regulations/#9i2)) 라운드의 모든 기록은 마지막 라운드가 열린 날에 한 것으로 간주한다. 지역 기록이 같은 날에 여러 번 갱신된 경우, 최고 기록만이 지역 기록을 갱신한 것으로 간주된다.
-    ◦ [9i3](https://www.worldcubeassociation.org/regulations/#9i3)) 종목에 대한 WCA 규정이 변경됐을 경우 남아있는 지역 기록은 새로운 WCA 규정으로 갱신된 기록이 나오기 전까지 유효하다.
+    - [9i1](https://www.worldcubeassociation.org/regulations/#9i1)) WCA는 다음의 지역 기록을 제공한다.: 국가 기록, 대륙 기록, 세계 기록
+    - [9i2](https://www.worldcubeassociation.org/regulations/#9i2)) 라운드의 모든 기록은 마지막 라운드가 열린 날에 한 것으로 간주한다. 지역 기록이 같은 날에 여러 번 갱신된 경우, 최고 기록만이 지역 기록을 갱신한 것으로 간주된다.
+    - [9i3](https://www.worldcubeassociation.org/regulations/#9i3)) 종목에 대한 WCA 규정이 변경됐을 경우 남아있는 지역 기록은 새로운 WCA 규정으로 갱신된 기록이 나오기 전까지 유효하다.
 - [9j](https://www.worldcubeassociation.org/regulations/#9j)) 각 종목은 대회 당 최대 한 번 열려야 한다.
 - [9k](https://www.worldcubeassociation.org/regulations/#9k)) 모든 선수는 대회의 모든 종목에 참가할 수 있지만 몇몇 상황은 WCAT에 의해 승인되어야 한다.
 - [9l](https://www.worldcubeassociation.org/regulations/#9l)) 같은 종목의 후속 라운드가 시작하기 전에 전 라운드가 반드시 마무리되어야 한다. 예외: 최초로 무효된 시도를 대체하기 위해 대회 도중 엑스트라 시도가 부여될 수 있다.
 - [9m](https://www.worldcubeassociation.org/regulations/#9m)) 각 종목은 최대 4라운드까지 가능하다.
-    ◦ [9m1](https://www.worldcubeassociation.org/regulations/#9m1)) 99명 이하의 선수가 참가한 라운드 : 3라운드
-    ◦ [9m2](https://www.worldcubeassociation.org/regulations/#9m2)) 15명 이하의 선수가 참가한 라운드 : 2라운드
-    ◦ [9m3](https://www.worldcubeassociation.org/regulations/#9m3)) 7명 이하의 선수가 참가한 라운드 : 1라운드
+    - [9m1](https://www.worldcubeassociation.org/regulations/#9m1)) 99명 이하의 선수가 참가한 라운드 : 3라운드
+    - [9m2](https://www.worldcubeassociation.org/regulations/#9m2)) 15명 이하의 선수가 참가한 라운드 : 2라운드
+    - [9m3](https://www.worldcubeassociation.org/regulations/#9m3)) 7명 이하의 선수가 참가한 라운드 : 1라운드
 - [9o](https://www.worldcubeassociation.org/regulations/#9o)) 라운드의 수를 셀 때 컷오프 라운드 또한 하나의 라운드로 생각한다.
 - [9p](https://www.worldcubeassociation.org/regulations/#9p)) 다수의 라운드가 있을 때:
-    ◦ [9p1](https://www.worldcubeassociation.org/regulations/#9p1)) 최소 25%의 참가자가 후속 라운드에 반드시 탈락한다.
-    ◦ [9p2](https://www.worldcubeassociation.org/regulations/#9p2)) 후속 라운드에 진출한 선수는 순위(상위 X등) 혹은 기록(X보다 좋은 기록)으로 결정되야 한다.
+    - [9p1](https://www.worldcubeassociation.org/regulations/#9p1)) 최소 25%의 참가자가 후속 라운드에 반드시 탈락한다.
+    - [9p2](https://www.worldcubeassociation.org/regulations/#9p2)) 후속 라운드에 진출한 선수는 순위(상위 X등) 혹은 기록(X보다 좋은 기록)으로 결정되야 한다.
         - [9p2a](https://www.worldcubeassociation.org/regulations/#9p2a)) 각각 라운드에서, 진출 조건은 반드시 라운드 시작 전에 발표되어야 하며, 시작하고 나서 변경해서는 안된다. 이러한 변경은 반드시 WCA 파견위원의 재량으로 결정되어야 하며, WCA 파견위원은 변경시 공정성에 반드시 충분히 생각해야 한다.
-    ◦ [9p3](https://www.worldcubeassociation.org/regulations/#9p3)) 진출 선수가 해당 라운드 진출을 거부한다면, 그 자리는 진출하지 못한 선수 중 가장 기록이 높은 순위 선수로 대체될 수 있다.
+    - [9p3](https://www.worldcubeassociation.org/regulations/#9p3)) 진출 선수가 해당 라운드 진출을 거부한다면, 그 자리는 진출하지 못한 선수 중 가장 기록이 높은 순위 선수로 대체될 수 있다.
 - [9s](https://www.worldcubeassociation.org/regulations/#9s)) 각 종목의 각 라운드는 반드시 기록 제한이 존재한다. ([규정 A1a](https://www.worldcubeassociation.org/regulations/#A1a) 참조).
 - [9t](https://www.worldcubeassociation.org/regulations/#9t)) 대회가 끝나고 참가자의 기록의 변동이 생긴다면 (기록 입력 실수, 소급적 벌칙), 후속 라운드를 진출하지 못하며, 후속 라운드의 기록들은 모두 삭제되어야 한다. ([규정 9u](https://www.worldcubeassociation.org/regulations/#9u) 참조).
-    ◦ [9t1](https://www.worldcubeassociation.org/regulations/#9t1)) 만약 이러한 것들이 [규정 9p1](https://www.worldcubeassociation.org/regulations/#9p1)에 더 이상 따르지 않게 되어도, 다른 참가자들의 기록은 절대로 삭제되면 안된다.
-    ◦ [9t2](https://www.worldcubeassociation.org/regulations/#9t2)) [규정 9m1](https://www.worldcubeassociation.org/regulations/#9m1) 또는  [9m2](https://www.worldcubeassociation.org/regulations/#9m2) 혹은 [9m3](https://www.worldcubeassociation.org/regulations/#9m3)에 더 이상 따르지 않게 되어도, 후속 라운드는 절대로 삭제되면 안된다.
-    ◦ [9t3](https://www.worldcubeassociation.org/regulations/#9t3)) 다른 참가자가 다음 라운드에 진출하지 못할 정도로 참가자의 기록에 변동이 생기면 기록은 삭제되어서는 안된다.
+    - [9t1](https://www.worldcubeassociation.org/regulations/#9t1)) 만약 이러한 것들이 [규정 9p1](https://www.worldcubeassociation.org/regulations/#9p1)에 더 이상 따르지 않게 되어도, 다른 참가자들의 기록은 절대로 삭제되면 안된다.
+    - [9t2](https://www.worldcubeassociation.org/regulations/#9t2)) [규정 9m1](https://www.worldcubeassociation.org/regulations/#9m1) 또는  [9m2](https://www.worldcubeassociation.org/regulations/#9m2) 혹은 [9m3](https://www.worldcubeassociation.org/regulations/#9m3)에 더 이상 따르지 않게 되어도, 후속 라운드는 절대로 삭제되면 안된다.
+    - [9t3](https://www.worldcubeassociation.org/regulations/#9t3)) 다른 참가자가 다음 라운드에 진출하지 못할 정도로 참가자의 기록에 변동이 생기면 기록은 삭제되어서는 안된다.
 - [9u](https://www.worldcubeassociation.org/regulations/#9u)) 다음 요구 사항이 동시에 만족했을 때 대회가 종료되었다고 간주한다.:
-    ◦ [9u1](https://www.worldcubeassociation.org/regulations/#9u1)) WCA 웹사이트에 있는 모든 일정이 마무리되었을 때.
-    ◦ [9u2](https://www.worldcubeassociation.org/regulations/#9u2)) WCA 파견위원이 대회의 종료를 선언했을 때 혹은 WCA 파견위원이 대회의 종료를 선언하지 않고 대회장에서 다음 상황일 때:
+    - [9u1](https://www.worldcubeassociation.org/regulations/#9u1)) WCA 웹사이트에 있는 모든 일정이 마무리되었을 때.
+    - [9u2](https://www.worldcubeassociation.org/regulations/#9u2)) WCA 파견위원이 대회의 종료를 선언했을 때 혹은 WCA 파견위원이 대회의 종료를 선언하지 않고 대회장에서 다음 상황일 때:
         - [9u2a](https://www.worldcubeassociation.org/regulations/#9u2a)) 지정된 WCA 파견위원이 대회장을 완전히 떠났을 때.
         - [9u2b](https://www.worldcubeassociation.org/regulations/#9u2b)) 대회의 마지막 일정 날짜가 끝났을 때.
 
-        # 제 10조 : 맞추어진 상태
-
-[제 10조](https://www.worldcubeassociation.org/regulations/#article-10-solved-state)##: 맞추어진 상태##
+        ## [제 10조](https://www.worldcubeassociation.org/regulations/#article-10-solved-state): 맞추어진 상태
 - [10b](https://www.worldcubeassociation.org/regulations/#10b)) 타이머가 멈춘 뒤 남아있는 퍼즐의 상태만을 고려한다.
 - [10c](https://www.worldcubeassociation.org/regulations/#10c)) 끝난 퍼즐은 아무런 방향으로 있어도 된다.
 - [10d](https://www.worldcubeassociation.org/regulations/#10d)) 퍼즐의 모든 부분은 반드시 퍼즐에 완전히 물리적으로 붙어있어야 하고 요구되는 상태로 위치해 있어야 한다. 예외: [규정 5b5](https://www.worldcubeassociation.org/regulations/#5b5) 참조.
 - [10e](https://www.worldcubeassociation.org/regulations/#10e)) 아래에서 특정되는 한계 안에서 조각이 재정렬되었을 경우 퍼즐은 맞춰져 있다.:
-    ◦ [10e1](https://www.worldcubeassociation.org/regulations/#10e1)) [규정 10f](https://www.worldcubeassociation.org/regulations/#10f)에서 설명한 한계를 넘어간 모든 인접한 두 조각(예: 큐브의 평행, 인접한 면)은 맞추기 위해 추가 1회전이 필요하다고 간주된다.( [제 12조](https://www.worldcubeassociation.org/regulations/#12)의 "Outer Block Turn Metric" 참조).
-    ◦ [10e2](https://www.worldcubeassociation.org/regulations/#10e2)) 퍼즐을 맞추기 위해 추가 회전이 필요하지 않은 경우, 퍼즐은 벌칙 없이 맞춰져 있다고 간주한다.
-    ◦ [10e3](https://www.worldcubeassociation.org/regulations/#10e3)) 퍼즐을 맞추기 위해 1회 추가 회전이 필요한 경우, 퍼즐은 벌칙(+2초)과 함께 맞춰져 있다고 간주한다.
-    ◦ [10e4](https://www.worldcubeassociation.org/regulations/#10e4)) 1회보다 많은 추가 회전이 필요한 경우, 퍼즐은 맞춰지지 않은 것으로 간주한다. (DNF)
+    - [10e1](https://www.worldcubeassociation.org/regulations/#10e1)) [규정 10f](https://www.worldcubeassociation.org/regulations/#10f)에서 설명한 한계를 넘어간 모든 인접한 두 조각(예: 큐브의 평행, 인접한 면)은 맞추기 위해 추가 1회전이 필요하다고 간주된다.( [제 12조](https://www.worldcubeassociation.org/regulations/#12)의 "Outer Block Turn Metric" 참조).
+    - [10e2](https://www.worldcubeassociation.org/regulations/#10e2)) 퍼즐을 맞추기 위해 추가 회전이 필요하지 않은 경우, 퍼즐은 벌칙 없이 맞춰져 있다고 간주한다.
+    - [10e3](https://www.worldcubeassociation.org/regulations/#10e3)) 퍼즐을 맞추기 위해 1회 추가 회전이 필요한 경우, 퍼즐은 벌칙(+2초)과 함께 맞춰져 있다고 간주한다.
+    - [10e4](https://www.worldcubeassociation.org/regulations/#10e4)) 1회보다 많은 추가 회전이 필요한 경우, 퍼즐은 맞춰지지 않은 것으로 간주한다. (DNF)
 - [10f](https://www.worldcubeassociation.org/regulations/#10f)) 퍼즐의 허용 가능한 어긋남:
-    ◦ [10f1](https://www.worldcubeassociation.org/regulations/#10f1)) NxNxN 큐브: 최대 45도.
-    ◦ [10f2](https://www.worldcubeassociation.org/regulations/#10f2)) 메가밍크스: 최대 36도.
-    ◦ [10f3](https://www.worldcubeassociation.org/regulations/#10f3)) 피라밍크스와 스큐브: 최대 60도.
-    ◦ [10f4](https://www.worldcubeassociation.org/regulations/#10f4)) 스퀘어-1: 최대 43도(U/D) 또는 최대 90도(/).
+    - [10f1](https://www.worldcubeassociation.org/regulations/#10f1)) NxNxN 큐브: 최대 45도.
+    - [10f2](https://www.worldcubeassociation.org/regulations/#10f2)) 메가밍크스: 최대 36도.
+    - [10f3](https://www.worldcubeassociation.org/regulations/#10f3)) 피라밍크스와 스큐브: 최대 60도.
+    - [10f4](https://www.worldcubeassociation.org/regulations/#10f4)) 스퀘어-1: 최대 43도(U/D) 또는 최대 90도(/).
 - [10h](https://www.worldcubeassociation.org/regulations/#10h)) 이 조항에 설명되지 않은 펴즐은 일반적인 퍼즐의 목적에 부합하는 상태에 따라 판단된다.
-    ◦ [10h1](https://www.worldcubeassociation.org/regulations/#10h1)) 클락의 다 맞춰진 상태는 18개의 내부 시계 침이 12시를 가리키는 것이다.
+    - [10h1](https://www.worldcubeassociation.org/regulations/#10h1)) 클락의 다 맞춰진 상태는 18개의 내부 시계 침이 12시를 가리키는 것이다.
 
-    # 제 11조 : 특별 상황
-
-[제 11조](https://www.worldcubeassociation.org/regulations/#article-11-incidents)##: 특별 상황##
+    ## [제 11조](https://www.worldcubeassociation.org/regulations/#article-11-incidents): 특별 상황
 
 - [11a](https://www.worldcubeassociation.org/regulations/#11a)) 특별 상황은 다음을 포함한다.:
     - [11a1](https://www.worldcubeassociation.org/regulations/#11a1)) 운영진 혹은 선수에 의한 부정확한 종목 절차 수행.
@@ -336,9 +319,7 @@ WCA 규정과 권장 사항의 변천은 [GitHub](https://github.com/thewca/wca-
 - [11g](https://www.worldcubeassociation.org/regulations/#11g)) WCA 파견위원은 특별 상황에 상담을 위해 참가자들에게 반드시 규정과 권장 사항의 복사본을 구비해둬야 한다. (예: 인쇄물, 문서화, 혹은 인터넷을 통해)
 - [11h](https://www.worldcubeassociation.org/regulations/#11h)) WCA 파견위원은 [규정 2k3](https://www.worldcubeassociation.org/regulations/#2k3)을 명백히 위반하는 참가자에게 상황의 심각성과 최선의 방법임을 설명하고, 대회장을 나가줄 것을 요청할 수 있다. 만약 참가자가 이를 거부할 시, WCA에서 징계 조치가 될 수 있다.
 
-# 제 12조 : 표기법
-
-[제 12조](https://www.worldcubeassociation.org/regulations/#article-12-notation)##: 표기법##
+## [제 12조](https://www.worldcubeassociation.org/regulations/#article-12-notation): 표기법
 
 - [12a](https://www.worldcubeassociation.org/regulations/#12a)) NxNxN 큐브의 표기법:
     - [12a1](https://www.worldcubeassociation.org/regulations/#12a1)) 면 회전 (외부층):
@@ -384,11 +365,7 @@ WCA 규정과 권장 사항의 변천은 [GitHub](https://github.com/thewca/wca-
     - [12h3](https://www.worldcubeassociation.org/regulations/#12h3)) 반시계 방향으로 120도 회전: R' (보이는 오른쪽 아래 꼭지를 중심으로 하는 층을 돌림), U’ (보이는 위쪽 꼭지를 중심으로 하는 층을 돌림), L’ (보이는 왼쪽 아래 꼭지를 중심으로 하는 층을 돌림), B’ (보이지 않는 뒤쪽 꼭지를 중심으로 하는 층을 돌림).
 - [12i](https://www.worldcubeassociation.org/regulations/#12i)) 정의: 회전이란 위에 설명된 표기법을 이용하여 퍼즐의 상태를 변경하는 어떠한 움직임을 말한다. [규정 10f](https://www.worldcubeassociation.org/regulations/#10f)에서 묘사된 한계를 넘은 어긋남 또한 포함한다..
 
-# 제 A조 : 스피드 솔빙
-
-A2d, A7c4, A7f judge → 러너 의역
-
-## [제 A조](https://www.worldcubeassociation.org/regulations/#article-A-speedsolving)##: 스피드 솔빙##
+## [제 A조](https://www.worldcubeassociation.org/regulations/#article-A-speedsolving): 스피드 솔빙
 
 - [A1](https://www.worldcubeassociation.org/regulations/#A1)) 스피드솔빙 시도는 반드시 다음 절차를 따라야 한다.
     - [A1a](https://www.worldcubeassociation.org/regulations/#A1a)) 운영진은 각각의 라운드마다 반드시 최소 하나의 기록 제한 형식(시도당 기록 제한/누적 기록 제한)을 적용해야 한다.
@@ -468,9 +445,7 @@ A2d, A7c4, A7f judge → 러너 의역
     - [A7f](https://www.worldcubeassociation.org/regulations/#A7f)) 선수의 기록지가 완료되면, 러너는 기록지를 기록 입력자에게 전달한다.
     - [A7g](https://www.worldcubeassociation.org/regulations/#A7g)) WCA 파견위원의 재량에 따라, 참가자의 규정 미숙으로 인해 발생한 특별 상황 혹은 벌칙은 엑스트라 시도로 대체될 수 있다.
 
-    # 제 B조 : 눈 가리기
-
-## [제 B조](https://www.worldcubeassociation.org/regulations/#article-B-blindfolded)##: 눈 가리기##
+## [제 B조](https://www.worldcubeassociation.org/regulations/#article-B-blindfolded): 눈 가리기
 
 - [B1](https://www.worldcubeassociation.org/regulations/#B1)) [제 A조](https://www.worldcubeassociation.org/regulations/#A) (스피드 솔빙)에 설명한 대로, 기본 스피드 솔빙 절차를 따른다. [제 A조](https://www.worldcubeassociation.org/regulations/#A)의 절차보다 우선 적용되는 추가적인 규정은 다음과 같다.
     - [B1a](https://www.worldcubeassociation.org/regulations/#B1a)) 미리보기 시간은 없다. (시간 측정은 미리보기와 동시에 시작된다.)
@@ -503,11 +478,7 @@ A2d, A7c4, A7f judge → 러너 의역
         - [B5b1](https://www.worldcubeassociation.org/regulations/#B5b1)) 선수의 기본 신호는 퍼즐을 내려놓고 손바닥을 바닥으로 향해 놓는 것이다. 선수와 심판은 사전에 약속하여 적절한 다른 신호를 정할 수 있다.
     - [B5c](https://www.worldcubeassociation.org/regulations/#B5c)) 선수가 퍼즐을 만지고 있지 않다면, 타이머를 멈추기 전에 안대를 제거할 수 있다. 이때 측정이 끝나기 전에 퍼즐을 절대로 만져서는 안된다. 어길 시 벌칙: 해당 시도 실격 (DNF)
 
-
-
-    # 제 C조 한 손
-
-## [제 C조](https://www.worldcubeassociation.org/regulations/#article-C-one-handed)##: 한 손##
+## [제 C조](https://www.worldcubeassociation.org/regulations/#article-C-one-handed): 한 손
 
 - [C1](https://www.worldcubeassociation.org/regulations/#C1)) [제 A조](https://www.worldcubeassociation.org/regulations/#A) (스피드 솔빙)에 설명한 대로, 기본 스피드 솔빙 절차를 따른다. [제 A조](https://www.worldcubeassociation.org/regulations/#A)의 절차보다 우선 적용되는 추가적인 규정은 다음과 같다.
     - [C1b](https://www.worldcubeassociation.org/regulations/#C1b)) 솔빙 동안 선수는 퍼즐을 맞출 때 반드시 한 손만을 사용해야 한다. 어길 시 벌칙: 해당 시도 실격 (DNF)
@@ -516,9 +487,7 @@ A2d, A7c4, A7f judge → 러너 의역
         - [C1b4](https://www.worldcubeassociation.org/regulations/#C1b4)) 솔빙 동안 선수는 퍼즐의 작동을 돕기 위해 표면 위로 잡고 있을 수 있다. ([규정 7f1d](https://www.worldcubeassociation.org/regulations/#7f1d) 참조)
     - [C1c](https://www.worldcubeassociation.org/regulations/#C1c)) 솔빙 동안 선수가 어느 손으로 퍼즐을 움직이기 시작했다면 절대로 반대쪽 손으로 퍼즐을 움직이면 안된다. 어길 시 벌칙: 해당 시도 실격 (DNF)
 
-    # 제 E조 최소회전
-
-## [제 E조](https://www.worldcubeassociation.org/regulations/#article-E-fewest-moves)##: 최소회전##
+## [제 E조](https://www.worldcubeassociation.org/regulations/#article-E-fewest-moves): 최소회전
 
 - [E2](https://www.worldcubeassociation.org/regulations/#E2)) 3x3x3 최소회전의 절차:
     - [E2a](https://www.worldcubeassociation.org/regulations/#E2a)) 심판은 스크램블 공식과 종이를 모든 참가자에게 나눠준다. 심판은 스톱워치를 시작하고 “시작”이라고 말한다.
@@ -545,11 +514,7 @@ A2d, A7c4, A7f judge → 러너 의역
 - [E4](https://www.worldcubeassociation.org/regulations/#E4)) WCA 파견위원은 답지를 공개하기 위해 고를 수 있다. (예: 기록지 사진, 스크램블 공식)
 - [E5](https://www.worldcubeassociation.org/regulations/#E5)) 참가자는 WCA 파견위원, 심판을 제외한 사람과 절대로 소통을 해서는 안된다. 이 소통은 WCA 규정에 관한 것이어야 하며 참가자는 해답을 도출해 내는데 절대로 어떠한 보조를 받으면 안된다. 어길 시 벌칙: 해당 시도 실격 (DNF)
 
-
-
-# 제 F조 클락
-
-## [제 F조](https://www.worldcubeassociation.org/regulations/#article-F-clock)##: 클락##
+## [제 F조](https://www.worldcubeassociation.org/regulations/#article-F-clock): 클락
 
 - [F1](https://www.worldcubeassociation.org/regulations/#F1)) [제 A조](https://www.worldcubeassociation.org/regulations/#A) (스피드 솔빙)에 설명한 대로, 기본 스피드 솔빙 절차를 따른다. [제 A조](https://www.worldcubeassociation.org/regulations/#A)의 절차보다 우선 적용되는 추가적인 규정은 다음과 같다.
 - [F2](https://www.worldcubeassociation.org/regulations/#F2)) 운영진은 시도 시작 전에 떨어지는 것을 방지하기 위해 스탠드를 사용할 것을 강제할 수 있다. 이러한 스탠드가 사용되면, 운영진은 라운드 시작 전에 공지를 해야 한다.
@@ -558,9 +523,7 @@ A2d, A7c4, A7f judge → 러너 의역
 
 
 
-# 제 H조 복수 눈 가리기
-
-## [제 H조](https://www.worldcubeassociation.org/regulations/#article-H-multiple-blindfolded)##: 복수 눈 가리기##
+## [제 H조](https://www.worldcubeassociation.org/regulations/#article-H-multiple-blindfolded): 복수 눈 가리기
 
 - [H1](https://www.worldcubeassociation.org/regulations/#H1)) [제 B조](https://www.worldcubeassociation.org/regulations/#B) (눈 가리고 맞추기)에서 설명한 대로, 기본 눈 가리고 맞추기 절차를 따른다. [제 B조](https://www.worldcubeassociation.org/regulations/#B)의 절차보다 우선 적용되는 추가적인 규정은 다음과 같다.
     - [H1a](https://www.worldcubeassociation.org/regulations/#H1a)) 시도 시작 전에 참가자는 반드시 운영진에게 시도할 퍼즐의 수(최소 2개)를 제출해야 한다.
