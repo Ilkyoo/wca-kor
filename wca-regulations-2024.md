@@ -59,37 +59,37 @@ WCA 규정과 권장 사항의 변천은 [GitHub](https://github.com/thewca/wca-
 - 1j) 모든 운영진은 대회에 참가할 수 있다.
 - 1k) 운영진은 여러 역할을 수행할 수 있다. (예: 운영진, WCA 파견위원, 심판, 기록 입력자, 스크램블러)
 
-  ## [제 2조](https://www.worldcubeassociation.org/regulations/#article-2-competitors): 선수/참가자
+  ## <article-2><competitors><competitors> 제 2조: 선수
 
-- [2a](https://www.worldcubeassociation.org/regulations/#2a)) 다음 사항을 만족하면 누구나 WCA 대회에 참가할 수 있다.:
-  - [2a1](https://www.worldcubeassociation.org/regulations/#2a1)) WCA 규정을 지키는 자.
-  - [2a2](https://www.worldcubeassociation.org/regulations/#2a2)) 대회 요구 사항을 지키는 자, 이 요구 사항은 대회 전에 명확히 발표되어야 한다.
-  - [2a3](https://www.worldcubeassociation.org/regulations/#2a3)) WCA에 의해 참가가 제한되지 않은 자.
-  - [2a4](https://www.worldcubeassociation.org/regulations/#2a4)) WCA 파견위원에 의해 필요해 보이는 안전 수칙을 지키는 자, 이 요구 사항은 대회 전에 명확히 발표되어야 한다.
-- [2b](https://www.worldcubeassociation.org/regulations/#2b)) 18세 미만의 선수들은 그들의 부모 혹은 보호자로부터 참가 및 측정 동의서를 받아야 한다.
-- [2c](https://www.worldcubeassociation.org/regulations/#2c)) 참가자는 운영진이 필요한 모든 정보를 제공함으로써 참가 신청을 한다. (이름, 국적, 생년월일, 성별, 연락 수단, 참가 종목을 포함)
-  - [2c1](https://www.worldcubeassociation.org/regulations/#2c1)) 참가자는 운영진과 WCA 파견위원에 정해지는 완전한 참가 신청 없이는 참가가 불가능하다.
-  - [2c2](https://www.worldcubeassociation.org/regulations/#2c2)) 기참가자들은 WCA 정보에 개인정보를 재공해야 한다. 참가자가 개인정보를 변경하고 싶을 경우, [WCA Results Team](https://www.worldcubeassociation.org/contact/website) 혹은 WCA 파견위원에게 연락을 해야 한다.
-- [2d](https://www.worldcubeassociation.org/regulations/#2d)) 참가자의 이름, 국적, 성별, 그리고 대회 기록은 공개 정보로 간주된다. 다른 모든 개인 정보는 비공개 정보로 간주되며 참가자의 허락 없이 외부에 노출되어서는 안된다.
-- [2e](https://www.worldcubeassociation.org/regulations/#2e)) 선수는 본인이 시민권을 소유하고 있는 국가를 표시해야 한다. WCA 파견위원은 그들의 첫 대회에서 문서(여권 등)를 통해서 시민권을 증명해야 한다. 참가자가 신청한 대회에서 본인의 국적을 증명할 수 없으면 WCA Board에 재량에 따라 해당 참가자를 소급 적용하여 실격 혹은 제한할 수 있다.
-  - [2e1](https://www.worldcubeassociation.org/regulations/#2e1)) 유효한 국가들은 [WCA List of Recognized Regions](https://www.worldcubeassociation.org/regulations/countries/)에 의해 규정된다.
-  - [2e2](https://www.worldcubeassociation.org/regulations/#2e2)) 국적 변동이 있는 선수는 매 해의 첫 해의 첫 대회에서 변경이 가능하다.
-    - [2e2a](https://www.worldcubeassociation.org/regulations/#2e2a)) 예외: 선수가 이전에 나타내던 국가의 시민권을 잃었을 경우, 선수는 반드시 다음 대회 전에 국적을 변경해야 한다. ([규정 2c2](https://www.worldcubeassociation.org/regulations/#2c2) 참조).
-    - [2e2b](https://www.worldcubeassociation.org/regulations/#2e2b)) 예외: 선수가 그 해에 새로운 시민권을 취득했을 경우, 다음 대회 사이의 임의의 시점에 변경이 가능하다.
-  - [2e3](https://www.worldcubeassociation.org/regulations/#2e3)) 시민권이 없는 선수는 "Stateless" 상태로 참가가 가능하다.
-- [2f](https://www.worldcubeassociation.org/regulations/#2f)) 참가자는 적당한 방법으로 대회 장소 규칙을 반드시 지켜야 한다.
-- [2g](https://www.worldcubeassociation.org/regulations/#2g)) 참가자는 지정된 대회 장소 안에 있을 때는 반드시 정숙해야 한다. 대화는 허용되지만, 적당한 수준이어야 하고, 측정 중인 참가자에게서 멀리 있어야 한다.
-  - [2g3](https://www.worldcubeassociation.org/regulations/#2g3)) 진행 중인 그룹에 있는 참가자들은 그 그룹의 스크램블 상태를 다른 참가자와 소통해서는 안된다. 어길 시 벌칙: WCA 파견위원의 재량에 따라 해당 종목 실격. 예외: 3x3x3 최소 회전 종목에서, 본인의 시도를 끝마친 선수는 해당 시도를 측정 중이지 않은 사람과 스크램블 상태에 대해 공유할 수 있다.
-- [2h](https://www.worldcubeassociation.org/regulations/#2h)) 대회장 안에 있을 때에는 참가자는 적절한 옷을 입어야 한다. WCA 파견위원의 재량에 따라서 부적절한 옷을 입은 참가자는 실격 처리가 될 수 있다.
-- [2i](https://www.worldcubeassociation.org/regulations/#2i)) 미리보기 혹은 솔빙 도중, 선수들은 전자장치를 절대로 사용해서는 안된다. (예: 핸드폰, MP3 플레이어, 녹음기, 추가 조명) 어길 시 벌칙: 해당 시도 실격 (DNF).
-  - [2i1](https://www.worldcubeassociation.org/regulations/#2i1)) WCA 파견위원의 재량으로 선수는 불공평한 이득을 주지 않는 비전자장치를 사용할 수 있다. 이것은 다음을 포함한다:
-    - [2i1a](https://www.worldcubeassociation.org/regulations/#2i1a)) 선수가 착용하고 있는 의학적 보조 장치 (예: 안경, 손목 보호대) [규정 2i](https://www.worldcubeassociation.org/regulations/#2i)의 예외, 참가자가 마땅한 비전자장치 대체품이 없다면 의학적 보조 장치는 전자장치가 가능하다. (예시: 보청기, 인공 심장)
-    - [2i1b](https://www.worldcubeassociation.org/regulations/#2i1b)) 귀마개. (전자 귀마개는 불가능)
-    - [2i1c](https://www.worldcubeassociation.org/regulations/#2i1c)) 핫팩.
-    - [2i1d](https://www.worldcubeassociation.org/regulations/#2i1d)) 식음료.
-  - [2i2](https://www.worldcubeassociation.org/regulations/#2i2)) WCA 파견위원의 재량에 따라서 선수는 측정 장소에서 카메라를 사용할 수 있으나 시작부터 끝까지 아래 규정을 지켜야 한다. 어길 시 벌칙 : 해당 시도 실격 (DNF).
-    - [2i2a](https://www.worldcubeassociation.org/regulations/#2i2a)) 카메라 화면은 빈 상태 혹은 참가자의 시야에서 보이지 않아야 한다. ([규정 A5b](https://www.worldcubeassociation.org/regulations/#A5b) 참조).
-  - [2i4](https://www.worldcubeassociation.org/regulations/#2i4)) 대회 측정을 방해하는 것을 피하기 위해 선수들은 핸드폰을 꺼야 한다.
+- 2a) 다음 사항을 만족하는 사람은 누구나 WCA 대회에 참가할 수 있다:
+  - 2a1) WCA 규정을 준수한다.
+  - 2a2) 대회 전에 명확히 공지되어야 하는 대회 요구 사항을 충족한다.
+  - 2a3) WCA에 의해 참가가 제한되지 않은 자.
+  - 2a4) WCA 파견위원에 의해 필요하다고 여겨지는 모든 안전 수칙을 준수한다. 이때 안전 수칙은 대회 전에 명확히 공지되어야 한다.
+- 2b) 만 18세 미만의 선수는 부모 혹은 보호자의 동의를 얻어야 참가 신청 및 참가를 할 수 있다.
+- 2c) 선수는 운영진에 의해 요구되는 모든 정보를 제공함으로써 참가 신청을 한다 (이름, 대표 지역, 생년월일, 성별, 연락처 정보, 참가 종목을 포함함).
+  - 2c1) 선수는 운영진과 WCA 파견위원의 결정에 따른 완전한 참가 신청 없이는 대회 참가가 불가능하다.
+  - 2c2) 기참가자는 WCA 프로필과 일치하는 개인정보를 재공해야 한다. 선수가 대회 사이에 자신의 개인 정보의 변경 혹은 갱신을 원할 경우 (예: 대표 지역, 이름, 혹은 성별의 변경), [WCA 결과 팀](https://www.worldcubeassociation.org/contact/website)에 직접 혹은 WCA 파견위원을 통하여 연락해야 한다.
+- 2d) 선수의 이름, 대표 지역, 성별, 그리고 대회 결과는 공개적인 정보로 여겨진다. 다른 모든 개인 정보는 비공개 정보로 여겨지며, 선수의 동의 없이 외부 조직/외부인에게 노출 되어서는 안 된다.
+- 2e) 선수는 시민권을 보유하고 있는 지역을 대표해야 한다. WCA 파견위원은 그들의 첫 대회에서 문서(예: 여권)를 통해 시민권을 검증해야 한다. 선수가 본인이 등록한 지역을 대표할 수 없다고 판명되면, 해당 선수는 WCA 이사회의 재량 하에 소급하여 실격 및/또는 정지될 수 있다.
+  - 2e1) 적격한 대표 지역들은 [WCA 인정 지역 목록](https://www.worldcubeassociation.org/regulations/countries/)에 의해 규정된다.
+  - 2e2) 선수는 한 해의 첫 대회 전 혹은 첫 대회에서 대표 지역을 변경할 수 있다.
+    - 2e2a) 예외: 선수가 이전에 대표하던 지역의 시민권을 잃으면, 다음 대회 전에 혹은 다음 대회에서 대표 지역을 변경해야 한다 ([규정 2c2](https://www.worldcubeassociation.org/regulations/#2c2) 참고).
+    - 2e2b) 예외: 선수가 한 해 안에 새로운 시민권을 취득한 경우, 대회 사이의 아무 시점에 대표 지역을 새 시민권으로 변경할 수 있다.
+  - 2e3) 시민권이 없는 선수는 "Stateless"로서 참가가 가능하다.
+- 2f) 선수는 대회장 규칙을 준수하고 타인을 배려하는 태도로 행동해야 한다.
+- 2g) 선수는 지정된 대회 구역 안에서 정숙을 유지해야 한다. 대화는 허용되나 적당한 수준에서 이루어져야 하며, 기록 측정 중인 선수로부터 떨어져 있어야 한다.
+  - 2g3) 같은 조의 모든 선수가 더이상 남은 시도가 없지 않는 한, 측정 진행 중인 조에 속한 선수는 같은 조에 속한 다른 선수와 해당 조의 스크램블 상태에 대하여 소통하여서는 안 된다. 페널티: WCA 파견위원의 재량에 따른 해당 종목으로부터 선수 실격. 예외: 3x3x3 최소 회전 종목에서는 측정을 마친 선수가 관련된 시도에 대해 측정하고 있지 않은 사람과 스크램블 알고리즘을 공유할 수 있다.
+- 2h) 선수는 대회장 내에 있는 동안 적절한 복장을 착용해야 한다. 선수는 WCA 파견위원의 재량에 따라 부적절한 복장으로 대회로부터 실격될 수 있다.
+- 2i) 미리보기 혹은 솔빙 도중, 선수는 스택맷 혹은 스톱워치 외에 전자 기기 혹은 음향 기기를 사용해서는 안 된다 (예: 휴대 전화, MP3 플레이어, 녹음기, 추가적인 조명). 페널티: 해당 시도의 실격 (DNF).
+  - 2i1) WCA 파견위원의 재량 하에, 선수는 불공평한 이득을 주지 않는 비 전자 기기를 사용할 수 있다. 이것은 다음을 포함한다:
+    - 2i1a) 선수가 착용하는 의료적/물리적 보조 기구 (예: 안경, 손목 보호대). [규정 2i](regulations:regulation:2i)에 대한 예외로, 선수가 편안한 비 전자적 대체 기구를 가지고 있지 않다면 의료적 보조 기구는 전자 기기일 수 있다 (예: 선수가 개인 청각 보조 기구 혹은 심박 조율기를 지닌 경우)
+    - 2i1b) 귀마개. (전자 헤드폰과 초소형 헤드폰 불가)
+    - 2i1c) 손난로.
+    - 2i1d) 식음료.
+  - 2i2) 선수는 WCA 파견위원의 재량 하에 측정 장소에서 카메라를 사용할 수 있으나, 기록 측정 시도 시작부터 끝까지 다음과 같은 제한이 적용된다. 제한을 어길 시 페널티 : 해당 시도의 실격 (DNF).
+    - 2i2a) 각 카메라 화면은 빈 상태 혹은 참가자의 시야에서 보이지 않아야 한다. ([규정 A5b](regulations:regulation:A5b) 참고).
+  - 2i4) 선수는 대회에 방해가 되지 않도록 기록 측정 동안 휴대 전화의 모든 알림을 꺼야 한다.
 - [2j](https://www.worldcubeassociation.org/regulations/#2j)) WCA 파견위원은 참가자의 특정 시도 혹은 종목을 실격시킬 수 있다.
   - [2j1](https://www.worldcubeassociation.org/regulations/#2j1)) 어떠한 이유로 참가자의 종목이 실격 처리 됐을 경우, 더 이상 측정 기회가 주어지지 않는다.
     - [2j1a](https://www.worldcubeassociation.org/regulations/#2j1a)) 선수가 실격되기 전 하나 이상의 시도를 이미 시작했다면, 남아 있는 모든 기록들은 DNF로 기록된다. 참가자가 시도를 하지 않았다면(혹은 기록이 없거나 DNS 기록만 있는 경우) 기록은 입력되지 않는다.
