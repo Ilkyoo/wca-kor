@@ -5,7 +5,7 @@ wca regulations in korean
 | ------------- | ------------- | ------------- |
 | guideline     | 권장 사항     | 지침?
 | scramble      | 스크램블      |
-| penalty       | 벌칙          | 뉘앙스가 영..
+| penalty       | 벌칙          | 페널티?
 | scoretaker    | 기록 입력자    | 
 | group         | 그룹          | 조?
 | delegate      | 파견위원      |
