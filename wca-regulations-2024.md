@@ -90,32 +90,31 @@ WCA 규정과 권장 사항의 변천은 [GitHub](https://github.com/thewca/wca-
   - 2i2) 선수는 WCA 파견위원의 재량 하에 측정 장소에서 카메라를 사용할 수 있으나, 기록 측정 시도 시작부터 끝까지 다음과 같은 제한이 적용된다. 제한을 어길 시 페널티 : 해당 시도의 실격 (DNF).
     - 2i2a) 각 카메라 화면은 빈 상태 혹은 참가자의 시야에서 보이지 않아야 한다. ([규정 A5b](regulations:regulation:A5b) 참고).
   - 2i4) 선수는 대회에 방해가 되지 않도록 기록 측정 동안 휴대 전화의 모든 알림을 꺼야 한다.
-- [2j](https://www.worldcubeassociation.org/regulations/#2j)) WCA 파견위원은 참가자의 특정 시도 혹은 종목을 실격시킬 수 있다.
-  - [2j1](https://www.worldcubeassociation.org/regulations/#2j1)) 어떠한 이유로 참가자의 종목이 실격 처리 됐을 경우, 더 이상 측정 기회가 주어지지 않는다.
-    - [2j1a](https://www.worldcubeassociation.org/regulations/#2j1a)) 선수가 실격되기 전 하나 이상의 시도를 이미 시작했다면, 남아 있는 모든 기록들은 DNF로 기록된다. 참가자가 시도를 하지 않았다면(혹은 기록이 없거나 DNS 기록만 있는 경우) 기록은 입력되지 않는다.
-  - [2j2](https://www.worldcubeassociation.org/regulations/#2j2)) 실격 처리가 적용되었을 때 이미 완료되어있는 시도에 대한 기록은 실격 처리되어서는 안된다. 예외: 부정행위. ([규정 2k2a](https://www.worldcubeassociation.org/regulations/#2k2a) 참조)
-  - [2j3](https://www.worldcubeassociation.org/regulations/#2j3)) 실격 처리된 시도와 관련 있는 특정 시도들에 한하여 [규정 2k](https://www.worldcubeassociation.org/regulations/#2k)에 묘사되어 있는 순서를 따라 실격 처리가 될 수 있다.
-- [2k](https://www.worldcubeassociation.org/regulations/#2k)) 선수가 다음 항목에 해당하는 경우 WCA 파견위원의 재량에 따라 참가자는 특정 시도 혹은 종목(단일 혹은 복수 종목)에서 실격 처리가 될 수 있다.
-  - [2k1](https://www.worldcubeassociation.org/regulations/#2k1)) 제 시간에 오지 못한 경우.
-  - [2k2](https://www.worldcubeassociation.org/regulations/#2k2)) 대회 진행 중 부정행위 혹은 기만 행위로 의심될 경우.
-    - [2k2a](https://www.worldcubeassociation.org/regulations/#2k2a)) WCA 파견위원은 의심되는 기록을 실격 처리할 수 있다.
-  - [2k3](https://www.worldcubeassociation.org/regulations/#2k3)) 불법적/폭력적/비도덕적인 행동 혹은 의도적으로 대회 시설의 피해 또는 개인에게 피해를 주는 행동을 한 경우.
-  - [2k4](https://www.worldcubeassociation.org/regulations/#2k4)) 대회 중에 다른 이들을 방해 혹은 공격하는 경우.
-  - [2k5](https://www.worldcubeassociation.org/regulations/#2k5)) 대회 중에 WCA 규정을 지키는데 실패한 경우.
-  - [2k6](https://www.worldcubeassociation.org/regulations/#2k6)) 종목 요구 사항을 충족하지 못한 경우. (예: 퍼즐을 맞출 줄 모름) 참가자는 DNF 기록 혹은 의도적인 안 좋은 기록을 예상한 상태로 기록을 측정하면 안된다.
-- [2l](https://www.worldcubeassociation.org/regulations/#2l)) 위반 사항의 경중에 따라 해당 선수는 즉시 혹은 경고 후 실격 처리가 될 수 있다.
-  - [2l1](https://www.worldcubeassociation.org/regulations/#2l1)) 실격당한 선수는 어떠한 대회 참가 비용도 환불 요청할 권한이 없다.
-- [2n](https://www.worldcubeassociation.org/regulations/#2n)) 선수는 WCA 파견위원에게 대화로 논쟁을 할 수 있다.
-  - [2n1](https://www.worldcubeassociation.org/regulations/#2n1)) 논쟁은 대회 동안에서만 진행되어야 하며 ([규정 9u](https://www.worldcubeassociation.org/regulations/#9u) 참조), 논쟁거리가 발생한지 30분 이내 혹은 해당 종목의 후속 라운드가 시작하기 전에 진행되어야 한다.
-  - [2n2](https://www.worldcubeassociation.org/regulations/#2n2)) WCA 파견위원은 해당 종목의 다음 라운드가 시작하기 전에 반드시 이 논쟁을 해결해야 한다.
-  - [2n3](https://www.worldcubeassociation.org/regulations/#2n3)) 선수는 WCA 파견위원의 최종 결정을 반드시 받아들여야 한다. 어길 시 벌칙: 대회 실격
-- [2s](https://www.worldcubeassociation.org/regulations/#2s)) WCA 규정 중 하나 이상에 의해 제한이 생길 수 있는 장애를 가지고 있는 선수들은 WCA 파견위원으로부터 특별한 기구를 요청할 수 있다. 이러한 것을 요청하는 선수는 운영진과 WCA 파견위원에게 연락을 최소 대회 2주 전에 해야 한다.
-  - [2s1](https://www.worldcubeassociation.org/regulations/#2s1)) 규칙적인 대회 절차를 수행하는데 불가능한 선수는 특별한 기구를 요청할 수 있다. 이러한 경우는 WCA 규정위원회에게 사용 전 승인을 받아야 한다.
-- [2t](https://www.worldcubeassociation.org/regulations/#2t)) 모든 선수는 대회 전에 WCA 규정을 반드시 인지하고 이해하고 있어야 한다.
-- [2u](https://www.worldcubeassociation.org/regulations/#2u)) 참가자는 자리에 있어야 하며 해당 시도를 측정하기 위해 불려지면 측정할 준비가 되어 있어야 한다. 어길 시 벌칙: 해당 종목의 실격.
-
-  - [2u1](https://www.worldcubeassociation.org/regulations/#2u1)) 예외: 개인에게 개별적으로 배정된 시도때문에 자리에 없는 경우(예: 최소회전, 복수 눈 가리기 종목 중) WCA 파견위원의 재량에 따라 선수가 해당 시도를 하지 않은 것(DNS)으로 간주할 수 있다.
-  - [2u2](https://www.worldcubeassociation.org/regulations/#2u2)) 예외: 누적 기록 제한이 있는 라운드에서, 늦게 도착한 선수는 WCA 파견위원의 재량에 따라 축소된 누적 기록 제한으로 기록을 측정할 수 있다.
+- 2j) WCA 파견위원은 선수를 특정 시도 혹은 종목으로부터 실격시킬 수 있다.
+  - 2j1) 어떠한 이유로든 선수가 한 종목으로부터 실격됐을 경우, 해당 종목에서 더 이상의 측정 기회가 주어지지 않는다.
+    - 2j1a) 선수가 실격되기 전에 해당 라운드에서 하나 이상의 시도를 시작했다면, 해당 종목의 남아있는 모든 시도의 결과는 DNF로 기록된다. 선수가 시도를 시작하지 않았다면 (예: 결과가 없거나 DNS 결과만 가지고 있는 경우), 결과는 기록되지 않는다.
+  - 2j2) 실격이 적용된 시점에 이미 완료된 시도의 결과는 실격 처리 되어서는 안 된다. 예외: 부정 행위 혹은 기망 행위 ([규정 2k2a](regulations:regulation:2k2aa) 참고).
+  - 2j3) 특정 완료된 시도는 시도 도중에 관련 사건이 발생한 경우에만 [규정 2k](regulations:regulation:2k)에 설명된 상황에 따라 실격 처리될 수 있다.
+- 2k) 선수가 다음 항목에 해당하는 경우, WCA 파견위원의 재량에 따라 특정 시도 혹은 종목(단일, 복수, 혹은 모든 종목)에서 실격 처리 될 수 있다.
+  - 2k1) 대회 참가 신청을 제 시간에 하지 못 한 경우.
+  - 2k2) 대회 도중 부정 행위가 의심되거나 운영진을 기망한다고 의심될 경우.
+    - 2k2a) WCA 파견위원은 의심되는 결과를 실격 처리할 수 있다.
+  - 2k3) 불법/폭력/음란/위험 행위를 하거나, 대회장 시설 혹은 대회장 내 개인의 재산을 의도적으로 손상시킬 경우.
+  - 2k4) 대회 도중 상대방의 주의를 산만하게 하거나 방해하는 경우.
+  - 2k5) 대회가 진행되는 동안 WCA 규정을 준수하지 못한 경우.
+  - 2k6) 종목의 요구 사항을 충족하지 못한 경우 (예: 퍼즐을 맞출 줄 모름). 참가자는 DNF 혹은 의도적인 좋지 않은 기록을 기대하며 대회에 참가해서는 안 된다.
+- 2l) 선수는 위반 사항의 성격과 심각성에 따라 즉시 혹은 경고 조치 후에 실격될 수 있다.
+  - 2l1) 실격당한 선수는 대회 참가로 인해 발생한 그 어떠한 지출도 환불 받을 수 없다.
+- 2n) 선수는 구두로 WCA 파견위원에게 판정에 이의를 제기할 수 있다.
+  - 2n1) 이의 제기는 대회 진행 중에만 허용되며 ([규정 9u](hregulations:regulation:9u) 참고), 이의를 제기한 사건의 발생 30분 내로 혹은 관련 종목의 아무 후속 라운드가 진행되기 전에 허용된다.
+  - 2n2) WCA 파견위원은 해당 종목의 다음 라운드가 시작하기 전에 반드시 이 논쟁을 해결해야 한다.
+  - 2n3) 선수는 반드시 WCA 파견위원의 모든 최종 판정을 받아들여야 한다. 페널티: 대회로부터 실격.
+- 2s) 하나 이상의 WCA 규정을 준수하는 것에 무리가 있을 수 있는 환경에 처한 선수는 (예: 장애) WCA 파견위원에게 특별한 편의를 요청할 수 있다. 이러한 편의를 요청하는 선수는 적어도 대회 시작 2주 전까지 대회 운영진과 WCA 파견위원에게 연락해야 한다.
+  - 2s1) 일반적인 대회의 진행을 따를 수 없는 상황에 놓여진 선수는 특별한 편의를 가질 수 있다. 이러한 상황은 편의가 적용되기 전에 WCA 규정 위원회에 상정해야 한다.
+- 2t) 모든 선수는 대회 전에 WCA 규정을 숙지하고 이해해야 한다.
+- 2u) 선수는 기록 측정을 위해 호출될 때 대회장에 출석해야 하며 참가할 준비가 되어야 한다. 페널티: 종목으로부터 실격.
+  - 2u1) 예외: 개별적으로 배정된 시도로 인해 제 시간에 출석하지 못한 경우 (예: 최소회전, 3x3x3 눈 가리고 맞추기 (복수)) WCA 파견위원의 재량에 따라 선수가 해당 시도를 거부한 것(DNS)으로 간주할 수 있다.
+  - 2u2) 예외: 누적 기록 제한이 있는 라운드에서, 대회장에 늦게 도착한 선수는 WCA 파견위원의 재량에 따라 축소된 누적 기록 제한으로 기록을 측정할 수 있다.
 
   ## [제 3조](https://www.worldcubeassociation.org/regulations/#article-3-puzzles): 퍼즐
 
