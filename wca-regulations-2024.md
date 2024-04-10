@@ -59,7 +59,7 @@ WCA 규정과 권장 사항의 변천은 [GitHub](https://github.com/thewca/wca-
 - 1j) 모든 운영진은 대회에 참가할 수 있다.
 - 1k) 운영진은 여러 역할을 수행할 수 있다. (예: 운영진, WCA 파견위원, 심판, 기록 입력자, 스크램블러)
 
-  ## <article-2><competitors><competitors> 제 2조: 선수
+## <article-2><competitors><competitors> 제 2조: 선수
 
 - 2a) 다음 사항을 만족하는 사람은 누구나 WCA 대회에 참가할 수 있다:
   - 2a1) WCA 규정을 준수한다.
@@ -116,7 +116,7 @@ WCA 규정과 권장 사항의 변천은 [GitHub](https://github.com/thewca/wca-
   - 2u1) 예외: 개별적으로 배정된 시도로 인해 제 시간에 출석하지 못한 경우 (예: 최소회전, 3x3x3 눈 가리고 맞추기 (복수)) WCA 파견위원의 재량에 따라 선수가 해당 시도를 거부한 것(DNS)으로 간주할 수 있다.
   - 2u2) 예외: 누적 기록 제한이 있는 라운드에서, 대회장에 늦게 도착한 선수는 WCA 파견위원의 재량에 따라 축소된 누적 기록 제한으로 기록을 측정할 수 있다.
 
-  ## [제 3조](https://www.worldcubeassociation.org/regulations/#article-3-puzzles): 퍼즐
+## <article-3><puzzles><puzzles> 제 3조: 퍼즐
 
 - [3a](https://www.worldcubeassociation.org/regulations/#3a)) 참가자는 본인의 퍼즐을 대회에 반드시 제공해야 한다.
   - [3a1](https://www.worldcubeassociation.org/regulations/#3a1)) 참가자가 불려지면 반드시 퍼즐을 제출할 준비가 되어있어야 한다. ([규정 2u](https://www.worldcubeassociation.org/regulations/#2u) 참조).
