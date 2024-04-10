@@ -106,7 +106,7 @@ WCA 규정과 권장 사항의 변천은 [GitHub](https://github.com/thewca/wca-
 - 2l) 선수는 위반 사항의 성격과 심각성에 따라 즉시 혹은 경고 조치 후에 실격될 수 있다.
   - 2l1) 실격당한 선수는 대회 참가로 인해 발생한 그 어떠한 지출도 환불 받을 수 없다.
 - 2n) 선수는 구두로 WCA 파견위원에게 판정에 이의를 제기할 수 있다.
-  - 2n1) 이의 제기는 대회 진행 중에만 허용되며 ([규정 9u](hregulations:regulation:9u) 참고), 이의를 제기한 사건의 발생 30분 내로 혹은 관련 종목의 아무 후속 라운드가 진행되기 전에 허용된다.
+  - 2n1) 이의 제기는 대회 진행 중에만 허용되며 ([규정 9u](regulations:regulation:9u) 참고), 이의를 제기한 사건의 발생 30분 내로 혹은 관련 종목의 아무 후속 라운드가 진행되기 전에 허용된다.
   - 2n2) WCA 파견위원은 해당 종목의 다음 라운드가 시작하기 전에 반드시 이 논쟁을 해결해야 한다.
   - 2n3) 선수는 반드시 WCA 파견위원의 모든 최종 판정을 받아들여야 한다. 페널티: 대회로부터 실격.
 - 2s) 하나 이상의 WCA 규정을 준수하는 것에 무리가 있을 수 있는 환경에 처한 선수는 (예: 장애) WCA 파견위원에게 특별한 편의를 요청할 수 있다. 이러한 편의를 요청하는 선수는 적어도 대회 시작 2주 전까지 대회 운영진과 WCA 파견위원에게 연락해야 한다.
@@ -118,27 +118,27 @@ WCA 규정과 권장 사항의 변천은 [GitHub](https://github.com/thewca/wca-
 
 ## <article-3><puzzles><puzzles> 제 3조: 퍼즐
 
-- [3a](https://www.worldcubeassociation.org/regulations/#3a)) 참가자는 본인의 퍼즐을 대회에 반드시 제공해야 한다.
-  - [3a1](https://www.worldcubeassociation.org/regulations/#3a1)) 참가자가 불려지면 반드시 퍼즐을 제출할 준비가 되어있어야 한다. ([규정 2u](https://www.worldcubeassociation.org/regulations/#2u) 참조).
-  - [3a2](https://www.worldcubeassociation.org/regulations/#3a2)) 퍼즐은 반드시 완전히 작동되어야 하며, 이는 일반적인 스크램블이 가능해야 한다.
-  - [3a3](https://www.worldcubeassociation.org/regulations/#3a3)) 다면체 퍼즐은 다 맞춰진 상태에서 반드시 한 면에 한 가지 색상만을 써야 한다. 각각의 퍼즐은 반드시 원래 퍼즐과 기능적으로 동일한 움직임, 상태, 그리고 해법을 가지고 있어야 한다.
-  - [3a4](https://www.worldcubeassociation.org/regulations/#3a4)) 퍼즐은 전자부품을 절대로 포함해서는 안된다. (예: 블루투스 혹은 와이-파이 구성품, 모터, 센서, 조명) [규정 2i](https://www.worldcubeassociation.org/regulations/#2i) 참조.
-- [3d](https://www.worldcubeassociation.org/regulations/#3d)) 퍼즐은 반드시 색상이 있는 조각을 포함해야 하며, 이것은 아래 중 하나만을 만족하는 색상 조합이어야 한다: 스티커, 색상 타일, 색상 플라스틱, 혹은 페인트칠이나 프린팅된 색상. 모든 색상 조각들은 반드시 비슷한 물질로 만들어져야 한다.
-  - [3d1](https://www.worldcubeassociation.org/regulations/#3d1)) 명시된 시각 장애가 있는 선수들은 다음의 예외를 적용한다.:
-    - [3d1a](https://www.worldcubeassociation.org/regulations/#3d1a)) 맹인 선수는 다른 면들에 다른 질감으로 이루어진 퍼즐을 사용할 수 있다. 각각의 면은 스크램블과 심판을 돕기 위해 확실한 색이 있는 것이 추천된다.
-    - [3d1b](https://www.worldcubeassociation.org/regulations/#3d1b)) 필요한 수 이상의 색을 구별하지 못하는 색맹, 색약 선수는 패턴이 들어가 있는 색상 조각을 사용할 수 있으며, [규정 2s](https://www.worldcubeassociation.org/regulations/#2s)에 의해 분명히 허가된 것이어야 한다. 패턴은 스티커에 있거나 그려진 것일 수 있다.
-  - [3d2](https://www.worldcubeassociation.org/regulations/#3d2)) 색상 조각의 색들은 반드시 확실해야 하며 이는 한 면에 동일한 색상이어야 한다. 각각의 색은 다른 색상과 분명히 구분되어야 한다.
-- [3h](https://www.worldcubeassociation.org/regulations/#3h)) 퍼즐의 기본 개념을 강화시키는 개조는 허용되지 않는다. 개조되지 않은 것과 비교했을 때 선수에게 추가적인 정보(조각의 방향이나 확인)를 주지 않을 때에만 퍼즐의 개조형은 허용된다.
-  - [3h1](https://www.worldcubeassociation.org/regulations/#3h1)) "필로우" 퍼즐은 허용된다.
-  - [3h2](https://www.worldcubeassociation.org/regulations/#3h2)) 안쪽을 볼 수 있는 색상 플라스틱으로 이루어진 퍼즐(예: 자체 색 퍼즐)은 허용된다. 다음 퍼즐들은 이에 포함되지 않는다.:
-    - [3h2a](https://www.worldcubeassociation.org/regulations/#3h2a)) 퍼즐의 상태에 대해서 더 많은 정보를 노출시킬 수 있는 투명한 조각들로 이루어진 퍼즐. 예외: 덧붙이는 스티커 혹은 로고([규정 3l](https://www.worldcubeassociation.org/regulations/#3l) 참조).
-  - [3h3](https://www.worldcubeassociation.org/regulations/#3h3)) 선수가 한 어떠한 개조의 저조한 성능으로 인한 기록은 추가 기회의 근거가 되지 않는다.
-  - [3h4](https://www.worldcubeassociation.org/regulations/#3h4)) 클락 종목에서, 다음 개조들은 허용된다.:
-    - [3h4a](https://www.worldcubeassociation.org/regulations/#3h4a)) WCA 파견위원의 재량에 따라 커스텀 "삽입"(원래 삽입되어 있는 것과 동일한 모양과 크기)은 허용되며 명확한 12시를 가리키고 있어야 한다.
-    - [3h4b](https://www.worldcubeassociation.org/regulations/#3h4b)) WCA 파견위원의 재량에 따라 불공평한 이득을 주지 않는 퍼즐 디자인 변경은 허용된다. (예: 바둑판 패턴, 커스텀 디자인 된 면, 클락 한쪽에 테이프 붙이기)
-    - [3h4c](https://www.worldcubeassociation.org/regulations/#3h4c)) WCA 파견위원의 재량에 따라 같은 쪽의 다른 핀들과 구별되는 핀 커스텀은 허용된다.
-    - [3h4d](https://www.worldcubeassociation.org/regulations/#3h4d)) 안쪽 클락 면을 가리지 않는다는 조건 하에 로고는 퍼즐 어느 곳에 있어도 가능하다.
-  - [3h5](https://www.worldcubeassociation.org/regulations/#3h5)) 클락 종목에서, 헐렁한 핀(직접 누르는 것 대신에 중력을 이용하여 딸깍거리거나 느슨해지는 핀)은 합당한 마모가 아니며, 이러한 퍼즐은 절대로 허용되어서는 안된다.
+- 3a) 참가자는 대회에 필요한 퍼즐을 직접 준비해야 한다.
+  - 3a1) 선수는 호출 시 자신의 퍼즐을 제출할 준비가 되어 있어야 한다 ([규정 2u](regulations:regulation:2u) 참고).
+  - 3a2) 퍼즐은 정상적인 스크램블링이 가능하도록 완전히 작동해야 한다.
+  - 3a3) 다면체 퍼즐은 맞춰진 상태에서 한 면 당 하나의 고유한 색이 있는 색 배치가 사용되어야 한다. 각 퍼즐의 변형은 본래의 퍼즐과 기능적으로 동일한 회전 방식, 상태, 해법을 가져야 한다.
+  - 3a4) 퍼즐에는 전자 부품이 없어야 한다. (예: 블루투스, 와이파이 기능, 모터, 센서, 조명 등) [규정 2i](regulations:regulation:2i) 참고.
+- 3d) 퍼즐은 퍼즐의 색 배치를 정의하는 색상 부품이 있어야 하며, 색상 부품으로 다음 중 오직 하나만 가질 수 있다: 색상 스티커, 색상 타일, 색상 플라스틱 혹은 색칠된/인쇄된 색. 퍼즐의 모든 색상 부품은 비슷한 재질로 만들어져야 한다.
+  - 3d1) 의학적으로 입증된 시각 장애가 있는 선수에게는 다음의 예외가 적용된다:
+    - 3d1a) 시각 장애인 선수는 면마다 서로 다른 질감을 가진 퍼즐을 사용할 수 있다. 스크램블링과 심판 업무에 도움이 되도록 각 면은 뚜렷한 색을 가져야 한다.
+    - 3d1b) 필요한 수 이상의 색을 구별하지 못하는 색맹을 가진 선수는 무늬가 들어가 있는 색상 부품을 사용할 수 있으며, [규정 2s](regulations:regulation:2s)에 의해 분명히 허가된 것이어야 한다. 무늬는 스티커를 사용하거나 직접 그릴 수 있다.
+  - 3d2) 색상 부품의 색상은 단색이어야 하며 각 면당 하나의 균일한 색상을 사용해야 합니다. 각 색상은 다른 색상과 명확하게 구분되어야 합니다.
+- 3h) 퍼즐의 기본 개념을 향상시키는 개조는 허용되지 않는다. 퍼즐의 개조 버전은 동일한 퍼즐의 개조되지 않은 버전과 비교하여 선수가 추가적인 정보(예: 조각의 방향 또는 식별)를 확인할 수 없는 경우에만 허용된다.
+  - 3h1) "필로우" 퍼즐은 허용된다.
+  - 3h2) 퍼즐 내부에서 색상 플라스틱이 보이는 퍼즐(예: 자체 색 퍼즐)은 허용된다. 다음 퍼즐들은 이에 포함되지 않는다:
+    - 3h2a) 퍼즐의 상태에 대해서 더 많은 정보를 노출시킬 수 있는 투명한 조각들로 이루어진 퍼즐. 예외: 덧붙이는 스티커 혹은 로고([규정 3l](regulations:regulation:3l) 참고).
+  - 3h3) 선수의 저조한 성과를 초래하는 퍼즐 개조는 추가 시도의 근거가 되지 못한다.
+  - 3h4) 클락 종목에서 다음 개조는 허용된다:
+    - 3h4a) WCA 파견위원의 재량에 따라 커스텀 "삽입물"(원래 삽입되어 있는 것과 동일한 모양과 크기)은 허용된다. 삽입물은 원래의 삽입물에 일치하도록 명확한 12시를 가리키고 있어야 한다.
+    - 3h4b) WCA 파견위원의 재량에 따라 불공평한 이득을 주지 않는 퍼즐 디자인 커스터마이징은 허용된다. (예: 바둑판 패턴, 커스텀 디자인 된 면, 클락 측면에 테이프 부착) 
+    - 3h4c) WCA 파견위원의 재량에 따라 같은 면의 다른 핀들과 구별되게 하는 핀 커스터마이징은 허용된다.
+    - 3h4d) 안쪽 클락 면을 가리지 않는 한 로고는 퍼즐 어느 곳에나 위치할 수 있다.
+  - 3h5) 클락 종목에서 느슨한 핀(직접 누르는 것 대신에 중력을 이용하여 딸깍거리거나 느슨해지는 핀)은 합당한 마모가 간주되지 않으며, 이러한 퍼즐은 허용되지 않는다.
 - [3j](https://www.worldcubeassociation.org/regulations/#3j)) 퍼즐은 반드시 깨끗해야 하며, 어떠한 마킹, 단차, 파손 등 비슷한 조각과 확연하게 구별할 수 있을 정도의 차이를 절대로 가져선 안된다. 예외: 로고([규정 3l](https://www.worldcubeassociation.org/regulations/#3l) 참조).
   - [3j1](https://www.worldcubeassociation.org/regulations/#3j1)) WCA 파견위원의 재량에 따라 합당한 마모가 있는 퍼즐은 허용된다.
     - [3j1a](https://www.worldcubeassociation.org/regulations/#3j1a)) 퍼즐의 상태(예: 특정 조각의 위치)에 대해서 확실한 추가 정보를 주지 않는다고 판단될 때만 합당한 마모라고 여겨진다.
