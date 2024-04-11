@@ -139,22 +139,22 @@ WCA 규정과 권장 사항의 변천은 [GitHub](https://github.com/thewca/wca-
     - 3h4c) WCA 파견위원의 재량에 따라 같은 면의 다른 핀들과 구별되게 하는 핀 커스터마이징은 허용된다.
     - 3h4d) 안쪽 클락 면을 가리지 않는 한 로고는 퍼즐 어느 곳에나 위치할 수 있다.
   - 3h5) 클락 종목에서 느슨한 핀(직접 누르는 것 대신에 중력을 이용하여 딸깍거리거나 느슨해지는 핀)은 합당한 마모가 간주되지 않으며, 이러한 퍼즐은 허용되지 않는다.
-- [3j](https://www.worldcubeassociation.org/regulations/#3j)) 퍼즐은 반드시 깨끗해야 하며, 어떠한 마킹, 단차, 파손 등 비슷한 조각과 확연하게 구별할 수 있을 정도의 차이를 절대로 가져선 안된다. 예외: 로고([규정 3l](https://www.worldcubeassociation.org/regulations/#3l) 참조).
-  - [3j1](https://www.worldcubeassociation.org/regulations/#3j1)) WCA 파견위원의 재량에 따라 합당한 마모가 있는 퍼즐은 허용된다.
-    - [3j1a](https://www.worldcubeassociation.org/regulations/#3j1a)) 퍼즐의 상태(예: 특정 조각의 위치)에 대해서 확실한 추가 정보를 주지 않는다고 판단될 때만 합당한 마모라고 여겨진다.
-  - [3j2](https://www.worldcubeassociation.org/regulations/#3j2)) 정의 : 두 조각이 같은 크기와 더불어 같은 모양 혹은 대칭 모양이라면 그 두 조각들은 서로 비슷하다고 정의한다.
-  - [3j3](https://www.worldcubeassociation.org/regulations/#3j3)) 촉감으로 조각의 방향을 구별할 수 있는 물결 무늬 혹은 질감이 있는 조각을 포함하는 퍼즐은 눈 가리기 종목에서 허용되지 않는다.
-- [3k](https://www.worldcubeassociation.org/regulations/#3k)) 대회에서 사용되기 전 퍼즐은 WCA 파견위원에 의해 허가를 받아야 한다.
-  - [3k1](https://www.worldcubeassociation.org/regulations/#3k1)) 라운드 진행 중에 허가받지 않은 퍼즐이 발견된 경우, 해당 참가자는 이 퍼즐을 더 이상 사용이 불가하며, 반드시 대체품을 제출해야 한다.
-  - [3k2](https://www.worldcubeassociation.org/regulations/#3k2)) 허가되지 않은 퍼즐로 완료된 시도의 벌칙 : 해당 시도 실격 (DNF) 다음과 같은 예외가 적용된다.:
-    - [3k2a](https://www.worldcubeassociation.org/regulations/#3k2a)) 라운드가 끝나기 전 허가되지 않은 퍼즐이 발견된 경우, WCA 파견위원의 재량에 따라 영향 받는 기록들을 엑스트라 시도로 대체할 수 있다.
-    - [3k2b](https://www.worldcubeassociation.org/regulations/#3k2b)) 3x3x3 복수 눈 가리기: 허가되지 않은 퍼즐이 발견된 경우, WCA 파견위원의 재량에 따라 해당 시도를 실격시키는 것이 아닌 다 맞추지 못한 퍼즐에 포함하여 셀 수 있다.
-- [3l](https://www.worldcubeassociation.org/regulations/#3l)) 퍼즐은 하나 이상의 로고를 부착할 수 있으며 이때 붙여지는 조각은 반드시 한 조각이어야 한다. 예외: 눈 가리고 맞추기 종목에서 퍼즐은 절대로 로고가 있으면 안된다.
-  - [3l1](https://www.worldcubeassociation.org/regulations/#3l1)) 로고는 반드시 센터 조각에 있어야 한다. 센터 조각이 없는 퍼즐에 대한 예외:
-    - [3l1a](https://www.worldcubeassociation.org/regulations/#3l1a)) 피라밍크스와 2x2x2 종목에서, 로고는 어느 조각에 있어도 가능하다.
-    - [3l1b](https://www.worldcubeassociation.org/regulations/#3l1b)) 스퀘어-1 종목에서, 로고는 반드시 중앙을 가로지르는 조각에 있어야 한다.
-  - [3l2](https://www.worldcubeassociation.org/regulations/#3l2)) 로고는 음각, 양각, 덧붙이는 스티커의 부분일 수 있다.
-- [3m](https://www.worldcubeassociation.org/regulations/#3m)) 위 WCA 규정을 모두 만족하는 퍼즐인 경우, 모든 브랜드의 퍼즐 및 조각들은 허용된다.
+- 3j) 퍼즐은 깨끗해야 하며, 어떤 조각이 비슷한 조각과 확연하게 구별되는 표시, 들뜬 조각, 손상 또는 기타 차이점이 없어야 한다. 예외: 로고([규정 3l](regulations:regulation:3l) 참고).
+  - 3j1) WCA 파견위원의 재량에 따라 합당한 마모가 있는 퍼즐은 허용된다.
+    - 3j1a) 마모가 퍼즐의 정상적인 사용으로 인한 것이면서 퍼즐의 상태(예: 특정 조각의 위치)에 대해서 중요한 추가적인 정보를 주지 않는다고 판단될 때만 합당한 마모라고 여겨진다.
+  - 3j2) 정의: 두 조각이 서로 모양과 크기가 동일하거나 모양이 대칭이고 크기가 동일한 경우, 두 조각은 서로 비슷하다고 정의된다.
+  - 3j3) 촉감으로 조각의 방향을 구별할 수 있는 물결 무늬 혹은 질감이 있는 조각을 포함하는 퍼즐은 눈 가리고 맞추기 종목에서 허용되지 않는다.
+- 3k) 퍼즐은 대회에서 사용되기 전에 WCA 파견위원의 허가를 받아야 한다.
+  - 3k1) 라운드 진행 중에 허용되지 않은 퍼즐이 발견된 경우, 해당 참가자는 더 이상 해당 퍼즐을 사용해서는 안 되며, 반드시 대체품을 제출해야 한다.
+  - 3k2) 허용되지 않는 퍼즐로 측정된 시도에 대한 페널티: 해당 시도의 실격 (DNF). 다음과 같은 예외가 적용된다:
+    - 3k2a) 라운드 종료 전에 허용되지 않은 퍼즐이 발견되면, WCA 파견위원의 재량에 따라 해당 퍼즐의 영향을 받은 결과들이 추가 시도로 대체될 수 있다.
+    - 3k2b) 3x3x3 눈 가리고 맞추기 (복수): 허용되지 않은 퍼즐이 발견될 경우, WCA 파견위원의 재량에 따라 전체 시도 실격이 아닌 해당 퍼즐이 맞추어 지지 않은 것으로 세어질 수 있다.
+- 3l) 퍼즐의 색상 부품에는 하나 이상의 로고가 있을 수 있다. 만약 있다면, 로고들은 하나의 색상 부품에서 같은 색을 띄는 부분에 위치해야 한다. 예외: 눈 가리고 맞추기 종목에서는 퍼즐에 어떠한 로고도 있어서는 안 된다.
+  - 3l1) 로고는 반드시 센터 조각에 있어야 한다. 센터 조각이 없는 퍼즐에 대한 예외:
+    - 3l1a) 피라밍크스와 2x2x2 종목에서, 로고는 어느 조각에나 위치할 수 있다.
+    - 3l1b) 스퀘어-1 종목에서, 로고는 반드시 중앙을 가로지르는 조각에 있어야 한다.
+  - 3l2) 로고는 음각, 양각, 덧붙이는 스티커로 구성될 수 있다.
+- 3m) 위 WCA 규정을 모두 만족하는 모든 브랜드의 퍼즐 및 부품들은 허용된다.
 
 ## [제 4조](https://www.worldcubeassociation.org/regulations/#article-4-scrambling): 스크램블
 
