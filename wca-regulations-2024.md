@@ -135,7 +135,7 @@ WCA 규정과 권장 사항의 변천은 [GitHub](https://github.com/thewca/wca-
   - 3h3) 선수의 저조한 성과를 초래하는 퍼즐 개조는 추가 시도의 근거가 되지 못한다.
   - 3h4) 클락 종목에서 다음 개조는 허용된다:
     - 3h4a) WCA 파견위원의 재량에 따라 커스텀 "삽입물"(원래 삽입되어 있는 것과 동일한 모양과 크기)은 허용된다. 삽입물은 원래의 삽입물에 일치하도록 명확한 12시를 가리키고 있어야 한다.
-    - 3h4b) WCA 파견위원의 재량에 따라 불공평한 이득을 주지 않는 퍼즐 디자인 커스터마이징은 허용된다. (예: 바둑판 패턴, 커스텀 디자인 된 면, 클락 측면에 테이프 부착) 
+    - 3h4b) WCA 파견위원의 재량에 따라 불공평한 이득을 주지 않는 퍼즐 디자인 커스터마이징은 허용된다. (예: 바둑판 패턴, 커스텀 디자인 된 면, 클락 측면에 테이프 부착)
     - 3h4c) WCA 파견위원의 재량에 따라 같은 면의 다른 핀들과 구별되게 하는 핀 커스터마이징은 허용된다.
     - 3h4d) 안쪽 클락 면을 가리지 않는 한 로고는 퍼즐 어느 곳에나 위치할 수 있다.
   - 3h5) 클락 종목에서 느슨한 핀(직접 누르는 것 대신에 중력을 이용하여 딸깍거리거나 느슨해지는 핀)은 합당한 마모가 간주되지 않으며, 이러한 퍼즐은 허용되지 않는다.
@@ -156,28 +156,28 @@ WCA 규정과 권장 사항의 변천은 [GitHub](https://github.com/thewca/wca-
   - 3l2) 로고는 음각, 양각, 덧붙이는 스티커로 구성될 수 있다.
 - 3m) 위 WCA 규정을 모두 만족하는 모든 브랜드의 퍼즐 및 부품들은 허용된다.
 
-## [제 4조](https://www.worldcubeassociation.org/regulations/#article-4-scrambling): 스크램블
+## <article-4><scrambling><scrambling> 제 4조: 스크램블링
 
-- [4a](https://www.worldcubeassociation.org/regulations/#4a)) 스크램블러는 스크램블 공식을 퍼즐에 적용한다.
-- [4b](https://www.worldcubeassociation.org/regulations/#4b)) 퍼즐은 반드시 컴퓨터로 생성된 랜덤 스크램블 공식으로 섞여야 합니다.
-  - [4b1](https://www.worldcubeassociation.org/regulations/#4b1)) 생성된 스크램블 공식은 대회 전에 절대로 보여져서는 안되며, WCA 파견위원은 절대로 생성된 스크램블 공식을 걸러내거나 선택해서는 안됩니다.
-  - [4b2](https://www.worldcubeassociation.org/regulations/#4b2)) 한 그룹의 스크램블 공식은 그 그룹이 시작하기 전에는 오직 WCA 파견위원만이 접근 가능해야 하며, 도중 혹은 끝날 때까지는 WCA 파견위원과 스크램블러만이 접근이 가능해야 한다. 예외: 최소회전 종목에서, 모든 참가자는 라운드 동안 스크램블 공식을 받는다. ([제 E조](https://www.worldcubeassociation.org/regulations/#E) 참).
-    - [4b2a](https://www.worldcubeassociation.org/regulations/#4b2a)) 잠시 동안 이용이 불가능할 때(예: 기록 측정 중) 해당 대회의 지정된 WCA 파견위원만이 다음 그룹의 스크램블을 운영진에게 부여할 수 있다. 이때 최소한의 스크램블의 권한만 부여한다.
-  - [4b3](https://www.worldcubeassociation.org/regulations/#4b3)) 스크램블 프로그램 특정: 공식적인 스크램블 공식은 다 맞추기 위해 최소 2회전(각 상태마다 동일한 확률)이 요구되는 랜덤한 상태를 만든다. 다음 추가 사항과 예외가 적용된다.:
-    - [4b3a](https://www.worldcubeassociation.org/regulations/#4b3a)) 눈 가리기 종목에서, 스크램블 공식은 반드시 퍼즐을 랜덤한 방향(각각의 방향에서 같은 확률)으로 만들어야 한다.
-    - [4b3b](https://www.worldcubeassociation.org/regulations/#4b3b)) 2x2x2 큐브: (랜덤) 상태를 맞추기 위해선 최소 4회전 이상이 필요하다.
-    - [4b3c](https://www.worldcubeassociation.org/regulations/#4b3c)) 스큐브: (랜덤) 상태를 맞추기 위해선 최소 7회전 이상이 필요하다.
-    - [4b3d](https://www.worldcubeassociation.org/regulations/#4b3d)) 스퀘어-1: (랜덤) 상태를 맞추기 위해선 최소 11회전 이상이 필요하다.
-    - [4b3e](https://www.worldcubeassociation.org/regulations/#4b3e)) 5x5x5 큐브, 6x6x6 큐브, 7x7x7 큐브, 그리고 메가밍크스: 충분한 많은 랜덤 회전(랜덤 상태 대신), 다 맞추기 위해 최소 2회전이 필요하다.
-    - [4b3f](https://www.worldcubeassociation.org/regulations/#4b3f)) 피라밍크스: (랜덤) 상태를 맞추기 위해선 최소 6회전 이상이 필요하다.
-  - [4b4](https://www.worldcubeassociation.org/regulations/#4b4)) 각각의 스크램블 공식은 최대 2시간까지 사용이 가능하다. 시작 시간은 처음으로 스크램블이 적용되었을 때를 기준으로 한다.
+- 4a) 스크램블러는 퍼즐에 스크램블 알고리즘을 적용한다.
+- 4b) 퍼즐은 컴퓨터가 생성한 임의의 스크램블 알고리즘로 스크램블되어야 한다.
+  - 4b1) 생성된 스크램블 알고리즘은 대회 전에 검수되어서는 안 되며, WCA 파견위원에 의해 어떤 방식으로든 여과되거나 선택되어서는 안 된다.
+  - 4b2) 한 조의 측정이 시작되기 전에는 오직 WCA 파견위원만 해당 조의 스크램블 알고리즘을 사용할 수 있어야 하며, 해당 조의 측정이 종료되기 전까지는 WCA 파견위원과 스크램블러만이 사용 가능하다. 예외: 3x3x3 최소회전 종목은 선수가 라운드 진행 도중에 스크램블 알고리즘을 받는다 ([제 E조](regulations:article:E) 참고).
+    - 4b2a) 대회에 지정된 WCA 파견위원은 자신이 향후 그룹에 대한 스크램블 알고리즘을 일시적으로 제공하지 못 할 때만 (예: 본인의 기록 측정) 운영진의 다른 구성원에게 스크램블 알고리즘에 대한 접근 권한을 부여할 수 있으며, 이 경우 가능한 최소한의 접근만을 허용해야 한다.
+  - 4b3) 스크램블 프로그램의 사양: 공식적인 스크램블 알고리즘은 퍼즐이 맞추어지기까지 어떤 상태에서든 최소 2 회전을 필요로 하는 임의의 상태를 생성해야 한다 (각 상태마다 동일한 확률로). 다음의 추가/예외 사항이 적용된다:
+    - 4b3a) 눈 가리고 맞추기 종목에서, 스크램블 알고리즘은 퍼즐의 방향을 무작위로 만들어야 한다 (각 방향에 대해 동일한 확률).
+    - 4b3b) 2x2x2 큐브: (무작위의) 상태는 맞추어지기 위해서 최소 4 회전을 필요로 해야 한다.
+    - 4b3c) 스큐브: (무작위의) 상태는 맞추어지기 위해서 최소 7 회전을 필요로 해야 한다.
+    - 4b3d) 스퀘어-1: (무작위의) 상태는 맞추어지기 위해서 최소 11 회전을 필요로 해야 한다.
+    - 4b3e) 5x5x5 큐브, 6x6x6 큐브, 7x7x7 큐브, 그리고 메가밍크스: 충분히 많은 무작위 회전(무작위의 상태 대신), 맞추어지기 위해서 최소 2 회전을 필요로 한다.
+    - 4b3f) 피라밍크스: (무작위의) 상태는 맞추어지기 위해서 최소 6 회전을 필요로 해야 한다.
+  - 4b4) 각 스크램블 알고리즘은 최대 2시간 동안 적용되어야 한다. 이 시간은 스크램블 알고리즘이 처음 적용될 때 시작된다.
 - [4d](https://www.worldcubeassociation.org/regulations/#4d)) 스크램블 방향:
   - [4d1](https://www.worldcubeassociation.org/regulations/#4d1)) NxNxN 큐브와 메가밍크스는 흰색면(불가능할 시 가장 밝은 면)을 위쪽에 , 그와 인접한 면 중에서 가장 어두운 초록색면(불가능할 시 가장 어두운 면)을 앞쪽에 두고 시작한다.
   - [4d2](https://www.worldcubeassociation.org/regulations/#4d2)) 피라밍크스는 노란색면(불가능할 시 가장 밝은 면)을 바닥쪽에, 초록색면(불가능할 시 가장 어두운 면)을 앞쪽에 두고 시작한다.
   - [4d3](https://www.worldcubeassociation.org/regulations/#4d3)) 스퀘어-1은 (스크램블이 가능한 2가지 방향 중)더 어두운 면을 앞쪽에 두고 시작한다.
   - [4d4](https://www.worldcubeassociation.org/regulations/#4d4)) 클락은 12시를 가리키는 한쪽 면을 앞쪽에 두고 시작한다.
   - [4d5](https://www.worldcubeassociation.org/regulations/#4d5)) 스큐브는 흰색면(불가능할 시 가장 밝은 면)을 위쪽에 , 그와 인접한 면 중에서 가장 어두운 초록색면(불가능할 시 가장 어두운 면)을 앞-왼쪽에 두고 시작한다.
-- [4f](https://www.worldcubeassociation.org/regulations/#4f)) 대회 스크램블 공식은 반드시 WCA 공인 최신 스크램블 프로그램을 사용하여 생성되어야 한다. ([WCA website](https://www.worldcubeassociation.org/regulations/scrambles/)에서 이용가능).
+- [4f](https://www.worldcubeassociation.org/regulations/#4f)) 대회 스크램블 알고리즘은 반드시 WCA 공인 최신 스크램블 프로그램을 사용하여 생성되어야 한다. ([WCA website](https://www.worldcubeassociation.org/regulations/scrambles/)에서 이용가능).
 - [4g](https://www.worldcubeassociation.org/regulations/#4g)) 퍼즐을 섞고난 다음, 스크램블러는 퍼즐이 정확하게 섞였는지 반드시 검사해야 한다. 만약 퍼즐 상태가 틀렸다면 스크램블러는 반드시 고쳐야한다. (예: 맞추고 다시 섞기)
 
   - [4g1](https://www.worldcubeassociation.org/regulations/#4g1)) 다음 예외들이 존재한다.:
@@ -322,7 +322,7 @@ WCA 규정과 권장 사항의 변천은 [GitHub](https://github.com/thewca/wca-
 - [11b](https://www.worldcubeassociation.org/regulations/#11b)) 특별 상황이 발생하면, WCA 파견위원은 공정하고 적절한 행동 조치를 결정해야 한다.
 - [11d](https://www.worldcubeassociation.org/regulations/#11d)) WCA 규정이 정확하지 않거나 WCA 규정 내에서 다뤄지지 않았다면, WCA 파견위원은 반드시 공정한 스포츠맨십을 기반으로 한 결정을 내려야 한다. (또한 [규정 11e3](https://www.worldcubeassociation.org/regulations/#11e3) 참조).
 - [11e](https://www.worldcubeassociation.org/regulations/#11e)) WCA 파견위원은 해당 특별 상황에 영향을 받은 시도를 대체할 엑스트라 시도를 선수에게 부여할 수 있다. 선수는 그 시도가 끝나기 전에 엑스트라 시도를 받을 자격이 있다는 말 또는 글로 심판과 WCA 파견위원에게 어필을 해야 한다. 이 어필은 선수에게 엑스트라 시도를 보장해주지 않는다.
-  - [11e1](https://www.worldcubeassociation.org/regulations/#11e1)) 선수가 엑스트라 시도를 받게 되면, 해당 엑스트라 시도는 반드시 다른 스크램블 공식으로 섞여야 한다. 이 스크램블 공식은 반드시 WCA 스크램블 프로그램의 공식 최신 버전을 이용하여 생성되어야 한다.([규정 4f](https://www.worldcubeassociation.org/regulations/#4f) 참조).
+  - [11e1](https://www.worldcubeassociation.org/regulations/#11e1)) 선수가 엑스트라 시도를 받게 되면, 해당 엑스트라 시도는 반드시 다른 스크램블 알고리즘으로 섞여야 한다. 이 스크램블 알고리즘은 반드시 WCA 스크램블 프로그램의 공식 최신 버전을 이용하여 생성되어야 한다.([규정 4f](https://www.worldcubeassociation.org/regulations/#4f) 참조).
   - [11e2](https://www.worldcubeassociation.org/regulations/#11e2)) 선수가 엑스트라 시도를 받게 되면, 해당 엑스트라 시도는 그 시도가 끝난 뒤 바로 진행되어야 하고 원래 시도의 순서를 반드시 대체해야 한다.
   - [11e3](https://www.worldcubeassociation.org/regulations/#11e3)) 특별 상황이 엑스트라 시도의 결과로 기록되어야 하는 것이 확실하지 않다면, 선수는 엑스트라 시도가 적절했다는 것이 추후에 판명났을 시에만 사용되는 임시 엑스트라 시도를 부여받을 수 있다. (예: WRC의 결정).
 - [11f](https://www.worldcubeassociation.org/regulations/#11f)) 특별 상황에 대한 결정은 WCA 파견위원에 재량에 따라 비디오 혹은 사진으로 보조 될 수 있다.
@@ -395,7 +395,7 @@ WCA 규정과 권장 사항의 변천은 [GitHub](https://github.com/thewca/wca-
   - [A2c](https://www.worldcubeassociation.org/regulations/#A2c)) 스크램블러가 퍼즐을 섞기 시작한 후, 선수는 미리보기 단계를 시작하기 전까지 절대로 본인의 퍼즐을 볼 수 없다.
     - [A2c1](https://www.worldcubeassociation.org/regulations/#A2c1)) 스크램블러는 섞인 퍼즐의 어느 부분도 선수 혹은 참관객에게 보이는 것을 불가능하게 만들게 하기 위해 커버를 씌운다. 이 커버는 시도가 시작할 때까지 덮여있는다.
   - [A2d](https://www.worldcubeassociation.org/regulations/#A2d)) 스크램블러에게서 퍼즐을 가져올 때, 러너는 퍼즐이 섞여있는지 짧게 확인한다. 러너는 관련된 어떠한 문제라도 스크램블러에게 말할 수 있으며, 스크램블러는 더 세밀한 체크를 한다.
-    - [A2d1](https://www.worldcubeassociation.org/regulations/#A2d1)) 스크램블러 혹은 정당한 심판은 반드시 섞인 퍼즐을 확인하고, 정확한 회차에 정확한 스크램블 공식이 적용되었는지 확인했다는 것을 증명하는 사인을 기록지에 서명(또는 이니셜)해야 한다. ([규정 4g](https://www.worldcubeassociation.org/regulations/#4g) 참조). 예외: 6x6x6 큐브, 7x7x7 큐브, 메가밍크스 큐브는 스크램블러가 퍼즐이 충분히 섞였다고 보장할 시 서명(또는 이니셜)할 수 있다. ([규정 4g1](https://www.worldcubeassociation.org/regulations/#4g1) 참조).
+    - [A2d1](https://www.worldcubeassociation.org/regulations/#A2d1)) 스크램블러 혹은 정당한 심판은 반드시 섞인 퍼즐을 확인하고, 정확한 회차에 정확한 스크램블 알고리즘이 적용되었는지 확인했다는 것을 증명하는 사인을 기록지에 서명(또는 이니셜)해야 한다. ([규정 4g](https://www.worldcubeassociation.org/regulations/#4g) 참조). 예외: 6x6x6 큐브, 7x7x7 큐브, 메가밍크스 큐브는 스크램블러가 퍼즐이 충분히 섞였다고 보장할 시 서명(또는 이니셜)할 수 있다. ([규정 4g1](https://www.worldcubeassociation.org/regulations/#4g1) 참조).
   - [A2e](https://www.worldcubeassociation.org/regulations/#A2e)) 심판은 퍼즐을 완전히 가려진 상태로 임의의 방향대로 매트에 내려놓는다.
     - [A2e1](https://www.worldcubeassociation.org/regulations/#A2e1)) 참가자는 어떤 특정한 방향을 요청하는 것이 허용되지 않으며, 심판은 절대로 퍼즐을 놓은 방향에 영향을 주면 안된다.
 - [A3](https://www.worldcubeassociation.org/regulations/#A3)) 미리보기:
@@ -500,8 +500,8 @@ WCA 규정과 권장 사항의 변천은 [GitHub](https://github.com/thewca/wca-
 ## [제 E조](https://www.worldcubeassociation.org/regulations/#article-E-fewest-moves): 최소회전
 
 - [E2](https://www.worldcubeassociation.org/regulations/#E2)) 3x3x3 최소회전의 절차:
-  - [E2a](https://www.worldcubeassociation.org/regulations/#E2a)) 심판은 스크램블 공식과 종이를 모든 참가자에게 나눠준다. 심판은 스톱워치를 시작하고 “시작”이라고 말한다.
-    - [E2a1](https://www.worldcubeassociation.org/regulations/#E2a1)) 시작하기 전에, 참가자는 절대로 해당 시도를 겨냥해서 종이에 무언가를 적을 수 없다. 예외: 참가자는 해당 시도를 증명하는 정보를 적을 수 있다. ([규정 E2c1](https://www.worldcubeassociation.org/regulations/#E2c1) 참조). 만약 스크램블 공식을 포함하는 종이에 정보를 적는다면, 반드시 스크램블 공식이 없는 쪽에 적어야 한다. 해당 시도를 증명하는 정보 이외에 다른 것을 적었을 시 벌칙: 해당 시도 실격 (DNF)
+  - [E2a](https://www.worldcubeassociation.org/regulations/#E2a)) 심판은 스크램블 알고리즘과 종이를 모든 참가자에게 나눠준다. 심판은 스톱워치를 시작하고 “시작”이라고 말한다.
+    - [E2a1](https://www.worldcubeassociation.org/regulations/#E2a1)) 시작하기 전에, 참가자는 절대로 해당 시도를 겨냥해서 종이에 무언가를 적을 수 없다. 예외: 참가자는 해당 시도를 증명하는 정보를 적을 수 있다. ([규정 E2c1](https://www.worldcubeassociation.org/regulations/#E2c1) 참조). 만약 스크램블 알고리즘을 포함하는 종이에 정보를 적는다면, 반드시 스크램블 알고리즘이 없는 쪽에 적어야 한다. 해당 시도를 증명하는 정보 이외에 다른 것을 적었을 시 벌칙: 해당 시도 실격 (DNF)
   - [E2b](https://www.worldcubeassociation.org/regulations/#E2b)) 모든 참가자는 답을 찾고 쓸 시간으로 최대 60분이 주어진다.
     - [E2b1](https://www.worldcubeassociation.org/regulations/#E2b1)) 심판은 “5분 남았습니다.”를 55분이 지났을 때 말해야 하고 60분이 지났을 때 “제출하세요.”라고 반드시 말해야 한다.
   - [E2c](https://www.worldcubeassociation.org/regulations/#E2c)) 60분이 끝나기 전까지, 참가자는 반드시 심판에게 답과 신원 확인을 증명하는 정보가 쓰여진 종이 한 장을 제출해야 한다.
@@ -509,11 +509,11 @@ WCA 규정과 권장 사항의 변천은 [GitHub](https://github.com/thewca/wca-
     - [E2c2](https://www.worldcubeassociation.org/regulations/#E2c2)) 답은 반드시 개별의 회전이 연속적으로 적혀진 하나의 정확한 회전 공식이어야 한다. 애매모호한 답에 대한 벌칙: 해당 시도 실격 (DNF)
     - [E2c3](https://www.worldcubeassociation.org/regulations/#E2c3)) 참가자는 정확하게 답의 부분인 아닌 모든 회전을 까맣게 칠해야 한다.
     - [E2c4](https://www.worldcubeassociation.org/regulations/#E2c4)) 참가자의 답은 반드시 [규정 12a](https://www.worldcubeassociation.org/regulations/#12a)에 있는 3x3x3 큐브의 표기법과 정확하게 일치하는 회전 기호만을 사용해야 하며, 규정되어 있지 않은 기호를 절대로 써서는 안된다. 어길 시 벌칙: 해당 시도 실격 (DNF)
-    - [E2c5](https://www.worldcubeassociation.org/regulations/#E2c5)) 맞춰진 퍼즐로 시작해서 스크램블 공식을 적용, 그 후에 답지에 적힌 공식을 적용했을 때 맞춰진 퍼즐로 돌아온다면 참가자의 답은 정확한 것으로 간주한다. 정확하지 않은 답에 대한 벌칙: 해당 시도 실격 (DNF)
+    - [E2c5](https://www.worldcubeassociation.org/regulations/#E2c5)) 맞춰진 퍼즐로 시작해서 스크램블 알고리즘을 적용, 그 후에 답지에 적힌 공식을 적용했을 때 맞춰진 퍼즐로 돌아온다면 참가자의 답은 정확한 것으로 간주한다. 정확하지 않은 답에 대한 벌칙: 해당 시도 실격 (DNF)
   - [E2d](https://www.worldcubeassociation.org/regulations/#E2d)) 참가자의 기록은 외부 층 회전 계산을 이용해 계산한 답지의 회전수이다. ([규정 12a5](https://www.worldcubeassociation.org/regulations/#12a5) 참조)
     - [E2d1](https://www.worldcubeassociation.org/regulations/#E2d1)) 참가자의 답은 수행 회전 계산([규정 12a6](https://www.worldcubeassociation.org/regulations/#12a6) 참조)을 이용하여 최대 80회전(시점 변환 포함)을 절대로 넘어선 안된다. 어길 시 벌칙: 해당 시도 실격 (DNF)
-  - [E2e](https://www.worldcubeassociation.org/regulations/#E2e)) 참가자의 답은 절대로 스크램블 공식의 일부를 직접적으로 사용해서는 안된다. 어길 시 벌칙 : WCA 파견위원의 재량에 따라 해당 시도 실격 (DNF)
-    - [E2e1](https://www.worldcubeassociation.org/regulations/#E2e1)) WCA 파견위원은 참가자에게 답의 각각의 회전의 목적을 스크램블 공식과는 별개로 물어볼 수 있다. 만약 참가자가 유효한 설명을 하지 못한다면, 해당 시도는 실격 처리 된다. (DNF)
+  - [E2e](https://www.worldcubeassociation.org/regulations/#E2e)) 참가자의 답은 절대로 스크램블 알고리즘의 일부를 직접적으로 사용해서는 안된다. 어길 시 벌칙 : WCA 파견위원의 재량에 따라 해당 시도 실격 (DNF)
+    - [E2e1](https://www.worldcubeassociation.org/regulations/#E2e1)) WCA 파견위원은 참가자에게 답의 각각의 회전의 목적을 스크램블 알고리즘과는 별개로 물어볼 수 있다. 만약 참가자가 유효한 설명을 하지 못한다면, 해당 시도는 실격 처리 된다. (DNF)
 - [E3](https://www.worldcubeassociation.org/regulations/#E3)) 참가자는 다음의 것들을 사용해도 된다. 허가되지 않은 물건 사용에 대한 벌칙: 해당 시도 실격 (DNF)
   - [E3a](https://www.worldcubeassociation.org/regulations/#E3a)) 종이(심판이 제공), 기록지 (심판이 제공), 해당 시도의 스크램블 그림 (종이 혹은 기록지에 포함도 가능), 펜이나 연필등 (심판이 제공, 혹은 개별적으로 준비)
   - [E3b](https://www.worldcubeassociation.org/regulations/#E3b)) 3x3x3 큐브(최대 3개, 개별적으로 준비), 또한 이 큐브는 시도 전에 [제 3조](https://www.worldcubeassociation.org/regulations/#3)에 설명된 것이어야 한다.
@@ -521,7 +521,7 @@ WCA 규정과 권장 사항의 변천은 [GitHub](https://github.com/thewca/wca-
   - [E3d](https://www.worldcubeassociation.org/regulations/#E3d)) WCA 피견위원이 확인을 한 시간을 확인하기 위한 스톱워치나 시계 (개별적으로 준비)
   - [E3e](https://www.worldcubeassociation.org/regulations/#E3e)) WCA 파견위원의 재량에 따라 불공정한 이득을 주지 않는 비전자 보조장치 ([규정 2i1](https://www.worldcubeassociation.org/regulations/#2i1) 참조).
   - [E3f](https://www.worldcubeassociation.org/regulations/#E3f)) 마킹을 지울 수 있는 도구(개별적으로 준비), 수정액, 수정 테이프, 지우개 등등.
-- [E4](https://www.worldcubeassociation.org/regulations/#E4)) WCA 파견위원은 답지를 공개하기 위해 고를 수 있다. (예: 기록지 사진, 스크램블 공식)
+- [E4](https://www.worldcubeassociation.org/regulations/#E4)) WCA 파견위원은 답지를 공개하기 위해 고를 수 있다. (예: 기록지 사진, 스크램블 알고리즘)
 - [E5](https://www.worldcubeassociation.org/regulations/#E5)) 참가자는 WCA 파견위원, 심판을 제외한 사람과 절대로 소통을 해서는 안된다. 이 소통은 WCA 규정에 관한 것이어야 하며 참가자는 해답을 도출해 내는데 절대로 어떠한 보조를 받으면 안된다. 어길 시 벌칙: 해당 시도 실격 (DNF)
 
 ## [제 F조](https://www.worldcubeassociation.org/regulations/#article-F-clock): 클락
