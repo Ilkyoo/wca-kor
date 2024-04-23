@@ -9,10 +9,10 @@
 번역본은 편의를 위해 WCA 웹사이트에서 제공되지만, 공식 버전이 아님을 유의한다.
 번역본과 (현재 공식적인) 영문 버전 사이에 차이가 있는 경우 영문 버전이 사용되어야 한다.
 
-### WCA 규정과 권장 사항
+### WCA 규정과 지침
 
 WCA 규정은 세계 큐브 협회(이하 WCA)에 의해 승인되는 모든 공인 대회에 적용되는 모든 규정을 포함한다.
-WCA 규정은 [WCA 권장 사항](guidelines:top)으로 보충될 수 있다. 규정은 완전한 문서로 여겨져야 하나, 권장 사항은 추가적인 명확화와 설명이 포함되어있다.
+WCA 규정은 [WCA 지침](guidelines:top)으로 보충될 수 있다. 규정은 완전한 문서로 여겨져야 하나, 지침은 추가적인 명확화와 설명이 포함되어있다.
 
 ### 단어 선택
 
@@ -26,7 +26,7 @@ WCA 규정의 [PDF 서식](link:pdf)
 
 ### 출처
 
-WCA 규정과 권장 사항의 변천은 [GitHub](https://github.com/thewca/wca-regulations)에 공개되어 있으며, 논의는 [WCA Forum](https://forum.worldcubeassociation.org/c/regulations)에 공개되어 있다.
+WCA 규정과 지침의 변천은 [GitHub](https://github.com/thewca/wca-regulations)에 공개되어 있으며, 논의는 [WCA Forum](https://forum.worldcubeassociation.org/c/regulations)에 공개되어 있다.
 
 ### 연락
 
@@ -171,19 +171,18 @@ WCA 규정과 권장 사항의 변천은 [GitHub](https://github.com/thewca/wca-
     - 4b3e) 5x5x5 큐브, 6x6x6 큐브, 7x7x7 큐브, 그리고 메가밍크스: 충분히 많은 무작위 회전(무작위의 상태 대신), 맞추어지기 위해서 최소 2 회전을 필요로 한다.
     - 4b3f) 피라밍크스: (무작위의) 상태는 맞추어지기 위해서 최소 6 회전을 필요로 해야 한다.
   - 4b4) 각 스크램블 알고리즘은 최대 2시간 동안 적용되어야 한다. 이 시간은 스크램블 알고리즘이 처음 적용될 때 시작된다.
-- [4d](https://www.worldcubeassociation.org/regulations/#4d)) 스크램블 방향:
-  - [4d1](https://www.worldcubeassociation.org/regulations/#4d1)) NxNxN 큐브와 메가밍크스는 흰색면(불가능할 시 가장 밝은 면)을 위쪽에 , 그와 인접한 면 중에서 가장 어두운 초록색면(불가능할 시 가장 어두운 면)을 앞쪽에 두고 시작한다.
-  - [4d2](https://www.worldcubeassociation.org/regulations/#4d2)) 피라밍크스는 노란색면(불가능할 시 가장 밝은 면)을 바닥쪽에, 초록색면(불가능할 시 가장 어두운 면)을 앞쪽에 두고 시작한다.
-  - [4d3](https://www.worldcubeassociation.org/regulations/#4d3)) 스퀘어-1은 (스크램블이 가능한 2가지 방향 중)더 어두운 면을 앞쪽에 두고 시작한다.
-  - [4d4](https://www.worldcubeassociation.org/regulations/#4d4)) 클락은 12시를 가리키는 한쪽 면을 앞쪽에 두고 시작한다.
-  - [4d5](https://www.worldcubeassociation.org/regulations/#4d5)) 스큐브는 흰색면(불가능할 시 가장 밝은 면)을 위쪽에 , 그와 인접한 면 중에서 가장 어두운 초록색면(불가능할 시 가장 어두운 면)을 앞-왼쪽에 두고 시작한다.
-- [4f](https://www.worldcubeassociation.org/regulations/#4f)) 대회 스크램블 알고리즘은 반드시 WCA 공인 최신 스크램블 프로그램을 사용하여 생성되어야 한다. ([WCA website](https://www.worldcubeassociation.org/regulations/scrambles/)에서 이용가능).
-- [4g](https://www.worldcubeassociation.org/regulations/#4g)) 퍼즐을 섞고난 다음, 스크램블러는 퍼즐이 정확하게 섞였는지 반드시 검사해야 한다. 만약 퍼즐 상태가 틀렸다면 스크램블러는 반드시 고쳐야한다. (예: 맞추고 다시 섞기)
-
-  - [4g1](https://www.worldcubeassociation.org/regulations/#4g1)) 다음 예외들이 존재한다.:
-    - [4g1a](https://www.worldcubeassociation.org/regulations/#4g1a)) 6x6x6 큐브, 7x7x7 큐브, 그리고 메가밍크스 종목에서, WCA 파견위원에 재량에 따라 퍼즐 상태를 정정하지 않아도 된다.
-    - [4g1b](https://www.worldcubeassociation.org/regulations/#4g1b)) 5x5x5 큐브 종목에서, 스크램블러는 퍼즐 상태를 정정해야 한다. 만약 정정을 하는데 심각한 일정의 영향을 끼친다면 WCA 파견위원의 재량에 따라 퍼즐의 상태를 정정하지 않아도 된다.
-  - [4g2](https://www.worldcubeassociation.org/regulations/#4g2)) 복수 눈 가리기 종목에서, 스크램블을 모두 마친 후, 스크램블러는 반드시 중복되는 스크램블이 없는지 확인해야 한다.
+- 4d) 스크램블링 방향:
+  - 4d1) NxNxN 큐브와 메가밍크스는 흰색 면이(없다면 가장 밝은 색의 면) 위에 오도록 하고, 흰색 면과 인접한 면 중 가장 어두운 초록색 면이(없다면 인접한 면 중 가장 어두운 색의 면) 정면에 오게 한 채로 스크램블링을 시작해야 한다.
+  - 4d2) 피라밍크스는 노란색 면이(없다면 가장 밝은 색의 면) 아래로, 초록색 면이(없다면 인접한 면 중 가장 어두운 색의 면) 앞에 오게 한 채로 스크램블링을 시작해야 한다.
+  - 4d3) 스퀘어-1은 (스크램블이 가능한 2가지 방향 중) 어두운 색의 면을 앞쪽에 오게 한 채로 스크램블링을 시작해야 한다.
+  - 4d4) 클락은 아무 면이나 앞에 두고 12시가 위로 향하게 한 채로 스크램블링을 시작해야 한다.
+  - 4d5) 스큐브는 흰색 면이(없다면 가장 밝은 색의 면) 위에 오도록, 초록색 면이(없다면 가장 밝은 색의 면) 앞-왼쪽 에 오도록 한 채로 스크램블링을 시작해야 한다.
+- 4f) 대회의 스크램블 알고리즘은 공식 WCA 스크램블 프로그램의 현재 공식 버전을 사용하여 생성되어야 한다. ([WCA 웹 사이트](https://www.worldcubeassociation.org/regulations/scrambles/)에서 이용가능).
+- 4g) 퍼즐을 스크램블한 후, 스크램블러는 퍼즐이 올바르게 스크램블 되었는지 확인해야 한다. 퍼즐이 올바르게 스크램블 되지 않았다면, 스크램블러는 이를 정정하여야 한다. (예: 퍼즐을 맞추고 다시 스크램블 알고리즘을 적용하기)
+  - 4g1) 다음 예외가 적용된다:
+    - 4g1a) 6x6x6 큐브, 7x7x7 큐브, 메가밍크스 종목에서는 WCA 파견위원에 재량에 따라 퍼즐의 상태를 정정하지 않아도 된다.
+    - 4g1b) 5x5x5 큐브 종목은 스크램블러가 퍼즐의 상태를 정정하여야 한다. 퍼즐의 상태를 정정하는 것이 대회 일정에 심각한 지장을 줄 경우, WCA 파견위원에 재량에 따라 퍼즐의 상태를 정정하지 않아도 된다.
+  - 4g2) 3x3x3 눈 가리고 맞추기 (복수) 종목에서는, 모든 큐브의 스크램블링을 마친 후, 스크램블러는 중복된 스크램블이 없는지 확인해야 한다.
 
   ## [제 5조](https://www.worldcubeassociation.org/regulations/#article-5-puzzle-defects): 퍼즐 파손
 
@@ -326,7 +325,7 @@ WCA 규정과 권장 사항의 변천은 [GitHub](https://github.com/thewca/wca-
   - [11e2](https://www.worldcubeassociation.org/regulations/#11e2)) 선수가 엑스트라 시도를 받게 되면, 해당 엑스트라 시도는 그 시도가 끝난 뒤 바로 진행되어야 하고 원래 시도의 순서를 반드시 대체해야 한다.
   - [11e3](https://www.worldcubeassociation.org/regulations/#11e3)) 특별 상황이 엑스트라 시도의 결과로 기록되어야 하는 것이 확실하지 않다면, 선수는 엑스트라 시도가 적절했다는 것이 추후에 판명났을 시에만 사용되는 임시 엑스트라 시도를 부여받을 수 있다. (예: WRC의 결정).
 - [11f](https://www.worldcubeassociation.org/regulations/#11f)) 특별 상황에 대한 결정은 WCA 파견위원에 재량에 따라 비디오 혹은 사진으로 보조 될 수 있다.
-- [11g](https://www.worldcubeassociation.org/regulations/#11g)) WCA 파견위원은 특별 상황에 상담을 위해 참가자들에게 반드시 규정과 권장 사항의 복사본을 구비해둬야 한다. (예: 인쇄물, 문서화, 혹은 인터넷을 통해)
+- [11g](https://www.worldcubeassociation.org/regulations/#11g)) WCA 파견위원은 특별 상황에 상담을 위해 참가자들에게 반드시 규정과 지침의 복사본을 구비해둬야 한다. (예: 인쇄물, 문서화, 혹은 인터넷을 통해)
 - [11h](https://www.worldcubeassociation.org/regulations/#11h)) WCA 파견위원은 [규정 2k3](https://www.worldcubeassociation.org/regulations/#2k3)을 명백히 위반하는 참가자에게 상황의 심각성과 최선의 방법임을 설명하고, 대회장을 나가줄 것을 요청할 수 있다. 만약 참가자가 이를 거부할 시, WCA에서 징계 조치가 될 수 있다.
 
 ## [제 12조](https://www.worldcubeassociation.org/regulations/#article-12-notation): 표기법
