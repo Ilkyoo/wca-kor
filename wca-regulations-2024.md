@@ -184,28 +184,27 @@ WCA 규정과 지침의 변천은 [GitHub](https://github.com/thewca/wca-regulat
     - 4g1b) 5x5x5 큐브 종목은 스크램블러가 퍼즐의 상태를 정정하여야 한다. 퍼즐의 상태를 정정하는 것이 대회 일정에 심각한 지장을 줄 경우, WCA 파견위원에 재량에 따라 퍼즐의 상태를 정정하지 않아도 된다.
   - 4g2) 3x3x3 눈 가리고 맞추기 (복수) 종목에서는, 모든 큐브의 스크램블링을 마친 후, 스크램블러는 중복된 스크램블이 없는지 확인해야 한다.
 
-  ## [제 5조](https://www.worldcubeassociation.org/regulations/#article-5-puzzle-defects): 퍼즐 파손
+## <article-5><puzzle-defects><puzzledefects> 제 5조: 퍼즐 파손
 
-- [5a](https://www.worldcubeassociation.org/regulations/#5a)) 퍼즐 파손의 예시는 다음을 포함한다.: 튀어나온 조각, 제자리에서 돌아간 조각, 빠진 나사/캡/스티커
-- [5b](https://www.worldcubeassociation.org/regulations/#5b)) 퍼즐 파손이 시도 중에 발생하면, 선수는 그 파손을 수리하고 시도를 이어나갈지, 멈출지 고를 수 있다.
+- 5a) 퍼즐 파손의 예시는 다음을 포함한다.: 튀어나온 조각, 제자리에서 뒤틀린 조각, 분리된 나사/캡/스티커.
+- 5b) 퍼즐 파손이 시도 도중에 발생하면, 선수는 파손을 수리하고 시도를 이어나갈지 혹은 시도를 중단할 것인지 선택해야 한다.
+  - 5b1) 선수가 퍼즐을 수리하기로 선택하면, 선수는 파손된 부분만을 수리해야 한다. 도구나 다른 퍼즐의 조각은 절대로 원래의 퍼즐을 수리하는 데 사용될 수 없다. 페널티: 해당 시도의 실격 (DNF).
+  - 5b2) 퍼즐에 행해지는 어떠한 수리도 선수가 퍼즐을 맞추는 데 있어 이득을 주어서는 안 된다. 페널티: 해당 시도의 실격 (DNF).
+  - 5b3) 허용된 수리:
+    - 5b3a) 어떠한 부품이 떨어져 나가거나 제자리에서 벗어난 경우, 선수는 해당 부품을 제자리로 되돌려 놓을 수 있다.
+    - 5b3b) 선수가 퍼즐을 수리하였으나 수리 후 솔빙 도중 퍼즐이 완전히 맞추어질 수 없는 상태인 것을 발견했을 때, 맞출 수 있는 상태로 만들기 위해 최대 4 조각까지 분해했다가 재조립할 수 있다.
+    - 5b3c) 만약 퍼즐이 맞출 수 없는 상태이면서 코너 한 조각을 돌리면 맞출 수 있는 상태가 될 수 있을 경우, 선수는 퍼즐을 분해하지 않고 코너 한 조각을 돌려서 상태를 정정할 수 있다.
+  - 5b4) 눈 가리고 맞추기 단계 동안은([규정 B4](regulations:regulation:B4) 참고), 모든 수리가 반드시 눈을 가린 상태에서 수행되어야 한다. 페널티: 해당 시도의 실격 (DNF).
+  - 5b5) 기록 측정이 끝날 무렵에 퍼즐의 일부가 물리적으로 떨어져 있거나 제자리에 완전히 위치하지 않은 경우, 다음 규정을 적용한다:
+    - 5b5a) 색이 있는 면이 없는 하나 혹은 그 이상의 부품이 영향을 받았다면, 해당 퍼즐은 맞추어진 것으로 간주한다.
+    - 5b5b) 하나의 색이 있는 면이 포함된 하나의 부품이 영향을 받았다면, 해당 퍼즐은 맞추어진 것으로 간주한다.
+    - 5b5c) 하나의 색이 있는 면이 포함된 두 개 이상의 부품이 영향을 받았다면, 해당 퍼즐은 맞추어지지 않은 것으로 간주한다 (DNF).
+    - 5b5d) 둘 이상의 색이 있는 면이 포함된 하나 이상의 부품이 영향을 받았다면, 해당 퍼즐은 맞추어지지 않은 것으로 간주한다 (DNF).
+    - 5b5e) 규정 [5b5c](regulations:regulation:5b5c)와 [5b5d](regulations:regulation:5b5d)는 [5b5a](regulations:regulation:5b5a)와 [5b5b](regulations:regulation:5b5b)보다 우선적으로 적용된다.
+    - 5b5f) 만약 부품이 부분적으로 떨어져 있거나 제자리에 완전히 위치하지 못하면, 해당 부품의 최종 위치는 퍼즐의 현재 상태를 고려할 때 영향을 받은 조각이 퍼즐 메커니즘 안에서 정상적으로 맞을 수 있는 가장 가까운 위치이다. 최종 위치가 조각이 맞추어 진 것으로 만들게 한다면, 해당 조각은 퍼즐 파손으로부터 영향을 받지 않은 것으로 여긴다.
+  - 5b6) 정의: 부품이란 퍼즐의 일반적인 작동 중에 서로 연결되어 있고 서로에 대해 움직이지 않는, 퍼즐 구성 요소 그룹에서 완전히 연결된 하나 이상의 구성 요소이다(예: 3x3x3 센터 캡, 피라미드 팁, 한 면이 없는 3x3x3 코너 조각, 3x3x3 코너 조각의 한 면)
 
-  - [5b1](https://www.worldcubeassociation.org/regulations/#5b1)) 선수가 수리하기로 했다면, 파손된 조각만을 고쳐야 한다. 도구나 다른 퍼즐의 조각은 절대로 사용될 수 없다. 어길 시 벌칙: 해당 시도 실격 (DNF)
-  - [5b2](https://www.worldcubeassociation.org/regulations/#5b2)) 어떠한 수리도 참가자에게 이득을 주어서는 안된다. 어길 시 벌칙: 해당 시도 실격 (DNF)
-  - [5b3](https://www.worldcubeassociation.org/regulations/#5b3)) 허용된 수리:
-    - [5b3a](https://www.worldcubeassociation.org/regulations/#5b3a)) 어떤 조각이 떨어졌거나 다른 위치로 갔을 경우, 선수는 되돌릴 수 있다.
-    - [5b3b](https://www.worldcubeassociation.org/regulations/#5b3b)) 선수가 퍼즐을 고쳤으나 솔빙 도중 완전히 맞출 수 없는 상태인 것을 발견했을 때, 맞출 수 있는 상태로 만들기 위해 최대 4 조각까지 분해했다가 재조립할 수 있다.
-    - [5b3c](https://www.worldcubeassociation.org/regulations/#5b3c)) 만약 퍼즐이 맞출 수 없는 상태이면서, 코너 조각 한 개를 돌려서 해결할 수 있다면, 선수는 분해 없이 코너 조각 한 개를 돌려서 상태를 되돌릴 수 있다.
-  - [5b4](https://www.worldcubeassociation.org/regulations/#5b4)) 눈 가리고 맞추기 단계에서([규정 B4](https://www.worldcubeassociation.org/regulations/#B4) 참조), 모든 수리는 반드시 눈을 가린 상태에서 진행되어야 한다. 어길 시 벌칙: 해당 시도 실격 (DNF)
-  - [5b5](https://www.worldcubeassociation.org/regulations/#5b5)) 측정을 마친 뒤에 퍼즐의 어느 조각이 물리적으로 떨어져 있거나 완전히 제자리에 있지 않다면, 다음과 같은 규정을 적용한다.:
-    - [5b5a](https://www.worldcubeassociation.org/regulations/#5b5a)) 색이 있는 면에 영향을 주지 않는 하나 혹은 그 이상의 조각이라면 그 퍼즐은 맞춰져 있다고 간주한다.
-    - [5b5b](https://www.worldcubeassociation.org/regulations/#5b5b)) 한 가지 색이 있는 면의 한 조각이라면, 그 퍼즐은 맞춰져 있다고 간주한다.
-    - [5b5c](https://www.worldcubeassociation.org/regulations/#5b5c)) 한 가지 색이 있는 면의 두 조각 이상이라면, 그 퍼즐은 맞춰지지 않았다고 간주한다. (DNF)
-    - [5b5d](https://www.worldcubeassociation.org/regulations/#5b5d)) 두 가지 색 이상이 있는 면의 하나 이상의 조각이라면, 그 퍼즐은 맞춰지지 않았다고 간주한다. (DNF)
-    - [5b5e](https://www.worldcubeassociation.org/regulations/#5b5e)) 규정 [5b5c](https://www.worldcubeassociation.org/regulations/#5b5c)와 [5b5d](https://www.worldcubeassociation.org/regulations/#5b5d)는 [5b5a](https://www.worldcubeassociation.org/regulations/#5b5a)와 [5b5b](https://www.worldcubeassociation.org/regulations/#5b5b)보다 우선순위로 적용된다.
-    - [5b5f](https://www.worldcubeassociation.org/regulations/#5b5f)) 만약 조각이 부분적으로 떨어져 있거나 완전히 위치한 게 아니라면, 최종 위치는 현재 퍼즐의 상태를 고려하여 퍼즐 작동 방식에 한하여 영향을 받는 조각과 가장 가까운 위치로 결정된다. 만약 이 위치가 맞춰진 상태로 만든다면, 해당 조각은 퍼즐 파손이라고 간주되지 않는다.
-  - [5b6](https://www.worldcubeassociation.org/regulations/#5b6)) 정의 : 조각은 퍼즐을 작동할 때 서로 움직이지 않는 퍼즐 구성의 그룹으로부터 하나 또는 그 이상에게 완전히 연결되어 있는 구성품이다. (예: 3x3x3 센터 캡, 피라밍크스 팁, 한 면이 없는 3x3x3 코서 조각, 3x3x3 코너 조각의 한 면)
-
-  ## [제 7조](https://www.worldcubeassociation.org/regulations/#article-7-environment): 환경
+  ## <article-7><environment><environment> 제 7조: 환경
 
 - [7b](https://www.worldcubeassociation.org/regulations/#7b)) 관중은 반드시 측정하는 공간과 최소 1.5m 이상 떨어져 있어야 한다.
 - [7c](https://www.worldcubeassociation.org/regulations/#7c)) 대회 장소의 조명은 특별한 주의가 필요하다. 조명은 선수들이 쉽게 색을 구분할 수 있는 백색 조명이어야 한다.
