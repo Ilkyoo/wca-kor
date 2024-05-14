@@ -188,6 +188,7 @@ WCA 규정과 지침의 변천은 [GitHub](https://github.com/thewca/wca-regulat
 
 - 5a) 퍼즐 파손의 예시는 다음을 포함한다.: 튀어나온 조각, 제자리에서 뒤틀린 조각, 분리된 나사/캡/스티커.
 - 5b) 퍼즐 파손이 시도 도중에 발생하면, 선수는 파손을 수리하고 시도를 이어나갈지 혹은 시도를 중단할 것인지 선택해야 한다.
+
   - 5b1) 선수가 퍼즐을 수리하기로 선택하면, 선수는 파손된 부분만을 수리해야 한다. 도구나 다른 퍼즐의 조각은 절대로 원래의 퍼즐을 수리하는 데 사용될 수 없다. 페널티: 해당 시도의 실격 (DNF).
   - 5b2) 퍼즐에 행해지는 어떠한 수리도 선수가 퍼즐을 맞추는 데 있어 이득을 주어서는 안 된다. 페널티: 해당 시도의 실격 (DNF).
   - 5b3) 허용된 수리:
@@ -222,25 +223,25 @@ WCA 규정과 지침의 변천은 [GitHub](https://github.com/thewca/wca-regulat
   - 7h1) 운영진은 기록 측정을 위해 호명된 참가자가 라운드 내에서 자신의 모든 시도가 끝날 때까지 지정된 선수 대기석에 남아있을 것을 요구할 수 있다.
   - 7h2) 정의: 선수 대기석은 조에 속한 선수들이 기록 측정 구역으로 호출되기 위해 대기하는 구역이다.
 
-  ## [제 9조](https://www.worldcubeassociation.org/regulations/#article-9-events): 종목
+# <article-9><events><events> 제 9조: 종목
 
-- [9a](https://www.worldcubeassociation.org/regulations/#9a)) WCA는 “트위스티 퍼즐”이라고 알려진 퍼즐들에 대한 대회를 주관한다.
-- [9b](https://www.worldcubeassociation.org/regulations/#9b)) WCA의 공인 종목과 형식들:
-  - [9b1](https://www.worldcubeassociation.org/regulations/#9b1)) 3x3x3 큐브, 2x2x2 큐브, 4x4x4 큐브, 5x5x5 큐브, 3x3x3 한 손, 클락, 메가밍크스, 피라밍크스, 스큐브, 그리고 스퀘어-1.
-    - [9b1a](https://www.worldcubeassociation.org/regulations/#9b1a)) 라운드 형식: "5회 평균"
-    - [9b1b](https://www.worldcubeassociation.org/regulations/#9b1b)) 컷오프 형식: "2회 최고" / "5회 평균"
-  - [9b2](https://www.worldcubeassociation.org/regulations/#9b2)) 6x6x6 큐브와 7x7x7 큐브.
-    - [9b2a](https://www.worldcubeassociation.org/regulations/#9b2a)) 라운드 형식: "3회 평균".
-    - [9b2b](https://www.worldcubeassociation.org/regulations/#9b2b)) 컷오프 형식: "1회 최고" / "3회 평균"
-  - [9b3](https://www.worldcubeassociation.org/regulations/#9b3)) 3x3x3 눈 가리기, 4x4x4 눈 가리기, 5x5x5 눈 가리기.
-    - [9b3a](https://www.worldcubeassociation.org/regulations/#9b3a)) 라운드 형식: "3회 최고".
-    - [9b3b](https://www.worldcubeassociation.org/regulations/#9b3b)) 이 종목들에서, WCA는 “3회 최고” 기록들을 기반으로 한 “3회 평균” 순위와 기록도 제공한다.
-  - [9b4](https://www.worldcubeassociation.org/regulations/#9b4)) 최소회전.
-    - [9b4a](https://www.worldcubeassociation.org/regulations/#9b4a)) 라운드 형식: "X회 최고" (X는 1 또는 2) 혹은 "3회 평균"
-    - [9b4b](https://www.worldcubeassociation.org/regulations/#9b4b)) 컷오프 형식: "1회 최고" / ”2회 최고” 혹은 “X회 최고” (X는 1 또는 2) / “3회 평균”
-  - [9b5](https://www.worldcubeassociation.org/regulations/#9b5)) 3x3x3 복수 눈 가리기.
-    - [9b5a](https://www.worldcubeassociation.org/regulations/#9b5a)) 라운드 형식: "X회 최고" (X는 1 또는 2 또는 3)
-    - [9b5b](https://www.worldcubeassociation.org/regulations/#9b5b)) 컷오프 형식: "X회 최고" (X는 1 또는 2) / "Y회 최고" (Y는 2 또는 3이며 Y > X)
+- 9a) WCA는 조각들을 돌림으로써 작동되는 “트위스티 퍼즐”이라고 알려진 기계식 퍼즐들에 대한 대회를 관할한다.
+- 9b) WCA의 공인 종목은 다음과 같다:
+  - 9b1) 3x3x3 큐브, 2x2x2 큐브, 4x4x4 큐브, 5x5x5 큐브, 3x3x3 한 손, 클락, 메가밍크스, 피라밍크스, 스큐브, 그리고 스퀘어-1.
+    - 9b1a) 위 종목들의 전체 라운드 형식: "평균(5회)"
+    - 9b1b) 위 종목들의 컷오프 형식: "평균(5회)" 형식에 대한 "최고(2회)" 컷오프 형식.
+  - 9b2) 6x6x6 큐브와 7x7x7 큐브.
+    - 9b2a) 위 종목들의 전체 라운드 형식: "평균(3회)".
+    - 9b2b) 위 종목들의 컷오프 형식: "평균(3회)" 형식에 대한 "최고(1회)" 컷오프 형식.
+  - 9b3) 3x3x3 눈 가리고 맞추기, 4x4x4 눈 가리고 맞추기, 5x5x5 눈 가리고 맞추기.
+    - 9b3a) 위 종목들의 전체 라운드 형식: "최고(3회)".
+    - 9b3b) 위 종목들에서, WCA는 “최고(3회)” 형식으로 진행된 라운드의 기록들을 기반으로 한 “평균(3회)” 순위와 기록 또한 인정한다.
+  - 9b4) 3x3x3 최소회전.
+    - 9b4a) 위 종목의 전체 라운드 형식: "최고(X회)" (X는 1 또는 2) 혹은 "평균(3회)"
+    - 9b4b) 위 종목의 컷오프 형식: "최고(2회)" 형식에 대한 "최고(1회)" 컷오프 형식, 혹은 "평균(3회)" 형식에 대한 "최고(X회)" (X는 1 또는 2) 컷오프 형식.
+  - 9b5) 3x3x3 눈 가리고 맞추기 (복수).
+    - 9b5a) 위 종목의 전체 라운드 형식: "최고(X회)" (X는 1, 2 또는 3)
+    - 9b5b) 위 종목의 컷오프 형식: "최고(Y회)" (Y는 2 또는 3이며 Y > X) 형식에 대한 "최고(X회)" (X는 1 또는 2) 컷오프 형식.
 - [9f](https://www.worldcubeassociation.org/regulations/#9f)) 라운드의 결과는 다음과 같은 방식으로 기록된다.:
   - [9f1](https://www.worldcubeassociation.org/regulations/#9f1)) 3x3x3 복수 눈 가리기 종목을 제외하고 모든 시간 기록 종목은 10분 이내, 소수점 두 번째 자리까지 기록된다. 모든 10분 이내의 평균은 소수점 두 번째 자리까지 반올림하여 기록된다.
   - [9f2](https://www.worldcubeassociation.org/regulations/#9f2)) 3x3x3 복수 눈 가리기 종목과 같이 모든 10분을 넘어간 기록, 평균은 초까지 반올림하여 기록된다.(예: X.49 → X, X.50 → X+1).
