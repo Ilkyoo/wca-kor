@@ -205,7 +205,7 @@ WCA 규정과 지침의 변천은 [GitHub](https://github.com/thewca/wca-regulat
     - 5b5f) 만약 부품이 부분적으로 떨어져 있거나 제자리에 완전히 위치하지 못하면, 해당 부품의 최종 위치는 퍼즐의 현재 상태를 고려할 때 영향을 받은 조각이 퍼즐 메커니즘 안에서 정상적으로 맞을 수 있는 가장 가까운 위치이다. 최종 위치가 조각이 맞추어 진 것으로 만들게 한다면, 해당 조각은 퍼즐 파손으로부터 영향을 받지 않은 것으로 여긴다.
   - 5b6) 정의: 부품이란 퍼즐의 일반적인 작동 중에 서로 연결되어 있고 서로에 대해 움직이지 않는, 퍼즐 구성 요소 그룹에서 완전히 연결된 하나 이상의 구성 요소이다(예: 3x3x3 센터 캡, 피라미드 팁, 한 면이 없는 3x3x3 코너 조각, 3x3x3 코너 조각의 한 면)
 
-  ## <article-7><environment><environment> 제 7조: 환경
+## <article-7><environment><environment> 제 7조: 환경
 
 - 7b) 관중은 기록 측정 구역과 반드시 최소 1.5 미터 이상 떨어져 있어야 한다.
 - 7c) 대회 장소의 조명은 특별한 주의를 기울여야 한다. 참가자가 퍼즐의 색상을 쉽게 구분할 수 있도록 조명은 중립적이어야 한다.
@@ -274,25 +274,23 @@ WCA 규정과 지침의 변천은 [GitHub](https://github.com/thewca/wca-regulat
   - 9m2) 15명 이하의 선수가 참가한 라운드는 최대 한 개의 후속 라운드가 진행될 수 있다.
   - 9m3) 7명 이하의 선수가 참가한 라운드는 후속 라운드가 진행될 수 없다.
 - 9o) 컷오프 라운드는 종목당 라운드 수를 계산할 때 하나의 라운드로 계산된다.
-- [9p](https://www.worldcubeassociation.org/regulations/#9p)) 다수의 라운드가 있을 때:
-  - [9p1](https://www.worldcubeassociation.org/regulations/#9p1)) 최소 25%의 참가자가 후속 라운드에 반드시 탈락한다.
-  - [9p2](https://www.worldcubeassociation.org/regulations/#9p2)) 후속 라운드에 진출한 선수는 순위(상위 X등) 혹은 기록(X보다 좋은 기록)으로 결정되야 한다.
-    - [9p2a](https://www.worldcubeassociation.org/regulations/#9p2a)) 각각 라운드에서, 진출 조건은 반드시 라운드 시작 전에 발표되어야 하며, 시작하고 나서 변경해서는 안된다. 이러한 변경은 반드시 WCA 파견위원의 재량으로 결정되어야 하며, WCA 파견위원은 변경시 공정성에 반드시 충분히 생각해야 한다.
-  - [9p3](https://www.worldcubeassociation.org/regulations/#9p3)) 진출 선수가 해당 라운드 진출을 거부한다면, 그 자리는 진출하지 못한 선수 중 가장 기록이 높은 순위 선수로 대체될 수 있다.
-- [9s](https://www.worldcubeassociation.org/regulations/#9s)) 각 종목의 각 라운드는 반드시 기록 제한이 존재한다. ([규정 A1a](https://www.worldcubeassociation.org/regulations/#A1a) 참조).
-- [9t](https://www.worldcubeassociation.org/regulations/#9t)) 대회가 끝나고 참가자의 기록의 변동이 생긴다면 (기록 입력 실수, 소급적 벌칙), 후속 라운드를 진출하지 못하며, 후속 라운드의 기록들은 모두 삭제되어야 한다. ([규정 9u](https://www.worldcubeassociation.org/regulations/#9u) 참조).
-  - [9t1](https://www.worldcubeassociation.org/regulations/#9t1)) 만약 이러한 것들이 [규정 9p1](https://www.worldcubeassociation.org/regulations/#9p1)에 더 이상 따르지 않게 되어도, 다른 참가자들의 기록은 절대로 삭제되면 안된다.
-  - [9t2](https://www.worldcubeassociation.org/regulations/#9t2)) [규정 9m1](https://www.worldcubeassociation.org/regulations/#9m1) 또는  [9m2](https://www.worldcubeassociation.org/regulations/#9m2) 혹은 [9m3](https://www.worldcubeassociation.org/regulations/#9m3)에 더 이상 따르지 않게 되어도, 후속 라운드는 절대로 삭제되면 안된다.
-  - [9t3](https://www.worldcubeassociation.org/regulations/#9t3)) 다른 참가자가 다음 라운드에 진출하지 못할 정도로 참가자의 기록에 변동이 생기면 기록은 삭제되어서는 안된다.
-- [9u](https://www.worldcubeassociation.org/regulations/#9u)) 다음 요구 사항이 동시에 만족했을 때 대회가 종료되었다고 간주한다.:
+- 9p) 종목에 복수의 라운드가 있는 경우,:
+  - 9p1) 같은 종목의 연속된 라운드 사이에는 최소 25%의 선수가 탈락되어야 한다.
+  - 9p2) 후속 라운드에 진출한 선수는 순위(상위 X등) 혹은 기록(X보다 좋은 기록)으로 결정되야 한다.
+    - 9p2a) 각 라운드에 대하여 후속 라운드로의 진출 조건은 해당 라운드가 시작되기 전에 공지되어야 하며, 라운드가 시작된 이후로는 진출 조건이 변경되어서는 안 된다. 진출 조건의 변경은 WCA 파견위원의 재량 하에 이루어져야 하며, 이 때 WCA 파견위원은 변경에 대한 공정성을 신중하게 고려해야 한다.
+  - 9p3) 후속 라운드에 진출 조건을 만족한 선수가 진출을 기권하면, 진출 조건을 만족하지 못한 선수 중 가장 순위가 높은 선수가 대신하여 후속 라운드에 진출할 수 있다.
+- 9s) 각 종목의 각 라운드는 기록 제한이 존재해야 한다. ([규정 A1a](regulations:regulation:A1a) 참고).
+- 9t) 대회 종료 후 결과에 변경이 발생하여 (예: 기록 입력 실수, 페널티의 소급 적용) 선수가 후속 라운드에 진출했으면 안 되는 경우, 해당 선수의 모든 후속 라운드에서의 결과가 삭제되어야 한다 ([규정 9u](regulations:regulation:9u) 참고).
+  - 9t1) 이로 인해 라운드가 [규정 9p1](regulations:regulation:9p1)을 준수하지 않게 되는 경우, 타 선수의 결과가 삭제되어서는 안 된다.
+  - 9t2) 이로 인해 라운드가 [규정 9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) 혹은 [9m3](regulations:regulation:9m3)에 준수하지 않게 되는 경우, 어떠한 후속 라운드도 삭제되어서는 안 된다.
+  - 9t3) 선수의 결과에 변경이 발생하여 타 선수가 후속 라운드로 진출했으면 안 되는 경우, 타 선수의 결과는 삭제되어서는 안 된다.
+- 9u) 다음 모든 요건이 동시에 충족되는 경우 대회가 종료되었다고 간주한다:
+  - 9u1) WCA 웹사이트에 공지된 모든 라운드가 마무리되었을 때.
+  - 9u2) WCA 파견위원이 대회의 종료를 선언하지 않으면, 다음 중 하나가 대회 종료 선언으로 대체된다 (어느 것이는 먼저 이루어지는 것으로):
+    - 9u2a) 등재된 모든 WCA 파견위원이 대회 장소를 영구적으로 떠난 경우.
+    - 9u2b) 대회의 마지막 달력 표시 일자가 종료되었을 때.
 
-  - [9u1](https://www.worldcubeassociation.org/regulations/#9u1)) WCA 웹사이트에 있는 모든 일정이 마무리되었을 때.
-  - [9u2](https://www.worldcubeassociation.org/regulations/#9u2)) WCA 파견위원이 대회의 종료를 선언했을 때 혹은 WCA 파견위원이 대회의 종료를 선언하지 않고 대회장에서 다음 상황일 때:
-
-    - [9u2a](https://www.worldcubeassociation.org/regulations/#9u2a)) 지정된 WCA 파견위원이 대회장을 완전히 떠났을 때.
-    - [9u2b](https://www.worldcubeassociation.org/regulations/#9u2b)) 대회의 마지막 일정 날짜가 끝났을 때.
-
-    ## [제 10조](https://www.worldcubeassociation.org/regulations/#article-10-solved-state): 맞추어진 상태
+## [제 10조](https://www.worldcubeassociation.org/regulations/#article-10-solved-state): 맞추어진 상태
 
 - [10b](https://www.worldcubeassociation.org/regulations/#10b)) 타이머가 멈춘 뒤 남아있는 퍼즐의 상태만을 고려한다.
 - [10c](https://www.worldcubeassociation.org/regulations/#10c)) 끝난 퍼즐은 아무런 방향으로 있어도 된다.
