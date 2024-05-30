@@ -87,7 +87,7 @@ WCA 규정과 지침의 변천은 [GitHub](https://github.com/thewca/wca-regulat
     - 2i1b) 귀마개. (전자 헤드폰과 초소형 헤드폰 불가)
     - 2i1c) 손난로.
     - 2i1d) 식음료.
-  - 2i2) 선수는 WCA 파견위원의 재량 하에 측정 장소에서 카메라를 사용할 수 있으나, 기록 측정 시도 시작부터 끝까지 다음과 같은 제한이 적용된다. 제한을 어길 시 페널티 : 해당 시도의 실격 (DNF).
+  - 2i2) 선수는 WCA 파견위원의 재량 하에 측정 장소에서 카메라를 사용할 수 있으나, 솔빙 시작부터 끝까지 다음과 같은 제한이 적용된다. 제한을 어길 시 페널티 : 해당 시도의 실격 (DNF).
     - 2i2a) 각 카메라 화면은 빈 상태 혹은 참가자의 시야에서 보이지 않아야 한다. ([규정 A5b](regulations:regulation:A5b) 참고).
   - 2i4) 선수는 대회에 방해가 되지 않도록 기록 측정 동안 휴대 전화의 모든 알림을 꺼야 한다.
 - 2j) WCA 파견위원은 선수를 특정 시도 혹은 종목으로부터 실격시킬 수 있다.
@@ -196,7 +196,7 @@ WCA 규정과 지침의 변천은 [GitHub](https://github.com/thewca/wca-regulat
     - 5b3b) 선수가 퍼즐을 수리하였으나 수리 후 솔빙 도중 퍼즐이 완전히 맞추어질 수 없는 상태인 것을 발견했을 때, 맞출 수 있는 상태로 만들기 위해 최대 4 조각까지 분해했다가 재조립할 수 있다.
     - 5b3c) 만약 퍼즐이 맞출 수 없는 상태이면서 코너 한 조각을 돌리면 맞출 수 있는 상태가 될 수 있을 경우, 선수는 퍼즐을 분해하지 않고 코너 한 조각을 돌려서 상태를 정정할 수 있다.
   - 5b4) 눈 가리고 맞추기 단계 동안은([규정 B4](regulations:regulation:B4) 참고), 모든 수리가 반드시 눈을 가린 상태에서 수행되어야 한다. 페널티: 해당 시도의 실격 (DNF).
-  - 5b5) 기록 측정이 끝날 무렵에 퍼즐의 일부가 물리적으로 떨어져 있거나 제자리에 완전히 위치하지 않은 경우, 다음 규정을 적용한다:
+  - 5b5) 솔빙이 끝날 무렵에 퍼즐의 일부가 물리적으로 떨어져 있거나 제자리에 완전히 위치하지 않은 경우, 다음 규정을 적용한다:
     - 5b5a) 색이 있는 면이 없는 하나 혹은 그 이상의 부품이 영향을 받았다면, 해당 퍼즐은 맞추어진 것으로 간주한다.
     - 5b5b) 하나의 색이 있는 면이 포함된 하나의 부품이 영향을 받았다면, 해당 퍼즐은 맞추어진 것으로 간주한다.
     - 5b5c) 하나의 색이 있는 면이 포함된 두 개 이상의 부품이 영향을 받았다면, 해당 퍼즐은 맞추어지지 않은 것으로 간주한다 (DNF).
@@ -223,7 +223,7 @@ WCA 규정과 지침의 변천은 [GitHub](https://github.com/thewca/wca-regulat
   - 7h1) 운영진은 기록 측정을 위해 호명된 참가자가 라운드 내에서 자신의 모든 시도가 끝날 때까지 지정된 선수 대기석에 남아있을 것을 요구할 수 있다.
   - 7h2) 정의: 선수 대기석은 조에 속한 선수들이 기록 측정 구역으로 호출되기 위해 대기하는 구역이다.
 
-# <article-9><events><events> 제 9조: 종목
+## <article-9><events><events> 제 9조: 종목
 
 - 9a) WCA는 조각들을 돌림으로써 작동되는 “트위스티 퍼즐”이라고 알려진 기계식 퍼즐들에 대한 대회를 관할한다.
 - 9b) WCA의 공인 종목은 다음과 같다:
@@ -290,16 +290,16 @@ WCA 규정과 지침의 변천은 [GitHub](https://github.com/thewca/wca-regulat
     - 9u2a) 등재된 모든 WCA 파견위원이 대회 장소를 영구적으로 떠난 경우.
     - 9u2b) 대회의 마지막 달력 표시 일자가 종료되었을 때.
 
-## [제 10조](https://www.worldcubeassociation.org/regulations/#article-10-solved-state): 맞추어진 상태
+## <article-10><solved-state><solvedstate> 제 10조: 맞추어진 상태
 
-- [10b](https://www.worldcubeassociation.org/regulations/#10b)) 타이머가 멈춘 뒤 남아있는 퍼즐의 상태만을 고려한다.
-- [10c](https://www.worldcubeassociation.org/regulations/#10c)) 끝난 퍼즐은 아무런 방향으로 있어도 된다.
-- [10d](https://www.worldcubeassociation.org/regulations/#10d)) 퍼즐의 모든 부분은 반드시 퍼즐에 완전히 물리적으로 붙어있어야 하고 요구되는 상태로 위치해 있어야 한다. 예외: [규정 5b5](https://www.worldcubeassociation.org/regulations/#5b5) 참조.
-- [10e](https://www.worldcubeassociation.org/regulations/#10e)) 아래에서 특정되는 한계 안에서 조각이 재정렬되었을 경우 퍼즐은 맞춰져 있다.:
-  - [10e1](https://www.worldcubeassociation.org/regulations/#10e1)) [규정 10f](https://www.worldcubeassociation.org/regulations/#10f)에서 설명한 한계를 넘어간 모든 인접한 두 조각(예: 큐브의 평행, 인접한 면)은 맞추기 위해 추가 1회전이 필요하다고 간주된다.( [제 12조](https://www.worldcubeassociation.org/regulations/#12)의 "Outer Block Turn Metric" 참조).
-  - [10e2](https://www.worldcubeassociation.org/regulations/#10e2)) 퍼즐을 맞추기 위해 추가 회전이 필요하지 않은 경우, 퍼즐은 벌칙 없이 맞춰져 있다고 간주한다.
-  - [10e3](https://www.worldcubeassociation.org/regulations/#10e3)) 퍼즐을 맞추기 위해 1회 추가 회전이 필요한 경우, 퍼즐은 벌칙(+2초)과 함께 맞춰져 있다고 간주한다.
-  - [10e4](https://www.worldcubeassociation.org/regulations/#10e4)) 1회보다 많은 추가 회전이 필요한 경우, 퍼즐은 맞춰지지 않은 것으로 간주한다. (DNF)
+- 10b) 타이머가 멈춘 후의 퍼즐의 멈춘 상태만 고려된다.
+- 10c) 퍼즐은 솔빙이 끝날 때 어떠한 방향으로도 있을 수 있다.
+- 10d) 퍼즐의 모든 부품은 물리적으로 부착되어 있어야 하며, 요구되는 위치에 완전히 위치하여야 한다. 예외: [규정 5b5](regulations:regulation:5b5) 참고.
+- 10e) 퍼즐이 모든 색상 부품이 다시 모여지고, 모든 부품이 아래 명시된 제한 범위 내에서 정렬이 되면 맞추어진 것이다:
+  - 10e1) [규정 10f](regulations:regulation:10f)에서 설명한 한계를 넘어간 모든 인접한 두 조각(예: 큐브의 평행, 인접한 면)은 맞추기 위해 추가 1회전이 필요하다고 간주된다.( [제 12조](regulations:article:12)의 "Outer Block Turn Metric" 참조). 모든 인접한 두 조각에 대해서 (예: 두 개의 평행하거나 인접한 조각)
+  - 10e2) 퍼즐을 맞추기 위해 추가 회전이 필요하지 않은 경우, 퍼즐은 벌칙 없이 맞춰져 있다고 간주한다.
+  - 10e3) 퍼즐을 맞추기 위해 1회 추가 회전이 필요한 경우, 퍼즐은 벌칙(+2초)과 함께 맞춰져 있다고 간주한다.
+  - 10e4) 1회보다 많은 추가 회전이 필요한 경우, 퍼즐은 맞춰지지 않은 것으로 간주한다. (DNF)
 - [10f](https://www.worldcubeassociation.org/regulations/#10f)) 퍼즐의 허용 가능한 어긋남:
   - [10f1](https://www.worldcubeassociation.org/regulations/#10f1)) NxNxN 큐브: 최대 45도.
   - [10f2](https://www.worldcubeassociation.org/regulations/#10f2)) 메가밍크스: 최대 36도.
