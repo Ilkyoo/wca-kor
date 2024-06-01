@@ -217,7 +217,7 @@ WCA 규정과 지침의 변천은 [GitHub](https://github.com/thewca/wca-regulat
     - 7f1c) 타이머: 스택매트의 타이머, 혹은 스톱워치(장시간 소요되는 종목에서)
     - 7f1d) 표면: 스택매트가 놓여진 평평한 표면. 매트는 표면의 일부로 간주된다. 타이머는 표면의 일부로 간주되지 않는다.
   - 7f2) 스택매트 타이머는 표면에 설치된 매트에 반드시 부착되어 있어야 하며, 타이머는 선수와 가장 가까운 쪽에 놓여야 한다.
-  - 7f3) 운영진은 실수로 버튼이 눌리지 않도록 하고 (예: 버튼 주위에 오링 부착) 배터리를 더욱 견고히 고정하는 (예: 배터리 칸을 패딩 처리) 등 스택매트 타이머를 견고히 개조함으로써 흔히 일어날 수 있는 사고들을 방지해야 한다.
+  - 7f3) 운영진은 실수로 버튼이 눌리지 않도록 하고 (예: 버튼 주위에 오링 부착) 배터리를 더욱 견고히 고정하는 (예: 배터리 칸을 패딩 처리) 등 스택매트 타이머를 견고히 개조함으로써 흔히 일어날 수 있는 사건들을 방지해야 한다.
   - 7f4) Gen5 프로 타이머는 반드시 2-pad 모드로 사용되어야 한다.
 - 7h) 대회 장소는 하나 이상의 선수 대기석이 있어야 한다.
   - 7h1) 운영진은 기록 측정을 위해 호명된 참가자가 라운드 내에서 자신의 모든 시도가 끝날 때까지 지정된 선수 대기석에 남아있을 것을 요구할 수 있다.
@@ -296,34 +296,33 @@ WCA 규정과 지침의 변천은 [GitHub](https://github.com/thewca/wca-regulat
 - 10c) 퍼즐은 솔빙이 끝날 때 어떠한 방향으로도 있을 수 있다.
 - 10d) 퍼즐의 모든 부품은 물리적으로 부착되어 있어야 하며, 요구되는 위치에 완전히 위치하여야 한다. 예외: [규정 5b5](regulations:regulation:5b5) 참고.
 - 10e) 퍼즐이 모든 색상 부품이 다시 모여지고, 모든 부품이 아래 명시된 제한 범위 내에서 정렬이 되면 맞추어진 것이다:
-  - 10e1) [규정 10f](regulations:regulation:10f)에서 설명한 한계를 넘어간 모든 인접한 두 조각(예: 큐브의 평행, 인접한 면)은 맞추기 위해 추가 1회전이 필요하다고 간주된다.( [제 12조](regulations:article:12)의 "Outer Block Turn Metric" 참조). 모든 인접한 두 조각에 대해서 (예: 두 개의 평행하거나 인접한 조각)
-  - 10e2) 퍼즐을 맞추기 위해 추가 회전이 필요하지 않은 경우, 퍼즐은 벌칙 없이 맞춰져 있다고 간주한다.
-  - 10e3) 퍼즐을 맞추기 위해 1회 추가 회전이 필요한 경우, 퍼즐은 벌칙(+2초)과 함께 맞춰져 있다고 간주한다.
-  - 10e4) 1회보다 많은 추가 회전이 필요한 경우, 퍼즐은 맞춰지지 않은 것으로 간주한다. (DNF)
-- [10f](https://www.worldcubeassociation.org/regulations/#10f)) 퍼즐의 허용 가능한 어긋남:
-  - [10f1](https://www.worldcubeassociation.org/regulations/#10f1)) NxNxN 큐브: 최대 45도.
-  - [10f2](https://www.worldcubeassociation.org/regulations/#10f2)) 메가밍크스: 최대 36도.
-  - [10f3](https://www.worldcubeassociation.org/regulations/#10f3)) 피라밍크스와 스큐브: 최대 60도.
-  - [10f4](https://www.worldcubeassociation.org/regulations/#10f4)) 스퀘어-1: 최대 43도(U/D) 또는 최대 90도(/).
-- [10h](https://www.worldcubeassociation.org/regulations/#10h)) 이 조항에 설명되지 않은 펴즐은 일반적인 퍼즐의 목적에 부합하는 상태에 따라 판단된다.
+  - 10e1) [규정 10f](regulations:regulation:10f)에 명시된 제한 범위를 넘어 오정렬이 된 퍼즐의 모든 인접한 두 부품에 대해서 (예: 큐브의 평행하면서 인접한 두 면), 퍼즐은 맞추어지기 위해 한 번의 추가적인 회전이 필요하다고 여겨진다 ([제 12조](regulations:article:12)의 "외부 층 블럭 회전 메트릭 (Outer Block Turn Metric)" 참고).
+  - 10e2) 퍼즐을 맞추어진 상태로 만드는 데 추가적인 회전이 필요하지 않은 경우, 퍼즐은 페널티 없이 맞추어진 것으로 간주된다.
+  - 10e3) 퍼즐을 맞추어진 상태로 만드는 데 1 회전이 필요하다면, 퍼즐은 시간 페널티 (+2초)가 적용된 채로 맞추어진 것으로 간주된다.
+  - 10e4) 1회보다 많은 추가 회전이 필요한 경우, 퍼즐은 맞춰지지 않은 것으로 간주한다. (DNF) 퍼즐을 맞추어진 상태로 만드는 데 1 회전보다 많은 회전이 필요하다면, 퍼즐은 맞추어지지 않은 것으로 간주된다 (DNF).
+- 10f) 퍼즐에 허용되는 오정렬 한도:
+  - 10f1) NxNxN 큐브: 최대 45도.
+  - 10f2) 메가밍크스: 최대 36도.
+  - 10f3) 피라밍크스와 스큐브: 최대 60도.
+  - 10f4) 스퀘어-1: 최대 45도 (U/D) 또는 최대 90도 (/).
+- 10h) 이 문서에 명시되지 않은 퍼즐은 일반적으로 통용되는 퍼즐의 목적에 의해 정의된 맞추어진 상태에 따라 판단된다.
+  - 10h1) 클락의 맞추어진 상태는 18개의 모든 내부 클락 면이 12시를 가리킬 때 달성된다.
 
-  - [10h1](https://www.worldcubeassociation.org/regulations/#10h1)) 클락의 다 맞춰진 상태는 18개의 내부 시계 침이 12시를 가리키는 것이다.
+## <article-11><incidents><incidents> 제 11조: 사건
 
-  ## [제 11조](https://www.worldcubeassociation.org/regulations/#article-11-incidents): 특별 상황
-
-- [11a](https://www.worldcubeassociation.org/regulations/#11a)) 특별 상황은 다음을 포함한다.:
-  - [11a1](https://www.worldcubeassociation.org/regulations/#11a1)) 운영진 혹은 선수에 의한 부정확한 종목 절차 수행.
-  - [11a2](https://www.worldcubeassociation.org/regulations/#11a2)) 방해나 시설 문제(예: 전력 손실, 비상 알람 작동)
-  - [11a3](https://www.worldcubeassociation.org/regulations/#11a3)) 장비 오작동.
-- [11b](https://www.worldcubeassociation.org/regulations/#11b)) 특별 상황이 발생하면, WCA 파견위원은 공정하고 적절한 행동 조치를 결정해야 한다.
-- [11d](https://www.worldcubeassociation.org/regulations/#11d)) WCA 규정이 정확하지 않거나 WCA 규정 내에서 다뤄지지 않았다면, WCA 파견위원은 반드시 공정한 스포츠맨십을 기반으로 한 결정을 내려야 한다. (또한 [규정 11e3](https://www.worldcubeassociation.org/regulations/#11e3) 참조).
-- [11e](https://www.worldcubeassociation.org/regulations/#11e)) WCA 파견위원은 해당 특별 상황에 영향을 받은 시도를 대체할 엑스트라 시도를 선수에게 부여할 수 있다. 선수는 그 시도가 끝나기 전에 엑스트라 시도를 받을 자격이 있다는 말 또는 글로 심판과 WCA 파견위원에게 어필을 해야 한다. 이 어필은 선수에게 엑스트라 시도를 보장해주지 않는다.
-  - [11e1](https://www.worldcubeassociation.org/regulations/#11e1)) 선수가 엑스트라 시도를 받게 되면, 해당 엑스트라 시도는 반드시 다른 스크램블 알고리즘으로 섞여야 한다. 이 스크램블 알고리즘은 반드시 WCA 스크램블 프로그램의 공식 최신 버전을 이용하여 생성되어야 한다.([규정 4f](https://www.worldcubeassociation.org/regulations/#4f) 참조).
-  - [11e2](https://www.worldcubeassociation.org/regulations/#11e2)) 선수가 엑스트라 시도를 받게 되면, 해당 엑스트라 시도는 그 시도가 끝난 뒤 바로 진행되어야 하고 원래 시도의 순서를 반드시 대체해야 한다.
-  - [11e3](https://www.worldcubeassociation.org/regulations/#11e3)) 특별 상황이 엑스트라 시도의 결과로 기록되어야 하는 것이 확실하지 않다면, 선수는 엑스트라 시도가 적절했다는 것이 추후에 판명났을 시에만 사용되는 임시 엑스트라 시도를 부여받을 수 있다. (예: WRC의 결정).
-- [11f](https://www.worldcubeassociation.org/regulations/#11f)) 특별 상황에 대한 결정은 WCA 파견위원에 재량에 따라 비디오 혹은 사진으로 보조 될 수 있다.
-- [11g](https://www.worldcubeassociation.org/regulations/#11g)) WCA 파견위원은 특별 상황에 상담을 위해 참가자들에게 반드시 규정과 지침의 복사본을 구비해둬야 한다. (예: 인쇄물, 문서화, 혹은 인터넷을 통해)
-- [11h](https://www.worldcubeassociation.org/regulations/#11h)) WCA 파견위원은 [규정 2k3](https://www.worldcubeassociation.org/regulations/#2k3)을 명백히 위반하는 참가자에게 상황의 심각성과 최선의 방법임을 설명하고, 대회장을 나가줄 것을 요청할 수 있다. 만약 참가자가 이를 거부할 시, WCA에서 징계 조치가 될 수 있다.
+- 11a) 사건은 다음을 포함한다:
+  - 11a1) 운영진 혹은 선수에 의한 행사 절차의 잘못된 수행.
+  - 11a2) 방해 또는 시설 장애 (예: 정전, 비상 경보 작동)
+  - 11a3) 장비 오작동.
+- 11b) 사건이 발생하면, WCA 파견위원은 공정하고 적절한 조치를 결정해야 한다.
+- 11d) WCA 규정이 완전히 명확하지 않거나 사건이 WCA 규정에 의해 다뤄질 수 없는 경우, WCA 파견위원은 공정한 스포츠맨쉽에 근거하여 결정을 내려야 한다 (또한 [규정 11e3](regulations:regulation:11e3) 참고).
+- 11e) WCA 파견위원은 사건에 의해 영향을 받은 시도를 대체하기 위해 선수에게 추가 시도를 부여할 수 있다. 선수는 추가 시도를 부여받기 위해 심판과 WCA 파견위원에게 구두 혹은 서면으로 사건이 일어난 당시, 즉 원래의 시도가 끝나기 전에 어필해야 한다. 어필은 선수가 추가 시도를 얻을 수 있음을 보장하지 않는다.
+  - 11e1) 선수가 추가 시도를 부여받게 되면, 해당 추가 시도는 반드시 다른 스크램블 알고리즘으로 섞여야 한다. 이 스크램블 알고리즘은 반드시 WCA 스크램블 프로그램의 공식 최신 버전을 이용하여 생성되어야 한다.([규정 4f](regulations:regulation:4f) 참고).
+  - 11e2) 선수가 추가 시도를 부여받게 되면 해당 추가 시도는 추가 시도를 부여받게 한 시도가 끝난 뒤 곧바로 진행되어야 하며, 반드시 원래 시도의 회차를 대체해야 한다.
+  - 11e3) 사건로 인해 추가 시도가 이루어져야 하는지 명확하지 않다면, 선수는 사후에 추가 시도가 적절하였다는 것으로 판단될 때만 (예: WRC의 결정) 사용되는 임시 추가 시도를 부여받을 수 있다.
+- 11f) 사건에 대한 결정은 WCA 대표의 재량에 따라 동영상 또는 사진 분석으로 뒷받침될 수 있다.
+- 11g) WCA 파견위원은 사건의 협의를 위해 운영진과 선수들이 규정과 지침의 복사본을 (예: 인쇄된, 디지털 또는 인터넷을 통해 접근 가능) 사용할 수 있음을 보장해야 한다.
+- 11h) WCA 파견위원은 상황의 심각성과 최선의 조치를 고려하여 [규정 2k3](regulations:regulation:2k3)을 심각하게 위반한 선수에게 대회장에서 퇴장할 것을 요구할 수 있다. 선수가 이를 거부할 경우, 해당 선수는 WCA의 징계를 받을 수 있다.
 
 ## [제 12조](https://www.worldcubeassociation.org/regulations/#article-12-notation): 표기법
 
@@ -425,8 +424,8 @@ WCA 규정과 지침의 변천은 [GitHub](https://github.com/thewca/wca-regulat
 - [A6](https://www.worldcubeassociation.org/regulations/#A6)) 측정을 멈출 때:
   - [A6a](https://www.worldcubeassociation.org/regulations/#A6a)) 선수는 측정을 멈추기 전에 퍼즐을 놓고, 타이머를 멈추면서 측정을 멈춘다. 스톱워치가 사용된다면 심판은 선수가 멈춘 순간 스톱워치를 멈춘다.
   - [A6b](https://www.worldcubeassociation.org/regulations/#A6b)) 선수는 스택매트 타이머를 정확하게 멈출 의무가 있다.
-    - [A6b1](https://www.worldcubeassociation.org/regulations/#A6b1)) 선수가 퍼즐을 다 맞추기 전에 타이머의 시간이 0.06초 아래로 멈춘다면, 이 시도는 엑스트라 시도로 대체된다. WCA 파견위원은 선수가 타이머를 의도적으로 멈췄다고 판단하면 선수는 추가 시도에 대한 권리를 박탈당한다.
-    - [A6b2](https://www.worldcubeassociation.org/regulations/#A6b2)) 선수가 퍼즐을 다 맞추기 전에 타이머의 시간이 0.06초 혹은 그 이상으로 멈춘다면 그 기록은 실격 처리 된다. (DNF) 예외: 선수가 타이머 오작동을 설명할 수 있다면, WCA 파견위원의 재량에 따라 엑스트라 시도를 받을 수 있다.
+    - [A6b1](https://www.worldcubeassociation.org/regulations/#A6b1)) 선수가 퍼즐을 다 맞추기 전에 타이머의 시간이 0.06초 아래로 멈춘다면, 이 시도는 추가 시도로 대체된다. WCA 파견위원은 선수가 타이머를 의도적으로 멈췄다고 판단하면 선수는 추가 시도에 대한 권리를 박탈당한다.
+    - [A6b2](https://www.worldcubeassociation.org/regulations/#A6b2)) 선수가 퍼즐을 다 맞추기 전에 타이머의 시간이 0.06초 혹은 그 이상으로 멈춘다면 그 기록은 실격 처리 된다. (DNF) 예외: 선수가 타이머 오작동을 설명할 수 있다면, WCA 파견위원의 재량에 따라 추가 시도를 받을 수 있다.
   - [A6c](https://www.worldcubeassociation.org/regulations/#A6c)) 선수는 반드시 타이머를 멈추기 전에 퍼즐을 놓아야 한다. 벌칙: 해당 시도 실격 (DNF). 예외: 타이머를 멈춘 뒤 퍼즐을 놓기 전에 회전 혹은 재정렬이 없었다면, 심판의 재량에 따라 시간 추가(+2초)가 주어질 수 있다.
   - [A6d](https://www.worldcubeassociation.org/regulations/#A6d)) 선수는 반드시 센서에 손바닥을 아래로 향하여 멈춰야 한다. 벌칙: 시간 추가(+2초)
   - [A6e](https://www.worldcubeassociation.org/regulations/#A6e)) 타이머를 멈춘 뒤, 심판이 퍼즐을 확인할 때까지 선수는 절대로 퍼즐을 만지거나, 회전 혹은 재정렬을 해서는 안된다.
@@ -449,7 +448,7 @@ WCA 규정과 지침의 변천은 [GitHub](https://github.com/thewca/wca-regulat
     - [A7c4](https://www.worldcubeassociation.org/regulations/#A7c4)) 심판이 기록을 적고 서명하기 전까지 선수는 서명을 해서는 안된다. 선수는 선수와 심판이 시도에 서명을 했다는 것을 확인한 것에 대한 궁극적인 책임이 있다. 러너가 기록 입력자에게 기록지를 전달한 뒤 심판 혹은 선수의 서명이 없는 것이 발견되면([규정 A7f](https://www.worldcubeassociation.org/regulations/#A7f) 참조), 완료되지 않은 것으로 간주된다. (DNF)
     - [A7c5](https://www.worldcubeassociation.org/regulations/#A7c5)) 대회 전에 발견된 빈 서명란([규정 9u](https://www.worldcubeassociation.org/regulations/#9u) 참조)은 WCA 파견위원의 재량에 따라 심판 혹은 선수가 추가할 수 있다.
   - [A7f](https://www.worldcubeassociation.org/regulations/#A7f)) 선수의 기록지가 완료되면, 러너는 기록지를 기록 입력자에게 전달한다.
-  - [A7g](https://www.worldcubeassociation.org/regulations/#A7g)) WCA 파견위원의 재량에 따라, 참가자의 규정 미숙으로 인해 발생한 특별 상황 혹은 벌칙은 엑스트라 시도로 대체될 수 있다.
+  - [A7g](https://www.worldcubeassociation.org/regulations/#A7g)) WCA 파견위원의 재량에 따라, 참가자의 규정 미숙으로 인해 발생한 사건 혹은 벌칙은 추가 시도로 대체될 수 있다.
 
 ## [제 B조](https://www.worldcubeassociation.org/regulations/#article-B-blindfolded): 눈 가리기
 
