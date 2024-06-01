@@ -324,51 +324,51 @@ WCA 규정과 지침의 변천은 [GitHub](https://github.com/thewca/wca-regulat
 - 11g) WCA 파견위원은 사건의 협의를 위해 운영진과 선수들이 규정과 지침의 복사본을 (예: 인쇄된, 디지털 또는 인터넷을 통해 접근 가능) 사용할 수 있음을 보장해야 한다.
 - 11h) WCA 파견위원은 상황의 심각성과 최선의 조치를 고려하여 [규정 2k3](regulations:regulation:2k3)을 심각하게 위반한 선수에게 대회장에서 퇴장할 것을 요구할 수 있다. 선수가 이를 거부할 경우, 해당 선수는 WCA의 징계를 받을 수 있다.
 
-## [제 12조](https://www.worldcubeassociation.org/regulations/#article-12-notation): 표기법
+## <article-12><notation><notation> 제 12조: 표기법
 
-- [12a](https://www.worldcubeassociation.org/regulations/#12a)) NxNxN 큐브의 표기법:
-  - [12a1](https://www.worldcubeassociation.org/regulations/#12a1)) 면 회전 (외부층):
-    - [12a1a](https://www.worldcubeassociation.org/regulations/#12a1a)) 시계 방향으로 90도 회전: F (앞면), B (뒷면), R (오른쪽 면), L (왼쪽 면), U (윗면), D (아랫면).
-    - [12a1b](https://www.worldcubeassociation.org/regulations/#12a1b)) 반시계 방향으로 90도 회전: F', B', R', L', U', D'.
-    - [12a1c](https://www.worldcubeassociation.org/regulations/#12a1c)) 180도 회전: F2, B2, R2, L2, U2, D2.
-  - [12a2](https://www.worldcubeassociation.org/regulations/#12a2)) 외부 블럭 회전 (인접한 내부 조각이 돌아가는 외부 면 회전). 아래에 설명되어 있는 각각의 회전, , n은 총 움직이고 싶은 층이고 반드시 1 < n < N 범위 안에 있어야 한다. (N이 퍼즐의 총 증의 개수이다.). n은 2일 때 생략될 수 있다. 외부 층 회전은 다음과 같다.:
-    - [12a2a](https://www.worldcubeassociation.org/regulations/#12a2a)) 시계 방향으로 90도 회전: nFw, nBw, nRw, nLw, nUw, nDw.
-    - [12a2b](https://www.worldcubeassociation.org/regulations/#12a2b)) 반시계 방향으로 90도 회전: nFw', nBw', nRw', nLw', nUw', nDw'.
-    - [12a2c](https://www.worldcubeassociation.org/regulations/#12a2c)) 180도 회전: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
-  - [12a4](https://www.worldcubeassociation.org/regulations/#12a4)) 시점 변환 (전체 퍼즐):
-    - [12a4a](https://www.worldcubeassociation.org/regulations/#12a4a)) 시계 방향으로 90도 회전: x (R 혹은 L'과의 방향이 같음), y (U 혹은 D'과의 방향이 같음), z (F 혹은 B'과의 방향이 같음).
-    - [12a4b](https://www.worldcubeassociation.org/regulations/#12a4b)) 반시계 방향으로 90도 회전: x' (R' 혹은 L과의 방향이 같음), y' (U' 혹은 D과의 방향이 같음), z' (F' B과의 방향이 같음).
-    - [12a4c](https://www.worldcubeassociation.org/regulations/#12a4c)) 180도 회전: x2, y2, z2.
-  - [12a5](https://www.worldcubeassociation.org/regulations/#12a5)) 외부 층 회전 계산(OBTM : Outer Block Turn Metric )은 다음과 같이 정의된다.:
-    - [12a5a](https://www.worldcubeassociation.org/regulations/#12a5a)) 면 회전과 외부 블럭 회전의 회전들은 1 회전으로 처리된다.
-    - [12a5b](https://www.worldcubeassociation.org/regulations/#12a5b)) 각각의 시점 변환은 0 회전으로 처리된다.
-  - [12a6](https://www.worldcubeassociation.org/regulations/#12a6)) 수행 회전 계산(ETM : Execution Turn Metric )은 다음과 같이 정의된다.: 면 회전, 외부 블럭 회전, 그리고 시점 변환 모두 1 회전으로 처리된다.
-- [12c](https://www.worldcubeassociation.org/regulations/#12c)) 스퀘어-1의 표기법:
-  - [12c1](https://www.worldcubeassociation.org/regulations/#12c1)) 중앙을 가로지르는 면 중 가장 작은 면을 앞쪽에 놓고 적용한다.
-  - [12c2](https://www.worldcubeassociation.org/regulations/#12c2)) (X, Y) 의미: 윗 층을 X에 30도 만큼 곱해 시계 방향으로 돌린다, 밑 층을 Y에 30도 만큼 곱해 시계 방향으로 돌린다. X와 Y는 -5 부터 6 사이의 정수가 될 수 있으며 함께 0이 될 수 없다.
-  - [12c3](https://www.worldcubeassociation.org/regulations/#12c3)) "/" 의미: 퍼즐의 오른쪽 반을 180도 회전한다.
-  - [12c4](https://www.worldcubeassociation.org/regulations/#12c4)) 스퀘어-1의 회전: (X, Y)를 하나의 회전, "/"을 하나의 회전으로 계산한다.
-- [12d](https://www.worldcubeassociation.org/regulations/#12d)) Megaminx의 표기법 (스크램블 표기만 기재):
-  - [12d1](https://www.worldcubeassociation.org/regulations/#12d1)) 면 회전:
-    - [12d1a](https://www.worldcubeassociation.org/regulations/#12d1a)) 시계 방향으로 72도 회전: U (윗 면).
-    - [12d1b](https://www.worldcubeassociation.org/regulations/#12d1b))반시계 방향으로 72도 회전: U' (윗 면).
-  - [12d2](https://www.worldcubeassociation.org/regulations/#12d2)) 다른 회전은 퍼즐의 왼쪽 위 3 조각을 유지한 상태로 움직인다.:
-    - [12d2c](https://www.worldcubeassociation.org/regulations/#12d2c)) 왼쪽 위 3 조각을 유지한 채 퍼즐의 전체 면을 144도 시계 방향으로 회전: R++ (수직), D++ (수평).
-    - [12d2d](https://www.worldcubeassociation.org/regulations/#12d2d)) 왼쪽 위 3 조각을 유지한 채 퍼즐의 전체 면을 144도 반시계 방향으로 회전: R-- (수직), D-- (수평).
-- [12e](https://www.worldcubeassociation.org/regulations/#12e)) 피라밍크스의 표기법:
-  - [12e1](https://www.worldcubeassociation.org/regulations/#12e1)) 피라밍크스의 바닥면이 바닥과 수평 방향으로 향해있고, 정면이 큐브를 들고 있는 사람을 바라보고 있어야 한다.
-  - [12e2](https://www.worldcubeassociation.org/regulations/#12e2)) 시계 방향으로 120도 회전: U (위쪽 두 층), L (왼쪽 두 층), R (오른쪽 두 층), B (뒤쪽 두 층), u (위쪽 꼭지), l (왼쪽 꼭지), r (오른쪽 꼭지), b (뒤쪽 꼭지).
-  - [12e3](https://www.worldcubeassociation.org/regulations/#12e3)) 반시계 방향으로 120도 회전: U’ (위쪽 두 층), L’ (왼쪽 두 층), R’ (오른쪽 두 층), B’ (뒤쪽 두 층), u’ (위쪽 꼭지), l’ (왼쪽 꼭지), r’ (오른쪽 꼭지), b’ (뒤쪽 꼭지).
-- [12g](https://www.worldcubeassociation.org/regulations/#12g)) 클락의 표기법:
-  - [12g1](https://www.worldcubeassociation.org/regulations/#12g1)) 클락은 12시의 침이 위쪽을 향해 있어야 한다.
-  - [12g2](https://www.worldcubeassociation.org/regulations/#12g2)) 핀 올리기: UR (오른쪽 위), DR (오른쪽 아래), DL (왼쪽 아래), UL (왼쪽 위), U (위쪽 2개), R (오른쪽 2개), D (아래쪽 2개), L (왼쪽 2개), ALL (4개 모두).
-  - [12g3](https://www.worldcubeassociation.org/regulations/#12g3)) 올라가 있는 핀쪽의 바퀴를 돌린 뒤 모든 핀을 다시 내린다.: X+ (시계 방향으로 X번 ), X- (반시계 방향으로 X번).
-  - [12g4](https://www.worldcubeassociation.org/regulations/#12g4)) 12시 침이 위쪽에 위치시키게 시점을 변환하고, 모든 핀들을 내린다.: y2.
-- [12h](https://www.worldcubeassociation.org/regulations/#12h)) 스큐브의 표기법:
-  - [12h1](https://www.worldcubeassociation.org/regulations/#12h1)) 세 면이 모두 보이게 방향을 잡고, 윗쪽 면을 위로 향하게 한다.
-  - [12h2](https://www.worldcubeassociation.org/regulations/#12h2)) 시계 방향으로 120도 회전: R (보이는 오른쪽 아래 꼭지를 중심으로 하는 층을 돌림), U (보이는 위쪽 꼭지를 중심으로 하는 층을 돌림), L (보이는 왼쪽 아래 꼭지를 중심으로 하는 층을 돌림), B (보이지 않는 뒤쪽 꼭지를 중심으로 하는 층을 돌림).
-  - [12h3](https://www.worldcubeassociation.org/regulations/#12h3)) 반시계 방향으로 120도 회전: R' (보이는 오른쪽 아래 꼭지를 중심으로 하는 층을 돌림), U’ (보이는 위쪽 꼭지를 중심으로 하는 층을 돌림), L’ (보이는 왼쪽 아래 꼭지를 중심으로 하는 층을 돌림), B’ (보이지 않는 뒤쪽 꼭지를 중심으로 하는 층을 돌림).
-- [12i](https://www.worldcubeassociation.org/regulations/#12i)) 정의: 회전이란 위에 설명된 표기법을 이용하여 퍼즐의 상태를 변경하는 어떠한 움직임을 말한다. [규정 10f](https://www.worldcubeassociation.org/regulations/#10f)에서 묘사된 한계를 넘은 어긋남 또한 포함한다..
+- 12a) NxNxN 큐브의 표기법:
+  - 12a1) 면 회전 (외부 층):
+    - 12a1a) 시계 방향으로 90도: F (앞면), B (뒷면), R (오른쪽 면), L (왼쪽 면), U (윗면), D (아랫면).
+    - 12a1b) 반시계 방향으로 90도: F', B', R', L', U', D'.
+    - 12a1c) 180도: F2, B2, R2, L2, U2, D2.
+  - 12a2) 외부 층 블럭 회전 (외부 슬라이스와 인접한 내부 슬라이스). 아래에 설명된 각 회전에서 n은 회전해야 하는 슬라이스의 총 개수이며, 1 < n < N (N은 퍼즐의 층 수)의 범위를 만족해야 한다. n = 2임이 내포될 때 n은 생략될 수 있다. 외부 층 블럭 회전은 다음과 같다:
+    - 12a2a) 시계 방향으로 90도 회전: nFw, nBw, nRw, nLw, nUw, nDw.
+    - 12a2b) 반시계 방향으로 90도 회전: nFw', nBw', nRw', nLw', nUw', nDw'.
+    - 12a2c) 180도 회전: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
+  - 12a4) 시점 변환 (퍼즐 전체):
+    - 12a4a) 시계 방향으로 90도: x (R 혹은 L'과의 방향이 같음), y (U 혹은 D'과의 방향이 같음), z (F 혹은 B'과의 방향이 같음).
+    - 12a4b) 반시계 방향으로 90도: x' (R' 혹은 L과의 방향이 같음), y' (U' 혹은 D과의 방향이 같음), z' (F' B과의 방향이 같음).
+    - 12a4c) 180도: x2, y2, z2.
+  - 12a5) 외부 층 블럭 회전 메트릭 (OBTM, Outer Block Turn Metric)은 다음과 같이 정의된다:
+    - 12a5a) 면 회전과 외부 층 블럭 회전 범주에 속하는 각 회전은 1 회전으로 계산된다.
+    - 12a5b) 각의 시점 변환은 0 회전으로 계산된다.
+  - 12a6) 수행 회전 메트릭 (ETM, Execution Turn Metric)은 다음과 같이 정의된다: 면 회전, 외부 층 블럭 회전, 그리고 시점 변환 모두 1 회전으로 처리된다.
+- 12c) 스퀘어-1의 표기법:
+  - 12c1) 중앙을 가로지르는 면 중 가장 작은 면을 앞쪽에 놓고 적용한다. 회전은 수평 슬라이스의 두 작은 표면 중 하나를 앞면의 왼쪽에 둔 채로 적용된다.
+  - 12c2) (X, Y)은 다음을 의미한다: 윗 층을 X * 30도 만큼 시계 방향으로 회전하고, 아랫 층을 Y * 30도 만큼 시계 방향으로 회전한다. X와 Y는 -5 이상 6 이하의 정수이어야 하며, X와 Y가 동시에 0이 될 수는 없다.
+  - 12c3) "/"은 다음을 의미한다: 퍼즐의 오른쪽 반을 180도 회전한다.
+  - 12c4) 스퀘어-1에서의 메트릭: (X, Y)는 1 회전으로 게산되며, "/" 또한 1 회전으로 계산된다.
+- 12d) 메가밍크스의 표기법 (스크램블링 표기법만 해당):
+  - 12d1) 면 회전:
+    - 12d1a) 시계 방향으로 72도: U (윗 면).
+    - 12d1b) 반시계 방향으로 72도: U' (윗 면).
+  - 12d2) 다른 회전은 퍼즐의 왼쪽 위에 있는 3 조각을 고정한 상태에서 적용된다:
+    - 12d2c) 왼쪽 위 3 조각을 고정한 채 퍼즐 전체를 144도 시계 방향으로 회전: R++ (수직 슬라이스), D++ (수평 슬라이스).
+    - 12d2d) 왼쪽 위 3 조각을 고정한 채 퍼즐 전체를 144도 반시계 방향으로 회전: R-- (수직 슬라이스), D-- (수평 슬라이스).
+- 12e) 피라밍크스의 표기법:
+  - 12e1) 퍼즐의 방향은 바닥 면을 완전히 수평으로 놓고, 앞면이 피라밍크스를 들고 있는 사람을 향해야 한다.
+  - 12e2) 시계 방향으로 120도: U (위쪽 두 층), L (왼쪽 두 층), R (오른쪽 두 층), B (뒤쪽 두 층), u (위쪽 꼭지), l (왼쪽 꼭지), r (오른쪽 꼭지), b (뒤쪽 꼭지).
+  - 12e3) 반시계 방향으로 120도: U’ (위쪽 두 층), L’ (왼쪽 두 층), R’ (오른쪽 두 층), B’ (뒤쪽 두 층), u’ (위쪽 꼭지), l’ (왼쪽 꼭지), r’ (오른쪽 꼭지), b’ (뒤쪽 꼭지).
+- 12g) 클락의 표기법:
+  - 12g1) 퍼즐의 방향은 12시가 위쪽을 향하고, 한 쪽 면이 앞을 향해야 한다.
+  - 12g2) 핀 올리기: UR (오른쪽 위), DR (오른쪽 아래), DL (왼쪽 아래), UL (왼쪽 위), U (위쪽 2개), R (오른쪽 2개), D (아래쪽 2개), L (왼쪽 2개), ALL (모두).
+  - 12g3) 올려진 상태인 핀의 옆에 있는 톱니바퀴를 돌린 뒤 모든 핀을 내린다: X+ (시계 방향으로 X 번), X- (반시계 방향으로 X 번)
+  - 12g4) 12시가 위쪽을 향한 채로 퍼즐 전체를 돌리고 (시점 변환), 모든 핀을 내린다: y2
+- 12h) 스큐브의 표기법:
+  - 12h1) 퍼즐의 방향은 윗 면이 위에 오도록 하면서 세 면이 완전히 보이도록 해야 한다.
+  - 12h2) 시계 방향으로 120도: R (보이는 꼭지 중 가장 먼 오른쪽 아래 꼭지 주변의 층), U (보이는 꼭지 중 가장 먼 위쪽 꼭지 주변의 층), L (보이는 꼭지 중 가장 먼 왼쪽 아래 꼭지 주변의 층), B (보이지 않는 꼭지 중 가장 먼 뒤쪽 꼭지 주변의 층).
+  - 12h3) 반시계 방향으로 120도: R' (보이는 꼭지 중 가장 먼 오른쪽 아래 꼭지 주변의 층), U' (보이는 꼭지 중 가장 먼 위쪽 꼭지 주변의 층), L' (보이는 꼭지 중 가장 먼 왼쪽 아래 꼭지 주변의 층), B' (보이지 않는 꼭지 중 가장 먼 뒤쪽 꼭지 주변의 층).
+- 12i) 정의: 회전은 [규정 10f](regulations:regulation:10f)에서 서술된 허용 범위를 벗어난 오정렬을 포함하여 위에 정의된 표기법에 따라 퍼즐 상태에 대한 어떠한 변화로 간주된다.
 
 ## [제 A조](https://www.worldcubeassociation.org/regulations/#article-A-speedsolving): 스피드 솔빙
 
