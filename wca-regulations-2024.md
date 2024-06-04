@@ -81,7 +81,7 @@ WCA 규정과 지침의 변천은 [GitHub](https://github.com/thewca/wca-regulat
 - 2g) 선수는 지정된 대회 구역 안에서 정숙을 유지해야 한다. 대화는 허용되나 적당한 수준에서 이루어져야 하며, 기록 측정 중인 선수로부터 떨어져 있어야 한다.
   - 2g3) 같은 조의 모든 선수가 더이상 남은 시도가 없지 않는 한, 측정 진행 중인 조에 속한 선수는 같은 조에 속한 다른 선수와 해당 조의 스크램블 상태에 대하여 소통하여서는 안 된다. 페널티: WCA 파견위원의 재량에 따른 해당 종목으로부터 선수 실격. 예외: 3x3x3 최소 회전 종목에서는 측정을 마친 선수가 관련된 시도에 대해 측정하고 있지 않은 사람과 스크램블 알고리즘을 공유할 수 있다.
 - 2h) 선수는 대회장 내에 있는 동안 적절한 복장을 착용해야 한다. 선수는 WCA 파견위원의 재량에 따라 부적절한 복장으로 대회로부터 실격될 수 있다.
-- 2i) 미리보기 혹은 솔빙 도중, 선수는 스택매트 혹은 스톱워치 외에 전자 기기 혹은 음향 기기를 사용해서는 안 된다 (예: 휴대 전화, MP3 플레이어, 녹음기, 추가적인 조명). 페널티: 해당 시도의 실격 (DNF).
+- 2i) 미리보기 혹은 솔빙 도중, 선수는 스택맷 혹은 스톱워치 외에 전자 기기 혹은 음향 기기를 사용해서는 안 된다 (예: 휴대 전화, MP3 플레이어, 녹음기, 추가적인 조명). 페널티: 해당 시도의 실격 (DNF).
   - 2i1) WCA 파견위원의 재량 하에, 선수는 불공평한 이득을 주지 않는 비 전자 기기를 사용할 수 있다. 이것은 다음을 포함한다:
     - 2i1a) 선수가 착용하는 의료적/물리적 보조 기구 (예: 안경, 손목 보호대). [규정 2i](regulations:regulation:2i)에 대한 예외로, 선수가 편안한 비 전자적 대체 기구를 가지고 있지 않다면 의료적 보조 기구는 전자 기기일 수 있다 (예: 선수가 개인 청각 보조 기구 혹은 심박 조율기를 지닌 경우)
     - 2i1b) 귀마개. (전자 헤드폰과 초소형 헤드폰 불가)
@@ -212,12 +212,12 @@ WCA 규정과 지침의 변천은 [GitHub](https://github.com/thewca/wca-regulat
 - 7e) 대회 장소는 반드시 금연 구역이어야 한다.
 - 7f) 기록 측정 구역:
   - 7f1) 정의:
-    - 7f1a) 스택매트: 스피드 스택스 스택매트 타이머와 풀 사이즈의 호환 가능한 매트. 시간 측정을 위해서는 반드시 Generation 3 프로 타이머, Generation 4 타이머, Generation 5 타이머가 사용되어야 한다.
-    - 7f1b) 매트: 스택매트의 매트.
-    - 7f1c) 타이머: 스택매트의 타이머, 혹은 스톱워치(장시간 소요되는 종목에서)
-    - 7f1d) 표면: 스택매트가 놓여진 평평한 표면. 매트는 표면의 일부로 간주된다. 타이머는 표면의 일부로 간주되지 않는다.
-  - 7f2) 스택매트 타이머는 표면에 설치된 매트에 반드시 부착되어 있어야 하며, 타이머는 선수와 가장 가까운 쪽에 놓여야 한다.
-  - 7f3) 운영진은 실수로 버튼이 눌리지 않도록 하고 (예: 버튼 주위에 오링 부착) 배터리를 더욱 견고히 고정하는 (예: 배터리 칸을 패딩 처리) 등 스택매트 타이머를 견고히 개조함으로써 흔히 일어날 수 있는 사건들을 방지해야 한다.
+    - 7f1a) 스택맷: 스피드 스택스 스택맷 타이머와 풀 사이즈의 호환 가능한 매트. 시간 측정을 위해서는 반드시 Generation 3 프로 타이머, Generation 4 타이머, Generation 5 타이머가 사용되어야 한다.
+    - 7f1b) 매트: 스택맷의 매트.
+    - 7f1c) 타이머: 스택맷의 타이머, 혹은 스톱워치(장시간 소요되는 종목에서)
+    - 7f1d) 표면: 스택맷가 놓여진 평평한 표면. 매트는 표면의 일부로 간주된다. 타이머는 표면의 일부로 간주되지 않는다.
+  - 7f2) 스택맷 타이머는 표면에 설치된 매트에 반드시 부착되어 있어야 하며, 타이머는 선수와 가장 가까운 쪽에 놓여야 한다.
+  - 7f3) 운영진은 실수로 버튼이 눌리지 않도록 하고 (예: 버튼 주위에 오링 부착) 배터리를 더욱 견고히 고정하는 (예: 배터리 칸을 패딩 처리) 등 스택맷 타이머를 견고히 개조함으로써 흔히 일어날 수 있는 사건들을 방지해야 한다.
   - 7f4) Gen5 프로 타이머는 반드시 2-pad 모드로 사용되어야 한다.
 - 7h) 대회 장소는 하나 이상의 선수 대기석이 있어야 한다.
   - 7h1) 운영진은 기록 측정을 위해 호명된 참가자가 라운드 내에서 자신의 모든 시도가 끝날 때까지 지정된 선수 대기석에 남아있을 것을 요구할 수 있다.
@@ -345,7 +345,7 @@ WCA 규정과 지침의 변천은 [GitHub](https://github.com/thewca/wca-regulat
   - 12a6) 수행 회전 메트릭 (ETM, Execution Turn Metric)은 다음과 같이 정의된다: 면 회전, 외부 층 블럭 회전, 그리고 시점 변환 모두 1 회전으로 처리된다.
 - 12c) 스퀘어-1의 표기법:
   - 12c1) 중앙을 가로지르는 면 중 가장 작은 면을 앞쪽에 놓고 적용한다. 회전은 수평 슬라이스의 두 작은 표면 중 하나를 앞면의 왼쪽에 둔 채로 적용된다.
-  - 12c2) (X, Y)은 다음을 의미한다: 윗 층을 X * 30도 만큼 시계 방향으로 회전하고, 아랫 층을 Y * 30도 만큼 시계 방향으로 회전한다. X와 Y는 -5 이상 6 이하의 정수이어야 하며, X와 Y가 동시에 0이 될 수는 없다.
+  - 12c2) (X, Y)은 다음을 의미한다: 윗 층을 X _ 30도 만큼 시계 방향으로 회전하고, 아랫 층을 Y _ 30도 만큼 시계 방향으로 회전한다. X와 Y는 -5 이상 6 이하의 정수이어야 하며, X와 Y가 동시에 0이 될 수는 없다.
   - 12c3) "/"은 다음을 의미한다: 퍼즐의 오른쪽 반을 180도 회전한다.
   - 12c4) 스퀘어-1에서의 메트릭: (X, Y)는 1 회전으로 게산되며, "/" 또한 1 회전으로 계산된다.
 - 12d) 메가밍크스의 표기법 (스크램블링 표기법만 해당):
@@ -370,19 +370,19 @@ WCA 규정과 지침의 변천은 [GitHub](https://github.com/thewca/wca-regulat
   - 12h3) 반시계 방향으로 120도: R' (보이는 꼭지 중 가장 먼 오른쪽 아래 꼭지 주변의 층), U' (보이는 꼭지 중 가장 먼 위쪽 꼭지 주변의 층), L' (보이는 꼭지 중 가장 먼 왼쪽 아래 꼭지 주변의 층), B' (보이지 않는 꼭지 중 가장 먼 뒤쪽 꼭지 주변의 층).
 - 12i) 정의: 회전은 [규정 10f](regulations:regulation:10f)에서 서술된 허용 범위를 벗어난 오정렬을 포함하여 위에 정의된 표기법에 따라 퍼즐 상태에 대한 어떠한 변화로 간주된다.
 
-## [제 A조](https://www.worldcubeassociation.org/regulations/#article-A-speedsolving): 스피드 솔빙
+## <article-A><speedsolving><speedsolving> 제 A조: 스피드 솔빙
 
-- [A1](https://www.worldcubeassociation.org/regulations/#A1)) 스피드솔빙 시도는 반드시 다음 절차를 따라야 한다.
-  - [A1a](https://www.worldcubeassociation.org/regulations/#A1a)) 운영진은 각각의 라운드마다 반드시 최소 하나의 기록 제한 형식(시도당 기록 제한/누적 기록 제한)을 적용해야 한다.
-    - [A1a1](https://www.worldcubeassociation.org/regulations/#A1a1)) 기본 기록 제한은 시도당 10분이며, 운영진이 변경된 기록 제한을 발표할 수 있고, 이때 기록 제한은 반드시 모든 시도에 동일하게 적용되어야 한다.
-    - [A1a2](https://www.worldcubeassociation.org/regulations/#A1a2)) 최소 회전과 3x3x3 복수 눈 가리기 종목을 제외한 종목에는, 운영진은 누적 기록 제한을 설정할 수 있다. 누적 기록 제한은 반드시 한 라운드의 모든 시도들 혹은 다른 종목들의 조합으로 이루어진 모든 시도를 적용해야 한다.(예: 3회 기록 총 합 20분) 이 경우, 특정 시도에 대한 기록 제한은 기록 제한 혹은 다른 기록들을 빼서 계산된 누적 기록 제한 이 된다. ([규정 A1a5](https://www.worldcubeassociation.org/regulations/#A1a5) 참조) 누적 기록 제한을 사용하는 라운드일 때, 최대 한 개의 제한만 사용해야 한다.
-    - [A1a3](https://www.worldcubeassociation.org/regulations/#A1a3)) 모든 라운드의 기록 제한은 대회가 시작하기 전에 반드시 공지되어야 하며, 라운드가 시작하고 나서 변경되어서는 안된다. WCA 파견위원의 재량에 따라 변경되어야 하며 WCA 파견위원은 그 변경의 정당성을 반드시 충분히 고려해야 한다.
-    - [A1a4](https://www.worldcubeassociation.org/regulations/#A1a4)) 선수는 반드시 기록 제한의 시간이 넘어가기 전에 측정을 마쳐야 한다. 만약 선수의 타이머가 기록 제한을 넘어가면, 심판은 해당 측정을 즉시 멈추고 DNF로 기록한다. 예외: 3x3x3 복수 눈 가리기 ([규정 H1b1](https://www.worldcubeassociation.org/regulations/#H1b1) 참조).
-    - [A1a5](https://www.worldcubeassociation.org/regulations/#A1a5)) 시도에 대한 시간 측정은 측정 시간에 벌칙을 시킨 기록(기록이 DNF가 아닐 때) 혹은 기록 제한 시간을 넘긴 시간(기록이 DNF일 때) 둘 중 하나다.
-  - [A1b](https://www.worldcubeassociation.org/regulations/#A1b)) 기록 제한 시간이 10분보다 길 경우, 스톱워치가 반드시 시간 측정에 사용되어야 한다.
-    - [A1b1](https://www.worldcubeassociation.org/regulations/#A1b1)) 스톱워치는 스택매트의 부가적인 요소로만 사용되어야 한다. 예외: 미리보기 없는 종목에서 선수가 10분을 넘길 것으로 예상될 때는 스택매트가 옵션사항이 된다.
-    - [A1b2](https://www.worldcubeassociation.org/regulations/#A1b2)) 스택매트 타이머가 가능한 시간이라면, 스택 매트에 기록된 시간을 기록한다. 그렇지 않다면 (예: 스택매트 오작동 - 10분 이상동안 측정 혹은 사용되지 않을 때) 스톱워치의 기록된 시간을 기록한다.
-  - [A1c](https://www.worldcubeassociation.org/regulations/#A1c)) 종목에 참가 중인 선수는 반드시 종목 요구 조건을 수행할 수 있어야 한다. ([규정 2k6](https://www.worldcubeassociation.org/regulations/#2k6) 참조).
+- A1) 스피드 솔빙 시도는 반드시 다음 절차를 준수해야 한다.
+  - A1a) 운영진은 각 라운드마다 최소 한 종류의 기록 제한 (시도 당 기록 제한 그리고/혹은 누적 기록 제한)을 적용해야 한다.
+    - A1a1) 기본 기록 제한은 라운드의 각 시도당 10분이지만, 운영진은 시도당 더 높거나 낮은 기록 제한을 발표할 수 있다. 이 경우, 한 라운드의 모든 시도에 대한 기록 제한은 동일해야 한다.
+    - A1a2) 3x3x3 최소 회전과 3x3x3 눈 가리고 맞추기 (복수) 이외의 종목은 운영진이 누적 기록 제한을 규정할 수 있다. 누적 기록 제한은 한 라운드의 모든 시도에 대하여 (예: 세 번의 시도에 대하여 20분의 누적 기록 제한), 혹은 여러 종목의 조합에 있는 모든 시도들에 대하여 적용되어야 한다. 이 경우, 특정 시도에 대한 기록 제한은 기록 제한 자체, 또는 누적 기록 제한에서 지금까지 기록 제한에 포함되는 다른 시도의 총 소요 시간을 뺀 시간 (규정 A1a5 참조) 중 더 낮은 시간이다. 한 라운드에 적용 가능한 누적 시간 제한이 있는 경우, 최대 한 개만 있어야 한다.
+    - A1a3) 모든 라운드의 기록 제한은 반드시 대회 전에 공지되어야 하며, 해당 라운드가 시작 된 이후에 변경될 수 없다. 기록 제한의 변경은 WCA 파견위원의 재량 하에 이루어져야 하며, 이 때 WCA 파견위원은 변경의 공정성을 신중히 고려해야 한다.
+    - A1a4) 선수는 시도가 기록 제한에 도달하기 전에 각 솔브를 마쳐야 한다. 선수의 타이머가 시도의 기록 제한에 도달하면, 심판은 즉시 솔브를 멈추게 하고 결과를 DNF로 기록한다. 예외: 3x3x3 눈 가리고 맞추기 (복수) ([규정 H1b1](regulations:regulation:H1b1) 참고)
+    - A1a5) 기록 제한 시간에 포함되는 시간은 페널티가 적용된 시간 (DNF가 아닌 경우) 이거나 시도에 소모된 시간 (DNF인 경우)이다.
+  - A1b) 기록 제한이 10분을 초과하는 경우, 시간 기록을 위해 반드시 스톱워치가 사용되어야 한다.
+    - A1b1) 스택맷은 반드시 스톱워치와 같이 사용되어야 한다. 예외: 선수가 10분을 초과할 것으로 예상되는 미리보기가 없는 종목에서, 스택맷는 부수적이다.
+    - A1b2) 스택맷 타이머의 시간을 사용할 수 있는 경우, 이 시간이 본래의 기록된 시간이다. 그렇지 않다면 (예: 스택맷 타이머의 오작동, 스택맷 타이머의 10분 이상 실행, 스택맥 타이머가 전혀 사용되지 않음), 스톱워치의 시간이 본래의 기록된 시간이다.
+  - A1c) 종목에 참가하는 선수는 반드시 해당 종목의 요구 사항을 충족할 수 있어야 한다 ([규정 2k6](regulations:regulation:2k6) 참고).
 - [A2](https://www.worldcubeassociation.org/regulations/#A2)) 스크램블:
   - [A2a](https://www.worldcubeassociation.org/regulations/#A2a)) 퍼즐을 제출할 때 참가자는 완전히 맞춰진 상태로 제출해야 한다. 그 다음 자신의 이름이 불릴 때까지 지정된 선수 대기석에서 기다린다.
   - [A2b](https://www.worldcubeassociation.org/regulations/#A2b)) 스크램블러는 퍼즐을 [제 4조](https://www.worldcubeassociation.org/regulations/#4)에 있는 규정에 따라 섞는다..
@@ -410,9 +410,9 @@ WCA 규정과 지침의 변천은 [GitHub](https://github.com/thewca/wca-regulat
     - [A3c5](https://www.worldcubeassociation.org/regulations/#A3c5)) 스퀘어-1 종목에서, 선수는 [규정 10f](https://www.worldcubeassociation.org/regulations/#10f)의 한계 안에서 움직여진 회전으로 벌칙이 주어지지 않아야 한다.
   - [A3d](https://www.worldcubeassociation.org/regulations/#A3d)) 미리보기의 끝에, 선수는 매트에 퍼즐을 아무런 방향으로 놓는다. 매트 밖에 놓는 것에 대한 벌칙: 시간 추가 (+2초)
 - [A4](https://www.worldcubeassociation.org/regulations/#A4)) 측정 시작:
-  - [A4b](https://www.worldcubeassociation.org/regulations/#A4b)) 선수는 스택매트 타이머의 센서에 손가락을 올려놓는다. 선수의 손바닥은 반드시 아래쪽을 향하고 있어야 하고, 이 타이머는 선수에게서 더 가까운 쪽에 위치한다. 벌칙: 시간 추가(+2초)
+  - [A4b](https://www.worldcubeassociation.org/regulations/#A4b)) 선수는 스택맷 타이머의 센서에 손가락을 올려놓는다. 선수의 손바닥은 반드시 아래쪽을 향하고 있어야 하고, 이 타이머는 선수에게서 더 가까운 쪽에 위치한다. 벌칙: 시간 추가(+2초)
     - [A4b1](https://www.worldcubeassociation.org/regulations/#A4b1)) 선수는 반드시 측정을 시작하는 동안 퍼즐의 물리적인 접촉이 없어야 한다. 벌칙: 시간 추가 (+2초)
-  - [A4d](https://www.worldcubeassociation.org/regulations/#A4d)) 스택매트 타이머를 사용한다면, 타이머 불빛이 초록 불인 것을 확인할 때까지 선수들은 손을 유지해야 한다. 선수가 손을 떼면 타이머가 시작된다. 선수는 타이머를 시작하면서 측정을 시작한다.
+  - [A4d](https://www.worldcubeassociation.org/regulations/#A4d)) 스택맷 타이머를 사용한다면, 타이머 불빛이 초록 불인 것을 확인할 때까지 선수들은 손을 유지해야 한다. 선수가 손을 떼면 타이머가 시작된다. 선수는 타이머를 시작하면서 측정을 시작한다.
     - [A4d1](https://www.worldcubeassociation.org/regulations/#A4d1)) 선수는 미리보기 시작 후 15초 이내에 반드시 시작해야 한다. 벌칙: 시간 추가(+2초)
     - [A4d2](https://www.worldcubeassociation.org/regulations/#A4d2)) 선수는 미리보기 시작 후 17초 이내에 반드시 시작해야 한다. 벌칙: 해당 시도 실격(DNF)
     - [A4d3](https://www.worldcubeassociation.org/regulations/#A4d3)) 스톱워치를 사용한다면, 심판은 선수가 측정을 시작하는 순간 스톱워치를 시작시킨다.
@@ -423,7 +423,7 @@ WCA 규정과 지침의 변천은 [GitHub](https://github.com/thewca/wca-regulat
   - [A5c](https://www.worldcubeassociation.org/regulations/#A5c)) 선수는 퍼즐의 작동을 돕기 위해 표면 위로 잡고 있을 수 있다. ([규정 7f1d](https://www.worldcubeassociation.org/regulations/#7f1d) 참조)
 - [A6](https://www.worldcubeassociation.org/regulations/#A6)) 측정을 멈출 때:
   - [A6a](https://www.worldcubeassociation.org/regulations/#A6a)) 선수는 측정을 멈추기 전에 퍼즐을 놓고, 타이머를 멈추면서 측정을 멈춘다. 스톱워치가 사용된다면 심판은 선수가 멈춘 순간 스톱워치를 멈춘다.
-  - [A6b](https://www.worldcubeassociation.org/regulations/#A6b)) 선수는 스택매트 타이머를 정확하게 멈출 의무가 있다.
+  - [A6b](https://www.worldcubeassociation.org/regulations/#A6b)) 선수는 스택맷 타이머를 정확하게 멈출 의무가 있다.
     - [A6b1](https://www.worldcubeassociation.org/regulations/#A6b1)) 선수가 퍼즐을 다 맞추기 전에 타이머의 시간이 0.06초 아래로 멈춘다면, 이 시도는 추가 시도로 대체된다. WCA 파견위원은 선수가 타이머를 의도적으로 멈췄다고 판단하면 선수는 추가 시도에 대한 권리를 박탈당한다.
     - [A6b2](https://www.worldcubeassociation.org/regulations/#A6b2)) 선수가 퍼즐을 다 맞추기 전에 타이머의 시간이 0.06초 혹은 그 이상으로 멈춘다면 그 기록은 실격 처리 된다. (DNF) 예외: 선수가 타이머 오작동을 설명할 수 있다면, WCA 파견위원의 재량에 따라 추가 시도를 받을 수 있다.
   - [A6c](https://www.worldcubeassociation.org/regulations/#A6c)) 선수는 반드시 타이머를 멈추기 전에 퍼즐을 놓아야 한다. 벌칙: 해당 시도 실격 (DNF). 예외: 타이머를 멈춘 뒤 퍼즐을 놓기 전에 회전 혹은 재정렬이 없었다면, 심판의 재량에 따라 시간 추가(+2초)가 주어질 수 있다.
@@ -457,9 +457,9 @@ WCA 규정과 지침의 변천은 [GitHub](https://github.com/thewca/wca-regulat
   - [B1b](https://www.worldcubeassociation.org/regulations/#B1b)) 선수는 본인의 안대를 준비한다.
 - [B2](https://www.worldcubeassociation.org/regulations/#B2)) 측정 시작:
   - [B2a](https://www.worldcubeassociation.org/regulations/#B2a)) 심판은 [규정 A3b](https://www.worldcubeassociation.org/regulations/#A3b)에 있는 것처럼 타이머를 리셋하고 선수에게 시도를 시작할 준비가 됐다는 것을 알려준다.(예: 선수 앞에 퍼즐 커버를 놓기, “준비됐습니다.”라고 말하기, 엄지를 올리기) 선수는 반드시 1분 이내에 시도를 시작해야 하고, 그렇지 않을 시 심판의 재량에 따라 선수는 기회를 박탈당한다. (DNS)
-  - [B2b](https://www.worldcubeassociation.org/regulations/#B2b)) 스택매트 타이머를 사용 시, 선수는 타이머의 센서에 손가락을 아래쪽으로 올려놔야 한다. 어길 시 벌칙: 시간 추가 (+2초)
-  - [B2c](https://www.worldcubeassociation.org/regulations/#B2c)) 스택매트 타이머를 사용 시, 선수는 시작할 때 절대로 퍼즐이나 퍼즐 커버에 물리적인 접촉을 하면 안된다. 어길 시 벌칙: 시간 추가 (+2초)
-  - [B2d](https://www.worldcubeassociation.org/regulations/#B2d)) 스택매트 타이머를 사용 시, 선수는 초록 불이 타이머에 들어올 때까지 손을 유지해야 한다. 손을 떼면 타이머가 시작된다. 선수는 타이머를 시작함으로써 시도를 시작한다.
+  - [B2b](https://www.worldcubeassociation.org/regulations/#B2b)) 스택맷 타이머를 사용 시, 선수는 타이머의 센서에 손가락을 아래쪽으로 올려놔야 한다. 어길 시 벌칙: 시간 추가 (+2초)
+  - [B2c](https://www.worldcubeassociation.org/regulations/#B2c)) 스택맷 타이머를 사용 시, 선수는 시작할 때 절대로 퍼즐이나 퍼즐 커버에 물리적인 접촉을 하면 안된다. 어길 시 벌칙: 시간 추가 (+2초)
+  - [B2d](https://www.worldcubeassociation.org/regulations/#B2d)) 스택맷 타이머를 사용 시, 선수는 초록 불이 타이머에 들어올 때까지 손을 유지해야 한다. 손을 떼면 타이머가 시작된다. 선수는 타이머를 시작함으로써 시도를 시작한다.
     - [B2d1](https://www.worldcubeassociation.org/regulations/#B2d1)) 선수는 타이머를 시작시킨 뒤 커버를 제거한다.
     - [B2d2](https://www.worldcubeassociation.org/regulations/#B2d2)) 스택타이머에 추가로 스톱워치가 사용되면, 심판은 선수가 측정을 시작할 때 스톱워치를 작동시킨다.
   - [B2f](https://www.worldcubeassociation.org/regulations/#B2f)) 스톱워치만 사용된다면, 선수는 커버를 올리면서 측정을 시작한다. 심판은 선수가 측정을 시작할 때 스톱워치를 작동시킨다.
@@ -477,8 +477,8 @@ WCA 규정과 지침의 변천은 [GitHub](https://github.com/thewca/wca-regulat
     - [B4c3](https://www.worldcubeassociation.org/regulations/#B4c3)) 심판과 선수가 사전에 약속했다면, 선수는 눈 가리고 맞추기 단계 동안 적합한 물체 뒤에 퍼즐을 놓을 수 있다. (예: 하모니카 홀더)
   - [B4d](https://www.worldcubeassociation.org/regulations/#B4d)) 선수는 눈 가리고 맞추기 단계에서 절대로 퍼즐을 봐서는 안된다. 어길 시 벌칙: 해당 시도 실격 (DNF)
 - [B5](https://www.worldcubeassociation.org/regulations/#B5)) 측정을 멈출 때:
-  - [B5a](https://www.worldcubeassociation.org/regulations/#B5a)) 스택매트 타이머를 사용 시, 선수는 측정을 멈추기 전에 퍼즐을 놓고, 타이머를 멈추면서 측정을 멈춘다.
-    - [B5a1](https://www.worldcubeassociation.org/regulations/#B5a1)) 스택매트 타이머에 추가로 스톱워치가 사용된다면 심판은 선수가 멈춘 순간 스톱워치를 멈춘다.
+  - [B5a](https://www.worldcubeassociation.org/regulations/#B5a)) 스택맷 타이머를 사용 시, 선수는 측정을 멈추기 전에 퍼즐을 놓고, 타이머를 멈추면서 측정을 멈춘다.
+    - [B5a1](https://www.worldcubeassociation.org/regulations/#B5a1)) 스택맷 타이머에 추가로 스톱워치가 사용된다면 심판은 선수가 멈춘 순간 스톱워치를 멈춘다.
   - [B5b](https://www.worldcubeassociation.org/regulations/#B5b)) 타이머로써 스톱워치만 사용 시, 선수가 퍼즐을 내려놓고 심판에게 알려준다. 심판은 그때 스톱워치를 멈춘다.
     - [B5b1](https://www.worldcubeassociation.org/regulations/#B5b1)) 선수의 기본 신호는 퍼즐을 내려놓고 손바닥을 바닥으로 향해 놓는 것이다. 선수와 심판은 사전에 약속하여 적절한 다른 신호를 정할 수 있다.
   - [B5c](https://www.worldcubeassociation.org/regulations/#B5c)) 선수가 퍼즐을 만지고 있지 않다면, 타이머를 멈추기 전에 안대를 제거할 수 있다. 이때 측정이 끝나기 전에 퍼즐을 절대로 만져서는 안된다. 어길 시 벌칙: 해당 시도 실격 (DNF)
