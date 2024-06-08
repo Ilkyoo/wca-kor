@@ -212,7 +212,7 @@ WCA 규정과 지침의 변천은 [GitHub](https://github.com/thewca/wca-regulat
 - 7e) 대회 장소는 반드시 금연 구역이어야 한다.
 - 7f) 기록 측정 구역:
   - 7f1) 정의:
-    - 7f1a) 스택맷: 스피드 스택스 스택맷 타이머와 풀 사이즈의 호환 가능한 매트. 시간 측정을 위해서는 반드시 Generation 3 프로 타이머, Generation 4 타이머, Generation 5 타이머가 사용되어야 한다.
+    - 7f1a) 스택맷: 스피드 스택스 스택맷 타이머와 풀 사이즈의 호환 가능한 매트. 시간 측정을 위해서는 반드시 Generation 3 프로 타이머, Generation 4 타이머, Generation 5 프로 타이머가 사용되어야 한다.
     - 7f1b) 매트: 스택맷의 매트.
     - 7f1c) 타이머: 스택맷의 타이머, 혹은 스톱워치(장시간 소요되는 종목에서)
     - 7f1d) 표면: 스택맷가 놓여진 평평한 표면. 매트는 표면의 일부로 간주된다. 타이머는 표면의 일부로 간주되지 않는다.
@@ -390,141 +390,141 @@ WCA 규정과 지침의 변천은 [GitHub](https://github.com/thewca/wca-regulat
   - A2c) 스크램블러가 퍼즐을 섞기 시작한 이후에, 선수는 미리보기 단계를 시작하기 전까지 퍼즐을 보아서는 안 된다.
     - A2c1) 스크램블러는 섞여진 퍼즐에 덮개를 씌워 선수나 참관객이 퍼즐의 어떠한 부분도 볼 수 없게 한다. 덮개는 시도의 시작 전까지 퍼즐에 씌워져 있어야 한다.
   - A2d) 스크램블러에게서 퍼즐을 가져올 때, 심판은 퍼즐이 완전히 섞였는지 확인하기 위해 퍼즐을 간단히 검사한다. 심판은 스크램블러에게 우려 사항을 제기하고, 그 후 스크램블러는 자세히 점검한 점검을 실시한다.
-    - A2d1) 스크램블러 혹은 인가 받은 심판은 섞인 퍼즐을 확인하고, 올바른 번호의 스크램블 알고리즘을 적용하였으며 이미지와 일치하는지 확인하였다는 것을 분명히 하기 위해 기록지에 싸인 (혹은 이름의 초성) 한다 ([규정 4g](regulations:regulation:4g) 참고). 예외: 6x6x6 큐브, 7x7x7 큐브, 메가밍크스 종목에서는, 스크램블러가 퍼즐이 충분히 섞였는지를 분명히 하기 위해 싸인 (혹은 이름의 초성) 한다 ([규정 4g1](regulations:regulation:4g1) 참고).
+    - A2d1) 스크램블러 혹은 인가 받은 심판은 섞인 퍼즐을 확인하고, 올바른 번호의 스크램블 알고리즘을 적용하였으며 이미지와 일치하는지 확인하였다는 것을 분명히 하기 위해 기록지에 서명 (혹은 이름의 초성) 한다 ([규정 4g](regulations:regulation:4g) 참고). 예외: 6x6x6 큐브, 7x7x7 큐브, 메가밍크스 종목에서는, 스크램블러가 퍼즐이 충분히 섞였는지를 분명히 하기 위해 서명 (혹은 이름의 초성) 한다 ([규정 4g1](regulations:regulation:4g1) 참고).
   - A2e) 심판은 퍼즐이 완전히 가려진 상태인지 확인하면서 퍼즐을 매트 위에 임의의 방향대로 놓는다.
     - A2e1) 참가자는 어떤 특정한 방향을 요청하는 것이 허용되지 않으며, 심판은 절대로 퍼즐을 놓은 방향에 영향을 주면 안된다. 선수는 특정한 방향을 요청하라 수 없으며, 심판은 자신이 알고 있거나 예상하는 퍼즐 상태에 기반하여 매트 위에 퍼즐을 놓는 방향에 영향을 주어서는 안 된다.
-- [A3](https://www.worldcubeassociation.org/regulations/#A3)) 미리보기:
-  - [A3a](https://www.worldcubeassociation.org/regulations/#A3a)) 선수는 각 시도의 시작마다 미리보기를 할 수 있다.
-    - [A3a1](https://www.worldcubeassociation.org/regulations/#A3a1)) 선수는 미리보기와 측정을 시작할 수 있는 15초 미만의 시간이 할당된다.
-  - [A3b](https://www.worldcubeassociation.org/regulations/#A3b)) 심판은 타이머를 키고 필요하다면 리셋을 한 상태로 준비해 놓는다. Gen5 타이머를 사용한다면, 심판은 반드시 2-Pad 모드인지 확인해야 한다. 심판은 또한 미리보기 때 쓸 스톱워치를 준비한다. ([규정 A4d](https://www.worldcubeassociation.org/regulations/#A4d) 참조).
-    - [A3b1](https://www.worldcubeassociation.org/regulations/#A3b1)) 심판이 보기에 선수가 준비된 것처럼 보이면, 심판은 “준비되셨나요?”라고 물어본다. 선수는 반드시 심판이 물어본 뒤로부터 1분 이내에 시작할 준비가 되어있어야 한다. 그렇지 않다면 심판의 재량에 따라 선수는 시도를 포기한 것으로 간주한다. (DNS)
-    - [A3b2](https://www.worldcubeassociation.org/regulations/#A3b2)) 선수는 준비가 됐다는 것을 표시함으로써 시도를 시작하고, 심판은 커버를 열고 미리보기 시간을 측정한다.
-    - [A3b3](https://www.worldcubeassociation.org/regulations/#A3b3)) 미리보기 8초가 넘었을 때, 심판은 “8초”라고 말한다.
-    - [A3b4](https://www.worldcubeassociation.org/regulations/#A3b4)) 미리보기 12초가 넘었을 때, 심판은 “12초”라고 말한다.
-    - [A3b5](https://www.worldcubeassociation.org/regulations/#A3b5)) 선수가 손을 놓고 타이머를 시작할 때 심판은 미리보기 시간 측정을 멈춘다. ([규정 A4d](https://www.worldcubeassociation.org/regulations/#A4d) 참조).
-  - [A3c](https://www.worldcubeassociation.org/regulations/#A3c)) 선수는 미리보기 시간 동안 퍼즐을 들 수 있다.
-    - [A3c1](https://www.worldcubeassociation.org/regulations/#A3c1)) 선수는 절대로 미리보기 시간 동안 회전 혹은 의도적인 정렬 변경을 하면 안된다. 벌칙: 해당 시도 실격 (DNF) 예외: [규정 A3c2](https://www.worldcubeassociation.org/regulations/#A3c2)와 [규정 A3c5](https://www.worldcubeassociation.org/regulations/#A3c5).
-    - [A3c2](https://www.worldcubeassociation.org/regulations/#A3c2)) 커버를 제거했을 때 퍼즐의 조각이 정확히 정렬되지 않았다면, [규정 10f](https://www.worldcubeassociation.org/regulations/#10f)의 한계 안에서 선수는 어긋난 면을 맞출 수 있다.
-    - [A3c3](https://www.worldcubeassociation.org/regulations/#A3c3)) 선수는 측정 시작 전에 타이머를 리셋할 수 있다.
-    - [A3c4](https://www.worldcubeassociation.org/regulations/#A3c4)) 스퀘어-1 종목에서, 운영진이 퍼즐의 안에 얇은 물체를 사용했다면([규정 A2b1](https://www.worldcubeassociation.org/regulations/#A2b1) 참조), 선수는 미리보기 시간 동안 제거할 수 있다.
-    - [A3c5](https://www.worldcubeassociation.org/regulations/#A3c5)) 스퀘어-1 종목에서, 선수는 [규정 10f](https://www.worldcubeassociation.org/regulations/#10f)의 한계 안에서 움직여진 회전으로 벌칙이 주어지지 않아야 한다.
-  - [A3d](https://www.worldcubeassociation.org/regulations/#A3d)) 미리보기의 끝에, 선수는 매트에 퍼즐을 아무런 방향으로 놓는다. 매트 밖에 놓는 것에 대한 벌칙: 시간 추가 (+2초)
-- [A4](https://www.worldcubeassociation.org/regulations/#A4)) 측정 시작:
-  - [A4b](https://www.worldcubeassociation.org/regulations/#A4b)) 선수는 스택맷 타이머의 센서에 손가락을 올려놓는다. 선수의 손바닥은 반드시 아래쪽을 향하고 있어야 하고, 이 타이머는 선수에게서 더 가까운 쪽에 위치한다. 벌칙: 시간 추가(+2초)
-    - [A4b1](https://www.worldcubeassociation.org/regulations/#A4b1)) 선수는 반드시 측정을 시작하는 동안 퍼즐의 물리적인 접촉이 없어야 한다. 벌칙: 시간 추가 (+2초)
-  - [A4d](https://www.worldcubeassociation.org/regulations/#A4d)) 스택맷 타이머를 사용한다면, 타이머 불빛이 초록 불인 것을 확인할 때까지 선수들은 손을 유지해야 한다. 선수가 손을 떼면 타이머가 시작된다. 선수는 타이머를 시작하면서 측정을 시작한다.
-    - [A4d1](https://www.worldcubeassociation.org/regulations/#A4d1)) 선수는 미리보기 시작 후 15초 이내에 반드시 시작해야 한다. 벌칙: 시간 추가(+2초)
-    - [A4d2](https://www.worldcubeassociation.org/regulations/#A4d2)) 선수는 미리보기 시작 후 17초 이내에 반드시 시작해야 한다. 벌칙: 해당 시도 실격(DNF)
-    - [A4d3](https://www.worldcubeassociation.org/regulations/#A4d3)) 스톱워치를 사용한다면, 심판은 선수가 측정을 시작하는 순간 스톱워치를 시작시킨다.
-  - [A4e](https://www.worldcubeassociation.org/regulations/#A4e)) 시작할 때 시간 벌칙은 누적된다.
-- [A5](https://www.worldcubeassociation.org/regulations/#A5)) 측정 중:
-  - [A5a](https://www.worldcubeassociation.org/regulations/#A5a)) 미리보기 혹은 측정 중에, 선수는 심판 혹은 WCA 파견위원을 제외한 모든 사람과 절대로 소통을 하면 안된다. 벌칙: 해당 시도 실격 (DNF) 예외: 심판 혹은 WCA 파견위원을 제외한 다른 사람과의 소통으로 선수가 이득을 얻지 않았다면, WCA 파견위원의 재량에 따라 그 기록은 인정될 수 있다.
-  - [A5b](https://www.worldcubeassociation.org/regulations/#A5b)) 미리보기 혹은 측정 중에, 선수는 표면 외에 다른 사람 혹은 다른 물체에게서 절대로 보조를 받아서는 안된다. ([규정 2i](https://www.worldcubeassociation.org/regulations/#2i)도 참조). 벌칙: 해당 시도 실격 (DNF)
-  - [A5c](https://www.worldcubeassociation.org/regulations/#A5c)) 선수는 퍼즐의 작동을 돕기 위해 표면 위로 잡고 있을 수 있다. ([규정 7f1d](https://www.worldcubeassociation.org/regulations/#7f1d) 참조)
-- [A6](https://www.worldcubeassociation.org/regulations/#A6)) 측정을 멈출 때:
-  - [A6a](https://www.worldcubeassociation.org/regulations/#A6a)) 선수는 측정을 멈추기 전에 퍼즐을 놓고, 타이머를 멈추면서 측정을 멈춘다. 스톱워치가 사용된다면 심판은 선수가 멈춘 순간 스톱워치를 멈춘다.
-  - [A6b](https://www.worldcubeassociation.org/regulations/#A6b)) 선수는 스택맷 타이머를 정확하게 멈출 의무가 있다.
-    - [A6b1](https://www.worldcubeassociation.org/regulations/#A6b1)) 선수가 퍼즐을 다 맞추기 전에 타이머의 시간이 0.06초 아래로 멈춘다면, 이 시도는 추가 시도로 대체된다. WCA 파견위원은 선수가 타이머를 의도적으로 멈췄다고 판단하면 선수는 추가 시도에 대한 권리를 박탈당한다.
-    - [A6b2](https://www.worldcubeassociation.org/regulations/#A6b2)) 선수가 퍼즐을 다 맞추기 전에 타이머의 시간이 0.06초 혹은 그 이상으로 멈춘다면 그 기록은 실격 처리 된다. (DNF) 예외: 선수가 타이머 오작동을 설명할 수 있다면, WCA 파견위원의 재량에 따라 추가 시도를 받을 수 있다.
-  - [A6c](https://www.worldcubeassociation.org/regulations/#A6c)) 선수는 반드시 타이머를 멈추기 전에 퍼즐을 놓아야 한다. 벌칙: 해당 시도 실격 (DNF). 예외: 타이머를 멈춘 뒤 퍼즐을 놓기 전에 회전 혹은 재정렬이 없었다면, 심판의 재량에 따라 시간 추가(+2초)가 주어질 수 있다.
-  - [A6d](https://www.worldcubeassociation.org/regulations/#A6d)) 선수는 반드시 센서에 손바닥을 아래로 향하여 멈춰야 한다. 벌칙: 시간 추가(+2초)
-  - [A6e](https://www.worldcubeassociation.org/regulations/#A6e)) 타이머를 멈춘 뒤, 심판이 퍼즐을 확인할 때까지 선수는 절대로 퍼즐을 만지거나, 회전 혹은 재정렬을 해서는 안된다.
-    - [A6e1](https://www.worldcubeassociation.org/regulations/#A6e1)) 타이머를 멈춘 뒤 회전을 적용한 것에 대한 벌칙: 해당 시도 실격 (DNF)
-    - [A6e2](https://www.worldcubeassociation.org/regulations/#A6e2)) 타이머를 멈춘 뒤 아무런 회전 없이 퍼즐을 만진 것에 대한 벌칙: 시간 추가(+2초) 예외: 타이머를 멈춘 뒤 선수가 퍼즐을 만졌지만 아무런 면에 영향을 주지 않고 뗀 경우는 심판의 재량에 따라 이 시간 추가가 없어질 수 있다. ([규정 11f](https://www.worldcubeassociation.org/regulations/#11f) 참조).
-  - [A6f](https://www.worldcubeassociation.org/regulations/#A6f)) 선수는 심판과 선수가 기록지에 서명하기 전까지 절대로 타이머를 리셋하면 안된다. 벌칙: 선수의 재량에 따라 해당 시도 실격(DNF)
-    - [A6f1](https://www.worldcubeassociation.org/regulations/#A6f1)) 기록이 완전히 기록되기 전에 선수가 타이머를 리셋하면 심판은 절대로 기억 혹은 비디오 혹은 사진 등 시각 자료를 통해 기록을 적으면 안되며 기록을 실격 처리해야 한다. (DNF)
-  - [A6g](https://www.worldcubeassociation.org/regulations/#A6g)) 심판은 퍼즐이 다 맞춰졌는지 확인해야 하는데 이때 퍼즐이 어긋나 있다면 심판이 최종 상태를 결정하기 전에는 절대로 퍼즐을 만져서는 안된다.
-  - [A6h](https://www.worldcubeassociation.org/regulations/#A6h)) 토론이 필요한 경우에 해결되기 전까지 절대로 어떠한 움직임이나 정렬이 퍼즐에 가해져서는 안된다.
-  - [A6i](https://www.worldcubeassociation.org/regulations/#A6i)) 멈출 때의 시간 벌칙은 누적된다.
-- [A7](https://www.worldcubeassociation.org/regulations/#A7)) 기록 입력:
-  - [A7a](https://www.worldcubeassociation.org/regulations/#A7a)) 심판은 선수에게 기록을 말한다.
-    - [A7a1](https://www.worldcubeassociation.org/regulations/#A7a1)) 심판은 선수에게 퍼즐이 맞춰졌는지 확인시켜야 하며, 벌칙이 적용될 것인지도 확인시켜야 한다.
-  - [A7b](https://www.worldcubeassociation.org/regulations/#A7b)) 심판은 기록지에 기록을 적고 기록이 정확하게 적혔다는 의미에 대한 것으로 서명을 한다.
-    - [A7b1](https://www.worldcubeassociation.org/regulations/#A7b1)) 벌칙이 적용되었다면 심판은 벌칙들 사이에 타이머에 표시된 원래 기록을 적는다. 입력 양식은 "T + X = F"이며, T는 타이머에 표시된 기록 ("원래 기록"), X는 시도 중 발생한 벌칙, F는 최종 기록을 나타낸다. (예: 17.65 + 4 = 21.65).
-  - [A7c](https://www.worldcubeassociation.org/regulations/#A7c)) 선수는 반드시 기록을 확인하고 그 기록이 정확하게 적혔다는 의미에 대한 것으로 서명해야 한다. 이것이 시도의 종료이다.
-    - [A7c1](https://www.worldcubeassociation.org/regulations/#A7c1)) 선수 혹은 심판이 기록을 인정하지 않는다면 WCA 파견위원은 반드시 이 문제를 해결해야 한다.
-    - [A7c2](https://www.worldcubeassociation.org/regulations/#A7c2)) 만약 선수가 시작 전에 의도적으로 서명 (혹은 표시)한다면, 시도를 박탈당하고 그 결과는 DNS로 간주된다.
-    - [A7c3](https://www.worldcubeassociation.org/regulations/#A7c3)) 측정 시작 후에 심판이 기록 작성을 마치기 전에 만약 선수가 서명 (혹은 표시)를 한다면 그 결과는 완료하지 않은 것으로 간주된다. (DNF)
-    - [A7c4](https://www.worldcubeassociation.org/regulations/#A7c4)) 심판이 기록을 적고 서명하기 전까지 선수는 서명을 해서는 안된다. 선수는 선수와 심판이 시도에 서명을 했다는 것을 확인한 것에 대한 궁극적인 책임이 있다. 러너가 기록 입력자에게 기록지를 전달한 뒤 심판 혹은 선수의 서명이 없는 것이 발견되면([규정 A7f](https://www.worldcubeassociation.org/regulations/#A7f) 참조), 완료되지 않은 것으로 간주된다. (DNF)
-    - [A7c5](https://www.worldcubeassociation.org/regulations/#A7c5)) 대회 전에 발견된 빈 서명란([규정 9u](https://www.worldcubeassociation.org/regulations/#9u) 참조)은 WCA 파견위원의 재량에 따라 심판 혹은 선수가 추가할 수 있다.
-  - [A7f](https://www.worldcubeassociation.org/regulations/#A7f)) 선수의 기록지가 완료되면, 러너는 기록지를 기록 입력자에게 전달한다.
-  - [A7g](https://www.worldcubeassociation.org/regulations/#A7g)) WCA 파견위원의 재량에 따라, 참가자의 규정 미숙으로 인해 발생한 사건 혹은 벌칙은 추가 시도로 대체될 수 있다.
+- A3) 미리보기:
+  - A3a) 선수는 각 시도를 시작할 때 미리보기를 할 수 있다.
+    - A3a1) 선수는 퍼즐을 미리보기 하기 위해 정확히 15초 미만의 시간을 할당받는다.
+  - A3b) 심판은 타이머를 켜고 필요한 경우 타이머를 초기화하여 준비한다. Generation 5 프로 타이머가 사용되는 경우, 심판은 타이머가 2-Pad 모드로 설정되었는지 반드시 확인해야 한다. 별도로, 심판은 미리보기 시간을 측정하기 위한 스톱워치 또한 준비한다 ([규정 A4d](regulations:regulation:A4d) 참고).
+    - A3b1) 심판이 선수가 준비되었다고 판단하면, 심판은 "준비되었나요?"라고 물어본다. 선수는 질문을 받은 순간으로부터 반드시 1분 이내에 시도를 시작해야 하며, 그렇지 않은 경우 선수는 심판의 재량 하에 시도를 박탈당한다 (DNS).
+    - A3b2) 선수는 준비되었다는 것을 알림으로써 시도를 시작하며, 심판은 퍼즐 덮개를 열고 미리보기 시간을 측정하기 시작한다.
+    - A3b3) 8초가 경과하면 심판은 "8초"라고 말한다.
+    - A3b4) 8초가 경과하면 심판은 "12초"라고 말한다.
+    - A3b5) 심판은 선수가 타이머에서 손을 떼 타이머가 작동되게 하자마자 미리보기 시간 측정을 멈춘다 ([규정 A4d](regulations:regulation:A4d) 참고).
+  - A3c) 선수는 미리보기 동안 퍼즐을 집어들 수 있다.
+    - A3c1) 선수는 미리보기 동안 회전 혹은 퍼즐 정렬에 의도적인 변화를 적용하여서는 안 된다. 페널티: 해당 시도의 실격 (DNF). 예외: [규정 A3c2](regulations:regulation:A3c2)와 [규정 A3c5](regulations:regulation:A3c5).
+    - A3c2) 덮개를 제거했을 때 퍼즐의 조각이 완전히 정렬 되어있지 않다면, 선수는 오정렬이 [규정 10f](regulations:regulation:10f)의 제한 범위 내에서 유지되는 한 면을 정렬할 수 있다.
+    - A3c3) 선수는 솔브의 시작 전에 타이머를 초기화할 수 있다.
+    - A3c4) 스퀘어-1 종목에서 운영진에 의해 퍼즐 속에 얇은 물체를 사용하는 것이 강제되었다면 ([규정 A2b1](regulations:regulation:A2b1) 참고), 선수는 미리보기 동안 퍼즐에서 해당 물체를 제거할 수 있다.
+    - A3c5) 스퀘어-1 종목에서, 선수는 [규정 10f](regulations:regulation:10f)의 제한 범위 안에서 가해진 그 어떠한 돌발적인 회전에 의해서도 페널티를 받아서는 안 된다.
+  - A3d) 미리보기가 끝날 무렵, 선수는 퍼즐을 매트 위에 아무런 방향으로 놓는다. 매트 밖에 놓는 것으로 인한 페널티: 시간 페널티 (+2초).
+- A4) 솔브의 시작:
+  - A4b) 선수는 스택맷 타이머의 돌출된 센서 표면을 본인의 손가락으로 접촉한다. 선수의 양 손바닥은 반드시 아래를 향해야 하며, 타이머의 면 중 선수와 가까운 쪽에 위치해야 한다. 페널티: 시간 페널티 (+2초).
+    - A4b1) 선수는 솔브를 시작하는 동안 퍼즐과 물리적 접촉이 있어서는 안 된다. 페널티: 시간 페널티 (+2초).
+  - A4d) 스택맷 타이머가 사용된다면, 선수는 타이머에서 초록색 불빛이 표시될 때까지 본인의 손을 타이머에 올려 놓아야 한다. 타이머는 선수가 타이머에서 손을 떼면 측정이 시작된다. 선수는 타이머를 시작함으로써 솔브를 시작한다.
+    - A4d1) 선수는 미리보기 시작 후 15초 이내에 반드시 솔브를 시작해야 한다. 페널티: 시간 페널티 (+2초).
+    - A4d2) 선수는 미리보기 시작 후 17초 이내에 반드시 솔브를 시작해야 한다. 페널티: 해당 시도의 실격 (DNF).
+    - A4d3) 스톱워치가 사용된다면, 심판은 선수가 솔브를 시작하자마자 스톱워치로 시간을 측정하기 시작한다.
+  - A4e) 솔브의 시작 동안 발생된 시간 페널티는 누적된다.
+- A5) 솔브 도중:
+  - A5a) 미리보기 혹은 솔빙 중에, 선수는 심판과 WCA 파견위원을 제외한 그 어떠한 사람과도 소통하여서는 안 된다. 페널티: 해당 시도의 실격 (DNF). 예외: 선수가 심판 혹은 WCA 파견위원 외의 다른 사람과의 소통에서 아무런 이득을 얻지 않았다면, WCA 파견위원의 재량 하에 결과는 그대로 유지될 수 있다.
+  - A5b) 미리보기 혹은 솔빙 중에, 선수는 표면을 제외한 물체 혹은 다른 사람으로부터 보조를 받아서는 안 된다. 페널티: 해당 시도의 실격 (DNF)
+  - A5c) 선수는 퍼즐 조작에 도움을 받기 위해 퍼즐을 표면에 대고 있을 수 있다 ([규정 7f1d](regulations:regulation:7f1d) 참고).
+- A6) 솔브의 중지:
+  - A6a) 선수는 솔브를 멈추기 전에 퍼즐을 놓고, 타이머를 멈춤으로써 솔브를 중지한다. 스톱워치가 사용된다면, 심판은 선수가 이 동작을 하는 즉시 스톱워치를 중지한다.
+  - A6b) 선수는 스택맷 타이머를 올바르게 중지할 책임이 있다.
+    - A6b1) 선수가 퍼즐을 맞추기 전에 타이머가 멈추고 타이머에 정확히 0.06초 미만의 시간을 표시된다면, 시도는 추가 시도로 대체된다. WCA 파견위원이 타이머가 고의적으로 멈춰진 것으로 판단하면 선수는 추가적인 시도에 대한 권리를 박탈당한다.
+    - A6b2) 선수가 퍼즐을 맞추기 전에 타이머가 멈추고 타이머에 0.06초 이상의 시간이 표시된다면, 해당 시도는 실격된다 (DNF). 예외: 타이머가 오작동했음을 선수가 입증하라 수 있으면, WCA 파견위원의 재량 하에 추가 시도를 받을 수 있다.
+  - A6c) 선수는 타이머를 멈추기 전에 퍼즐을 반드시 완전히 놓아야 한다. 페널티: 해당 시도의 실격 (DNF). 예외: 타이머가 멈추고 나서 퍼즐을 놓기 전에 회전이 가해지지 않거나 정렬에 변화가 없다면, 심판의 재량 하에 시간 페널티 (+2초)가 대신하여 부과될 수 있다.
+  - A6d) 선수는 양손을 센서 위에 평평하게 놓고 손바닥을 아래로 향하게 하여 스택맷 타이머를 멈춰야 한다. 페널티: 시간 페널티 (+2초)
+  - A6e) 타이머를 멈춘 후에, 선수는 심판이 퍼즐을 검사하기 전까지 퍼즐을 만지거나, 회전을 가하거나, 정렬에 어떠한 변화를 만들어서는 안 된다.
+    - A6e1) 타이머를 멈춘 뒤 회전을 적용한 것에 대한 페널티: 해당 시도의 실격 (DNF)
+    - A6e2) 타이머를 멈춘 뒤 아무런 회전 없이 퍼즐을 만진 것에 대한 페널티: 시간 페널티 (+2초). 예외: 타이머를 멈춘 직후에 선수가 퍼즐의 상태에 아무런 영향을 주지 않고 잠시 동안만 만졌다면, 심판의 재량 하에 시간 페널티가 해제될 수 있다 ([규정 11f](regulations:regulation:11f) 참고).
+  - A6f) 선수는 선수와 심판 모두가 기록지에 서명할 때까지 타이머를 초기화 해서는 안 된다. 페널티: 심판 재량 하에 시도에 대한 실격 (DNF)
+    - A6f1) 결과가 완전히 기록되기 전에 선수가 타이머를 초기화한 경우, 심판은 절대로 기억 혹은 영상/사진 증거에 따른 결과를 적어서는 안 되며, 대신에 해당 시도를 실격시켜야 한다 (DNF).
+  - A6g) 심판은 퍼즐이 맞추어졌는지 결정한다. 퍼즐이 오정렬 되어있다면, 심판이 최종적인 상태를 결정하기 전까지 퍼즐을 절대로 만져서는 안 된다.
+  - A6h) 분쟁이 있는 경우, 분쟁이 해결되기 전까지 퍼즐에 회전 혹은 정렬이 절대로 적용되어서는 안 된다.
+  - A6i) 솔브의 중지동안 발생된 시간 페널티는 누적된다.
+- A7) 결과 기록:
+  - A7a) 심판은 선수에게 결과를 알려준다.
+    - A7a1) 심판은 퍼즐이 맞추어 졌는지, 혹은 페널티가 적용될 것인지 선수에게 알려야 한다.
+  - A7b) 심판은 기록지에 결과를 기록하고 결과 옆에 서명을 함으로써 결과가 정확하고, 완전하며, 형식이 적절하고, 명확하게 읽을 수 있음을 인정한다.
+    - A7b1) 페널티가 부여된 경우, 심판은 타이머에 표시되는 원래의 기록된 시간과 함께 페널티를 기록한다. 형식은 "T + X = F"이어야 하며, 이 때 T는 타이머에 표시되는 시간을 (앞서 언급된 "원래의 기록된 시간"), X는 시도 도중에 발생한 시간 페널티의 합을, F는 최종 결과를 나타낸다 (예: 17.65 + 4 = 21.65).
+  - A7c) 선수는 기록된 결과를 반드시 확인해야 하며, 결과가 정확하고, 완전하며, 형식이 적절하고, 명확하게 읽을 수 있음을 인정하기 위해 기록지에 서명 (혹은 이름의 초성)을 해야 한다. 이것으로 시도가 종료된다.
+    - A7c1) 선수 혹은 심판이 기록지 승인 및 서명을 거부할 경우, WCA 파견위원은 해당 분쟁을 반드시 해결해야 한다.
+    - A7c2) 선수가 시도를 시작하기 전에 의도적으로 서명 (또는 다른 표시)을 할 경우, 해당 시도는 무효화되며 결과는 DNS로 간주된다.
+    - A7c3) 선수가 시도를 시작한 후 심판이 결과 기록을 마치기 전에 서명 (또는 다른 표시)을 할 경우, 시도는 미완성으로 간주된다 (DNF).
+    - A7c4) 선수는 심판이 시도를 기록하고 서명하기 전까지 시도에 서명해서는 안 된다. 선수는 선수 본인과 심판이 시도에 서명을 했는지 확인할 궁극적인 책임이 있다. 심판이 기록 입력자에게 기록지를 전달한 후에 하나 혹은 둘 모두의 서명이 누락된 것으로 확인되면 ([규정 A7f](regulations:regulation:A7f) 참고), 해당 시도는 미완성으로 간주된다 (DNF).
+    - A7c5) 대회가 끝나기 전에 발견된 누락된 서명은 ([규정 9u](regulations:regulation:9u) 참고) WCA 파견위원의 재량 하에 심판 그리고/혹은 선수에 의해 추가될 수 있다.
+  - A7f) 한 라운드에서 선수의 기록지가 완전해지면, 심판은 기록 입력자에게 기록지를 전달한다.
+  - A7g) WCA 파견위원의 재량 하에, 선수의 경험 부족으로 인한 사건 혹은 페널티는 추가 시도로 대체될 수 있다.
 
-## [제 B조](https://www.worldcubeassociation.org/regulations/#article-B-blindfolded): 눈 가리기
+## <article-B><blindfolded><blindfoldedsolving> 제 B조: 눈 가리고 맞추기
 
 - [B1](https://www.worldcubeassociation.org/regulations/#B1)) [제 A조](https://www.worldcubeassociation.org/regulations/#A) (스피드 솔빙)에 설명한 대로, 기본 스피드 솔빙 절차를 따른다. [제 A조](https://www.worldcubeassociation.org/regulations/#A)의 절차보다 우선 적용되는 추가적인 규정은 다음과 같다.
   - [B1a](https://www.worldcubeassociation.org/regulations/#B1a)) 미리보기 시간은 없다. (시간 측정은 미리보기와 동시에 시작된다.)
   - [B1b](https://www.worldcubeassociation.org/regulations/#B1b)) 선수는 본인의 안대를 준비한다.
 - [B2](https://www.worldcubeassociation.org/regulations/#B2)) 측정 시작:
   - [B2a](https://www.worldcubeassociation.org/regulations/#B2a)) 심판은 [규정 A3b](https://www.worldcubeassociation.org/regulations/#A3b)에 있는 것처럼 타이머를 리셋하고 선수에게 시도를 시작할 준비가 됐다는 것을 알려준다.(예: 선수 앞에 퍼즐 커버를 놓기, “준비됐습니다.”라고 말하기, 엄지를 올리기) 선수는 반드시 1분 이내에 시도를 시작해야 하고, 그렇지 않을 시 심판의 재량에 따라 선수는 기회를 박탈당한다. (DNS)
-  - [B2b](https://www.worldcubeassociation.org/regulations/#B2b)) 스택맷 타이머를 사용 시, 선수는 타이머의 센서에 손가락을 아래쪽으로 올려놔야 한다. 어길 시 벌칙: 시간 추가 (+2초)
-  - [B2c](https://www.worldcubeassociation.org/regulations/#B2c)) 스택맷 타이머를 사용 시, 선수는 시작할 때 절대로 퍼즐이나 퍼즐 커버에 물리적인 접촉을 하면 안된다. 어길 시 벌칙: 시간 추가 (+2초)
+  - [B2b](https://www.worldcubeassociation.org/regulations/#B2b)) 스택맷 타이머를 사용 시, 선수는 타이머의 센서에 손가락을 아래쪽으로 올려놔야 한다. 어길 시 페널티: 시간 추가 (+2초)
+  - [B2c](https://www.worldcubeassociation.org/regulations/#B2c)) 스택맷 타이머를 사용 시, 선수는 시작할 때 절대로 퍼즐이나 퍼즐 커버에 물리적인 접촉을 하면 안된다. 어길 시 페널티: 시간 추가 (+2초)
   - [B2d](https://www.worldcubeassociation.org/regulations/#B2d)) 스택맷 타이머를 사용 시, 선수는 초록 불이 타이머에 들어올 때까지 손을 유지해야 한다. 손을 떼면 타이머가 시작된다. 선수는 타이머를 시작함으로써 시도를 시작한다.
     - [B2d1](https://www.worldcubeassociation.org/regulations/#B2d1)) 선수는 타이머를 시작시킨 뒤 커버를 제거한다.
     - [B2d2](https://www.worldcubeassociation.org/regulations/#B2d2)) 스택타이머에 추가로 스톱워치가 사용되면, 심판은 선수가 측정을 시작할 때 스톱워치를 작동시킨다.
   - [B2f](https://www.worldcubeassociation.org/regulations/#B2f)) 스톱워치만 사용된다면, 선수는 커버를 올리면서 측정을 시작한다. 심판은 선수가 측정을 시작할 때 스톱워치를 작동시킨다.
 - [B3](https://www.worldcubeassociation.org/regulations/#B3)) 암기 단계:
   - [B3a](https://www.worldcubeassociation.org/regulations/#B3a)) 선수는 암기 단계에서 퍼즐을 들어 올릴 수 있다.
-  - [B3b](https://www.worldcubeassociation.org/regulations/#B3b)) 선수는 절대로 물리적인 암기를 할 수 없다. 어길 시 벌칙: 해당 시도 실격 (DNF)
-  - [B3c](https://www.worldcubeassociation.org/regulations/#B3c)) 선수는 절대로 암기 단계에서 회전 혹은 의도적인 정렬 변경([규정 A3c2](https://www.worldcubeassociation.org/regulations/#A3c2) 참조)을 하면 안된다. 어길 시 벌칙: 해당 시도 실격 (DNF)
-  - [B3d](https://www.worldcubeassociation.org/regulations/#B3d)) 커버를 제거했을 때 퍼즐의 조각이 정확히 정렬되지 않았다면, [규정 10f](https://www.worldcubeassociation.org/regulations/#10f)의 한계 안에서 선수는 어긋난 면을 맞출 수 있다. ([규정 A3c2](https://www.worldcubeassociation.org/regulations/#A3c2) 참조)
+  - [B3b](https://www.worldcubeassociation.org/regulations/#B3b)) 선수는 절대로 물리적인 암기를 할 수 없다. 어길 시 페널티: 해당 시도의 실격 (DNF)
+  - [B3c](https://www.worldcubeassociation.org/regulations/#B3c)) 선수는 절대로 암기 단계에서 회전 혹은 의도적인 정렬 변경([규정 A3c2](https://www.worldcubeassociation.org/regulations/#A3c2) 참고)을 하면 안된다. 어길 시 페널티: 해당 시도의 실격 (DNF)
+  - [B3d](https://www.worldcubeassociation.org/regulations/#B3d)) 커버를 제거했을 때 퍼즐의 조각이 정확히 정렬되지 않았다면, [규정 10f](https://www.worldcubeassociation.org/regulations/#10f)의 한계 안에서 선수는 어긋난 면을 맞출 수 있다. ([규정 A3c2](https://www.worldcubeassociation.org/regulations/#A3c2) 참고)
 - [B4](https://www.worldcubeassociation.org/regulations/#B4)) 눈 가리고 맞추기 단계:
   - [B4a](https://www.worldcubeassociation.org/regulations/#B4a)) 선수는 눈 가리고 맞추기 단계를 시작하기 위해 안대를 쓴다.
     - [B4a1](https://www.worldcubeassociation.org/regulations/#B4a1)) 첫 회전을 퍼즐에 가하기 전까지 선수는 안대를 벗고 다시 암기 단계로 돌아갈 수 있다.
-  - [B4b](https://www.worldcubeassociation.org/regulations/#B4b)) 선수는 절대로 안대를 완전히 쓰기 전 회전 혹은 의도적인 정렬 변경을 하면 안된다. 어길 시 벌칙: 해당 시도 실격 (DNF)
+  - [B4b](https://www.worldcubeassociation.org/regulations/#B4b)) 선수는 절대로 안대를 완전히 쓰기 전 회전 혹은 의도적인 정렬 변경을 하면 안된다. 어길 시 페널티: 해당 시도의 실격 (DNF)
   - [B4c](https://www.worldcubeassociation.org/regulations/#B4c)) 선수가 첫 회전을 가하자마자 심판은 반드시 선수와 퍼즐 사이의 시야를 차단기를 사용해야 한다. (예: 종이 혹은 하드보드지)
     - [B4c1](https://www.worldcubeassociation.org/regulations/#B4c1)) 모든 상황에서 선수는 시야 차단기가 없더라도 퍼즐을 볼 수 없는 상태인 안대를 반드시 착용해야 한다.
     - [B4c3](https://www.worldcubeassociation.org/regulations/#B4c3)) 심판과 선수가 사전에 약속했다면, 선수는 눈 가리고 맞추기 단계 동안 적합한 물체 뒤에 퍼즐을 놓을 수 있다. (예: 하모니카 홀더)
-  - [B4d](https://www.worldcubeassociation.org/regulations/#B4d)) 선수는 눈 가리고 맞추기 단계에서 절대로 퍼즐을 봐서는 안된다. 어길 시 벌칙: 해당 시도 실격 (DNF)
+  - [B4d](https://www.worldcubeassociation.org/regulations/#B4d)) 선수는 눈 가리고 맞추기 단계에서 절대로 퍼즐을 봐서는 안된다. 어길 시 페널티: 해당 시도의 실격 (DNF)
 - [B5](https://www.worldcubeassociation.org/regulations/#B5)) 측정을 멈출 때:
   - [B5a](https://www.worldcubeassociation.org/regulations/#B5a)) 스택맷 타이머를 사용 시, 선수는 측정을 멈추기 전에 퍼즐을 놓고, 타이머를 멈추면서 측정을 멈춘다.
     - [B5a1](https://www.worldcubeassociation.org/regulations/#B5a1)) 스택맷 타이머에 추가로 스톱워치가 사용된다면 심판은 선수가 멈춘 순간 스톱워치를 멈춘다.
   - [B5b](https://www.worldcubeassociation.org/regulations/#B5b)) 타이머로써 스톱워치만 사용 시, 선수가 퍼즐을 내려놓고 심판에게 알려준다. 심판은 그때 스톱워치를 멈춘다.
     - [B5b1](https://www.worldcubeassociation.org/regulations/#B5b1)) 선수의 기본 신호는 퍼즐을 내려놓고 손바닥을 바닥으로 향해 놓는 것이다. 선수와 심판은 사전에 약속하여 적절한 다른 신호를 정할 수 있다.
-  - [B5c](https://www.worldcubeassociation.org/regulations/#B5c)) 선수가 퍼즐을 만지고 있지 않다면, 타이머를 멈추기 전에 안대를 제거할 수 있다. 이때 측정이 끝나기 전에 퍼즐을 절대로 만져서는 안된다. 어길 시 벌칙: 해당 시도 실격 (DNF)
+  - [B5c](https://www.worldcubeassociation.org/regulations/#B5c)) 선수가 퍼즐을 만지고 있지 않다면, 타이머를 멈추기 전에 안대를 제거할 수 있다. 이때 측정이 끝나기 전에 퍼즐을 절대로 만져서는 안된다. 어길 시 페널티: 해당 시도의 실격 (DNF)
 
 ## [제 C조](https://www.worldcubeassociation.org/regulations/#article-C-one-handed): 한 손
 
 - [C1](https://www.worldcubeassociation.org/regulations/#C1)) [제 A조](https://www.worldcubeassociation.org/regulations/#A) (스피드 솔빙)에 설명한 대로, 기본 스피드 솔빙 절차를 따른다. [제 A조](https://www.worldcubeassociation.org/regulations/#A)의 절차보다 우선 적용되는 추가적인 규정은 다음과 같다.
-  - [C1b](https://www.worldcubeassociation.org/regulations/#C1b)) 솔빙 동안 선수는 퍼즐을 맞출 때 반드시 한 손만을 사용해야 한다. 어길 시 벌칙: 해당 시도 실격 (DNF)
-    - [C1b2](https://www.worldcubeassociation.org/regulations/#C1b2)) 퍼즐 파손이 일어나고, 선수가 수리하기로 했다면, 선수는 반드시 맞추고 있던 손 하나만을 이용하여 수리해야 한다. 어길 시 벌칙: 해당 시도 실격 (DNF)
+  - [C1b](https://www.worldcubeassociation.org/regulations/#C1b)) 솔빙 동안 선수는 퍼즐을 맞출 때 반드시 한 손만을 사용해야 한다. 어길 시 페널티: 해당 시도의 실격 (DNF)
+    - [C1b2](https://www.worldcubeassociation.org/regulations/#C1b2)) 퍼즐 파손이 일어나고, 선수가 수리하기로 했다면, 선수는 반드시 맞추고 있던 손 하나만을 이용하여 수리해야 한다. 어길 시 페널티: 해당 시도의 실격 (DNF)
     - [C1b3](https://www.worldcubeassociation.org/regulations/#C1b3)) 선수의 다른 신체가 퍼즐의 회전 없이 선수의 의도가 없는 체로 접촉했다면 심판의 재량에 따라 그 신체로 퍼즐을 움직이지 않은 것으로 간주한다.
-    - [C1b4](https://www.worldcubeassociation.org/regulations/#C1b4)) 솔빙 동안 선수는 퍼즐의 작동을 돕기 위해 표면 위로 잡고 있을 수 있다. ([규정 7f1d](https://www.worldcubeassociation.org/regulations/#7f1d) 참조)
-  - [C1c](https://www.worldcubeassociation.org/regulations/#C1c)) 솔빙 동안 선수가 어느 손으로 퍼즐을 움직이기 시작했다면 절대로 반대쪽 손으로 퍼즐을 움직이면 안된다. 어길 시 벌칙: 해당 시도 실격 (DNF)
+    - [C1b4](https://www.worldcubeassociation.org/regulations/#C1b4)) 솔빙 동안 선수는 퍼즐의 작동을 돕기 위해 표면 위로 잡고 있을 수 있다. ([규정 7f1d](https://www.worldcubeassociation.org/regulations/#7f1d) 참고)
+  - [C1c](https://www.worldcubeassociation.org/regulations/#C1c)) 솔빙 동안 선수가 어느 손으로 퍼즐을 움직이기 시작했다면 절대로 반대쪽 손으로 퍼즐을 움직이면 안된다. 어길 시 페널티: 해당 시도의 실격 (DNF)
 
 ## [제 E조](https://www.worldcubeassociation.org/regulations/#article-E-fewest-moves): 최소회전
 
 - [E2](https://www.worldcubeassociation.org/regulations/#E2)) 3x3x3 최소회전의 절차:
   - [E2a](https://www.worldcubeassociation.org/regulations/#E2a)) 심판은 스크램블 알고리즘과 종이를 모든 참가자에게 나눠준다. 심판은 스톱워치를 시작하고 “시작”이라고 말한다.
-    - [E2a1](https://www.worldcubeassociation.org/regulations/#E2a1)) 시작하기 전에, 참가자는 절대로 해당 시도를 겨냥해서 종이에 무언가를 적을 수 없다. 예외: 참가자는 해당 시도를 증명하는 정보를 적을 수 있다. ([규정 E2c1](https://www.worldcubeassociation.org/regulations/#E2c1) 참조). 만약 스크램블 알고리즘을 포함하는 종이에 정보를 적는다면, 반드시 스크램블 알고리즘이 없는 쪽에 적어야 한다. 해당 시도를 증명하는 정보 이외에 다른 것을 적었을 시 벌칙: 해당 시도 실격 (DNF)
+    - [E2a1](https://www.worldcubeassociation.org/regulations/#E2a1)) 시작하기 전에, 참가자는 절대로 해당 시도를 겨냥해서 종이에 무언가를 적을 수 없다. 예외: 참가자는 해당 시도를 증명하는 정보를 적을 수 있다. ([규정 E2c1](https://www.worldcubeassociation.org/regulations/#E2c1) 참고). 만약 스크램블 알고리즘을 포함하는 종이에 정보를 적는다면, 반드시 스크램블 알고리즘이 없는 쪽에 적어야 한다. 해당 시도를 증명하는 정보 이외에 다른 것을 적었을 시 페널티: 해당 시도의 실격 (DNF)
   - [E2b](https://www.worldcubeassociation.org/regulations/#E2b)) 모든 참가자는 답을 찾고 쓸 시간으로 최대 60분이 주어진다.
     - [E2b1](https://www.worldcubeassociation.org/regulations/#E2b1)) 심판은 “5분 남았습니다.”를 55분이 지났을 때 말해야 하고 60분이 지났을 때 “제출하세요.”라고 반드시 말해야 한다.
   - [E2c](https://www.worldcubeassociation.org/regulations/#E2c)) 60분이 끝나기 전까지, 참가자는 반드시 심판에게 답과 신원 확인을 증명하는 정보가 쓰여진 종이 한 장을 제출해야 한다.
-    - [E2c1](https://www.worldcubeassociation.org/regulations/#E2c1)) 해당 시도를 증명하는 정보: 참가자의 이름, WCA ID, 혹은 WCA 라이브 숫자 (최소 한 개 이상) 추가적으로 대회명, 라운드, 시도 회차. 아무런 정보 없이 제출한 것에 대한 벌칙: 해당 시도 실격 (DNF)
-    - [E2c2](https://www.worldcubeassociation.org/regulations/#E2c2)) 답은 반드시 개별의 회전이 연속적으로 적혀진 하나의 정확한 회전 공식이어야 한다. 애매모호한 답에 대한 벌칙: 해당 시도 실격 (DNF)
+    - [E2c1](https://www.worldcubeassociation.org/regulations/#E2c1)) 해당 시도를 증명하는 정보: 참가자의 이름, WCA ID, 혹은 WCA 라이브 숫자 (최소 한 개 이상) 추가적으로 대회명, 라운드, 시도 회차. 아무런 정보 없이 제출한 것에 대한 페널티: 해당 시도의 실격 (DNF)
+    - [E2c2](https://www.worldcubeassociation.org/regulations/#E2c2)) 답은 반드시 개별의 회전이 연속적으로 적혀진 하나의 정확한 회전 공식이어야 한다. 애매모호한 답에 대한 페널티: 해당 시도의 실격 (DNF)
     - [E2c3](https://www.worldcubeassociation.org/regulations/#E2c3)) 참가자는 정확하게 답의 부분인 아닌 모든 회전을 까맣게 칠해야 한다.
-    - [E2c4](https://www.worldcubeassociation.org/regulations/#E2c4)) 참가자의 답은 반드시 [규정 12a](https://www.worldcubeassociation.org/regulations/#12a)에 있는 3x3x3 큐브의 표기법과 정확하게 일치하는 회전 기호만을 사용해야 하며, 규정되어 있지 않은 기호를 절대로 써서는 안된다. 어길 시 벌칙: 해당 시도 실격 (DNF)
-    - [E2c5](https://www.worldcubeassociation.org/regulations/#E2c5)) 맞춰진 퍼즐로 시작해서 스크램블 알고리즘을 적용, 그 후에 답지에 적힌 공식을 적용했을 때 맞춰진 퍼즐로 돌아온다면 참가자의 답은 정확한 것으로 간주한다. 정확하지 않은 답에 대한 벌칙: 해당 시도 실격 (DNF)
-  - [E2d](https://www.worldcubeassociation.org/regulations/#E2d)) 참가자의 기록은 외부 층 회전 계산을 이용해 계산한 답지의 회전수이다. ([규정 12a5](https://www.worldcubeassociation.org/regulations/#12a5) 참조)
-    - [E2d1](https://www.worldcubeassociation.org/regulations/#E2d1)) 참가자의 답은 수행 회전 계산([규정 12a6](https://www.worldcubeassociation.org/regulations/#12a6) 참조)을 이용하여 최대 80회전(시점 변환 포함)을 절대로 넘어선 안된다. 어길 시 벌칙: 해당 시도 실격 (DNF)
-  - [E2e](https://www.worldcubeassociation.org/regulations/#E2e)) 참가자의 답은 절대로 스크램블 알고리즘의 일부를 직접적으로 사용해서는 안된다. 어길 시 벌칙 : WCA 파견위원의 재량에 따라 해당 시도 실격 (DNF)
+    - [E2c4](https://www.worldcubeassociation.org/regulations/#E2c4)) 참가자의 답은 반드시 [규정 12a](https://www.worldcubeassociation.org/regulations/#12a)에 있는 3x3x3 큐브의 표기법과 정확하게 일치하는 회전 기호만을 사용해야 하며, 규정되어 있지 않은 기호를 절대로 써서는 안된다. 어길 시 페널티: 해당 시도의 실격 (DNF)
+    - [E2c5](https://www.worldcubeassociation.org/regulations/#E2c5)) 맞춰진 퍼즐로 시작해서 스크램블 알고리즘을 적용, 그 후에 답지에 적힌 공식을 적용했을 때 맞춰진 퍼즐로 돌아온다면 참가자의 답은 정확한 것으로 간주한다. 정확하지 않은 답에 대한 페널티: 해당 시도의 실격 (DNF)
+  - [E2d](https://www.worldcubeassociation.org/regulations/#E2d)) 참가자의 기록은 외부 층 회전 계산을 이용해 계산한 답지의 회전수이다. ([규정 12a5](https://www.worldcubeassociation.org/regulations/#12a5) 참고)
+    - [E2d1](https://www.worldcubeassociation.org/regulations/#E2d1)) 참가자의 답은 수행 회전 계산([규정 12a6](https://www.worldcubeassociation.org/regulations/#12a6) 참고)을 이용하여 최대 80회전(시점 변환 포함)을 절대로 넘어선 안된다. 어길 시 페널티: 해당 시도의 실격 (DNF)
+  - [E2e](https://www.worldcubeassociation.org/regulations/#E2e)) 참가자의 답은 절대로 스크램블 알고리즘의 일부를 직접적으로 사용해서는 안된다. 어길 시 페널티 : WCA 파견위원의 재량에 따라 해당 시도의 실격 (DNF)
     - [E2e1](https://www.worldcubeassociation.org/regulations/#E2e1)) WCA 파견위원은 참가자에게 답의 각각의 회전의 목적을 스크램블 알고리즘과는 별개로 물어볼 수 있다. 만약 참가자가 유효한 설명을 하지 못한다면, 해당 시도는 실격 처리 된다. (DNF)
-- [E3](https://www.worldcubeassociation.org/regulations/#E3)) 참가자는 다음의 것들을 사용해도 된다. 허가되지 않은 물건 사용에 대한 벌칙: 해당 시도 실격 (DNF)
+- [E3](https://www.worldcubeassociation.org/regulations/#E3)) 참가자는 다음의 것들을 사용해도 된다. 허가되지 않은 물건 사용에 대한 페널티: 해당 시도의 실격 (DNF)
   - [E3a](https://www.worldcubeassociation.org/regulations/#E3a)) 종이(심판이 제공), 기록지 (심판이 제공), 해당 시도의 스크램블 그림 (종이 혹은 기록지에 포함도 가능), 펜이나 연필등 (심판이 제공, 혹은 개별적으로 준비)
   - [E3b](https://www.worldcubeassociation.org/regulations/#E3b)) 3x3x3 큐브(최대 3개, 개별적으로 준비), 또한 이 큐브는 시도 전에 [제 3조](https://www.worldcubeassociation.org/regulations/#3)에 설명된 것이어야 한다.
   - [E3c](https://www.worldcubeassociation.org/regulations/#E3c)) 스티커 (개별적으로 준비)
   - [E3d](https://www.worldcubeassociation.org/regulations/#E3d)) WCA 피견위원이 확인을 한 시간을 확인하기 위한 스톱워치나 시계 (개별적으로 준비)
-  - [E3e](https://www.worldcubeassociation.org/regulations/#E3e)) WCA 파견위원의 재량에 따라 불공정한 이득을 주지 않는 비전자 보조장치 ([규정 2i1](https://www.worldcubeassociation.org/regulations/#2i1) 참조).
+  - [E3e](https://www.worldcubeassociation.org/regulations/#E3e)) WCA 파견위원의 재량에 따라 불공정한 이득을 주지 않는 비전자 보조장치 ([규정 2i1](https://www.worldcubeassociation.org/regulations/#2i1) 참고).
   - [E3f](https://www.worldcubeassociation.org/regulations/#E3f)) 마킹을 지울 수 있는 도구(개별적으로 준비), 수정액, 수정 테이프, 지우개 등등.
 - [E4](https://www.worldcubeassociation.org/regulations/#E4)) WCA 파견위원은 답지를 공개하기 위해 고를 수 있다. (예: 기록지 사진, 스크램블 알고리즘)
-- [E5](https://www.worldcubeassociation.org/regulations/#E5)) 참가자는 WCA 파견위원, 심판을 제외한 사람과 절대로 소통을 해서는 안된다. 이 소통은 WCA 규정에 관한 것이어야 하며 참가자는 해답을 도출해 내는데 절대로 어떠한 보조를 받으면 안된다. 어길 시 벌칙: 해당 시도 실격 (DNF)
+- [E5](https://www.worldcubeassociation.org/regulations/#E5)) 참가자는 WCA 파견위원, 심판을 제외한 사람과 절대로 소통을 해서는 안된다. 이 소통은 WCA 규정에 관한 것이어야 하며 참가자는 해답을 도출해 내는데 절대로 어떠한 보조를 받으면 안된다. 어길 시 페널티: 해당 시도의 실격 (DNF)
 
 ## [제 F조](https://www.worldcubeassociation.org/regulations/#article-F-clock): 클락
 
 - [F1](https://www.worldcubeassociation.org/regulations/#F1)) [제 A조](https://www.worldcubeassociation.org/regulations/#A) (스피드 솔빙)에 설명한 대로, 기본 스피드 솔빙 절차를 따른다. [제 A조](https://www.worldcubeassociation.org/regulations/#A)의 절차보다 우선 적용되는 추가적인 규정은 다음과 같다.
 - [F2](https://www.worldcubeassociation.org/regulations/#F2)) 운영진은 시도 시작 전에 떨어지는 것을 방지하기 위해 스탠드를 사용할 것을 강제할 수 있다. 이러한 스탠드가 사용되면, 운영진은 라운드 시작 전에 공지를 해야 한다.
 - [F3](https://www.worldcubeassociation.org/regulations/#F3)) 선수는 미리보기 시간 동안 핀의 상태를 바꿀 수 있다. 이러한 변경은 움직임으로 간주하지 않는다.
-- [F4](https://www.worldcubeassociation.org/regulations/#F4)) 선수는 미리보기 시간 동안 절대로 내부 시계 면의 상태를 변경해서는 안된다. 어길 시 벌칙: 해당 시도 실격 (DNF)
+- [F4](https://www.worldcubeassociation.org/regulations/#F4)) 선수는 미리보기 시간 동안 절대로 내부 시계 면의 상태를 변경해서는 안된다. 어길 시 페널티: 해당 시도의 실격 (DNF)
 
 ## [제 H조](https://www.worldcubeassociation.org/regulations/#article-H-multiple-blindfolded): 복수 눈 가리기
 
@@ -536,5 +536,5 @@ WCA 규정과 지침의 변천은 [GitHub](https://github.com/thewca/wca-regulat
   - [H1b](https://www.worldcubeassociation.org/regulations/#H1b)) 참가자가 6개 보다 적게 시도한다면, 퍼즐 하나 당 10분의 제한 시간을 할당 받고, 6개 이상은 60분이 주어진다.
     - [H1b1](https://www.worldcubeassociation.org/regulations/#H1b1)) 참가자는 언제든 솔빙이 끝났다는 신호를 보낼 수 있다. 만약 시간이 모두 끝났다면, 심판은 해당 시도를 멈추고 기록을 입력한다; 해당 시도의 기록 제한이 측정 시간으로 간주된다.
   - [H1d](https://www.worldcubeassociation.org/regulations/#H1d)) 퍼즐에 대한 시간 추가는 합산된다.
-  - [H1e](https://www.worldcubeassociation.org/regulations/#H1e)) 참가자는 암기 단계 동안 퍼즐에 움직임을 절대로 가해선 안된다. 어길 시 벌칙: 해당 시도 실격 (DNF) 예외: WCA 파견위원의 재량에 따라 해당 시도 전체를 실격 처리하는 것 대신에 움직여진 퍼즐을 맞춰지지 않은 것으로 간주할 수 있다.
-- [H2](https://www.worldcubeassociation.org/regulations/#H2)) WCA 파견위원에 재량에 따라 참가자는 표면을 덮는 커버(예: 매트나 천)를 사용할 수 있다. 참가자가 그렇게 하고 싶을 경우, 퍼즐 시도 개수를 정할 때 반드시 같이 요구해야 한다. ([규정 H1a](https://www.worldcubeassociation.org/regulations/#H1a) 참조)
+  - [H1e](https://www.worldcubeassociation.org/regulations/#H1e)) 참가자는 암기 단계 동안 퍼즐에 움직임을 절대로 가해선 안된다. 어길 시 페널티: 해당 시도의 실격 (DNF) 예외: WCA 파견위원의 재량에 따라 해당 시도 전체를 실격 처리하는 것 대신에 움직여진 퍼즐을 맞춰지지 않은 것으로 간주할 수 있다.
+- [H2](https://www.worldcubeassociation.org/regulations/#H2)) WCA 파견위원에 재량에 따라 참가자는 표면을 덮는 커버(예: 매트나 천)를 사용할 수 있다. 참가자가 그렇게 하고 싶을 경우, 퍼즐 시도 개수를 정할 때 반드시 같이 요구해야 한다. ([규정 H1a](https://www.worldcubeassociation.org/regulations/#H1a) 참고)
