@@ -21,3 +21,5 @@ wca regulations in korean
 | attempt | 시도 |
 | solve | 솔브 |
 | inspection | 미리보기 |
+| spectator | 관람객 |
+| solving station | 기록 측정 구역 |
