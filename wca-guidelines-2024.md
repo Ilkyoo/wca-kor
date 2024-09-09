@@ -85,16 +85,16 @@ WCA 지침은 [WCA 규정](regulations:top)을 보완한다. WCA에 대한 자�
 
 ## <article-4><scrambling><scrambling> 제4조: 스크램블링
 
-- 4b1+) [상기] WCA 파견위원은 절대로 스크램블 시퀀스들을 골라낼 목적으로 어떠한 스크램블 시퀀스도 재생성할 수 없다. 예를 들어, "타당한" 스크램블을 생성하기 위해 대회의 스크램블을 보거나, 전체 스크램블을 재 생성하는 것은 허용되지 않는다.
-- 4b2+) [명확화] 보편적으로, 모든 공식 스크램블 시퀀스들은 대회 중에는 비밀로 지켜져야 하고 대회가 끝난 뒤에는 모두에게 알려져야 한다.([규정 1c3a항](regulations:regulation:1c3a) 참고) 몇몇 상황에서는(예: 세계신기록이 경신된 경우), 운영진은 특정한 스크램블 시퀀스들을 라운드가 끝난 바로 다음 공개할 수 있다.
-- 4b2++) [첨언] Competition organizers should ensure that scramblers, scramble sequences, and partially/fully scrambled puzzles are visually isolated from competitors (see [Regulation A2c](regulations:regulation:A2c)). For example, the scramblers may be located behind a wall, or a sufficiently high divider (e.g. a cardboard divider placed around the sides of a table where the scramblers are seated) may be used so that competitors are not able to see puzzles as the scramblers apply scramble sequences.
-- 4b4+) [명확화] 같은 시간에 시작한 시도들은 같은 맞추기 절차를 따른다(즉, 관련 스크램블 시퀀스이 만료되더라도 멈추지 않는다).
-- 4d+) [명확화] 몇몇 퍼즐들은 검은색이 흰색을 대신하는 표준 색 배치를 사용한다. 이 경우, 검은색은 가장 어두운 색이 되며 흰색과 같이 간주해서는 안 된다.
-- 4d++) [첨언] 아무도 방향의 임의성에 영향을 주지 않는 한에서 퍼즐을 스크램블러에게서 선수에게로 옮길 때 퍼즐의 방향을 바꾸는 것을 허용한다([규정 A2e1항](regulations:regulation:A2e1) 참고)
-- 4f+) [권장] WCA 파견위원은 추가 시도들을 위한 여분의 스크램블 시퀀스을 포함한 대회 전 대회 전체에 쓰일 충분한 스크램블 시퀀스들을 생성해야 한다.
-- 4f++) [상기] WCA 파견위원이 대회 중에 추가적인 스크램블 시퀀스을 생성했을 경우, 파견위원은 그 공식들을 저장해야만 한다.([규정 1c3a항](regulations:regulation:1c3a) 참고)
-- 4g1b+) [명확화] For 5x5x5 Blindfolded, incorrect puzzle states must always be corrected.
-- 4g1b++) [권장] The WCA Delegate should use stronger discretion when determining whether or not incorrect puzzle states for 5x5x5 Cube need to be corrected.
+- 4b1+) [상기] WCA 파견위원은 필터링의 목적으로 다른 스크램블 시퀀스를 대체하기 위해 스크램블 시퀀스를 다시 생성해서는 절대로 안 된다. 예를 들어, “더 공정한” 스크램블 시퀀스를 생성하기 위해 대회에 대한 스크램블 시퀀스를 훑어 보고 전체 세트를 다시 생성하는 것은 허용되지 않는다.
+- 4b2+) [명확화] 일반적으로, 모든 공식적인 스크램블 시퀀스는 대회 동안에는 비밀로 유지되어야 하며 대회 종료 후에 한 번에 공개되어야 한다. 몇몇 경우(예: 세계 신기록)에, 운영진은 한 조의 측정이 끝난 직후에 특정한 스크램블 시퀀스를 공개하고자 할 수 있다.
+- 4b2++) [첨언] 대회 주최자는 스크램블러, 스크램블 시퀀스, 부분적으로/완전히 섞인 퍼즐이 선수로부터 시각적으로 분리되어야 하는 것을 보장해야 한다 ([규정 A2c](regulations:regulation:A2c) 참고). 예를 들어, 선수가 스크램블러가 스크램블 시퀀스를 적용하고 있는 퍼즐을 보지 못하도록 스크램블러는 벽 혹은 충분히 높이가 있는 칸막이(예: 스크램블러가 착석한 테이블의 변을 두루는 판자로 된 칸막이) 뒤에 위치할 수 있다.
+- 4b4+) [명확화] 같은 시간에 시작한 시도들은 같은 맞추기 절차를 따른다(즉, 관련 스크램블 시퀀스이 만료되더라도 멈추지 않는다). 시간 내에 시작된 모든 시도는 일반적인 솔빙 절차를 따른다(즉, 관련 스크램블 시퀀스의 유효 시간이 만료되어도 중단되지 않는다).
+- 4d+) [명확화] 몇몇 퍼즐들은 일반적인 색 배치를 사용하되 흰색이 검정색으로 대체된다. 이 경우, 검정색이 가장 어두운 색이며 절대로 흰색처럼 취급되어서는 안 된다.
+- 4d++) [첨언] 스크램블러로부터 기록 측정 구역으로 퍼즐을 옮길 때 퍼즐의 방향성이 바뀌는 것은 허용된다. 단, 누구도 방향의 무작위성에 영향을 미치려고 하지 않는 경우에 한한다([규정 A2e1](regulations:regulation:A2e1) 참고).
+- 4f+) [권장] WCA 파견위원은 추가 시도를 위한 여분의 스크램블 시퀀스를 포함하여 전체 대회에 필요한 충분한 스크램블 시퀀스를 미리 생성해야 한다.
+- 4f++) [상기] WCA 파견위원이 대회 도중에 추가적인 스크램블 시퀀스를 생성할 경우, 해당 스크램블 시퀀스는 반드시 저장되어야 한다.
+- 4g1b+) [명확화] 5x5x5 눈 가리고 맞추기 종목에서, 잘못된 퍼즐 상태는 반드시 항상 수정되어야 한다.
+- 4g1b++) [권장] WCA 파견위원은 5x5x5 큐브의 잘못된 퍼즐 상태를 수정해야 하는지 여부를 결정할 때 보다 강력한 재량권을 사용해야 한다.
 
 ## <article-5><puzzle-defects><puzzledefects> 제5조: 퍼즐 파손
 
