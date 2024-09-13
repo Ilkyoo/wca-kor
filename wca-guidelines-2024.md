@@ -98,18 +98,18 @@ WCA 지침은 [WCA 규정](regulations:top)을 보완한다. WCA에 대한 자�
 
 ## <article-5><puzzle-defects><puzzledefects> 제5조: 퍼즐 파손
 
-- 5b+) [첨언] The competitor is not permitted to cause a puzzle defect intentionally, unless correcting a previous puzzle defect (see [Regulation 5b3b](regulations:regulation:5b3b) and [Regulation 5b3c](regulations:regulation:5b3c)). Examples of intentionally causing puzzle defects: removing an attached center cap, rotating a corner piece, peeling a sticker.
-- 5b5+) [예시] 조각이 완전히 제자리에 있지 않지만 맞춘 것으로 간주하는 경우의 예: 3x3x3 큐브의 센터 캡 하나인 경우, 빅큐브에서 센터 조각 하나인 경우, 빅큐브의 내부 조각인 경우.
-- 5b5++) [예시] 조각이 완전히 제자리에 있지 않고 “DNF”로 처리되는 경우의 예: 3x3x3 큐브의 센터 캡 두 개인 경우, 빅큐브의 센터 조각 두 개인 경우, 3x3x3 큐브의 엣지 조각인 경우, 4x4x4 큐브의 엣지 (“wing”) 조각인 경우, 두 조각 모두 색깔이 있는 면일 경우의 어느 조합이라도 해당.
-- 5b5f+) [예시] There is a [Visual Guide](https://drive.google.com/file/d/15XszaCGNvy3Dk6X6qERzZWZaDH1RH04z/view) available for [Regulation 5b5f](regulations:regulation:5b5f).
-- 5b5f++) [예시] A 4x4x4 Cube edge "wing" twisted on its spot is considered solved.
-- 5b5f+++) [예시] A corner affected by a corner twist is considered to be placed in a valid position, but such position does not render the piece solved.
-- 5c+) [상기] 퍼즐에 파손이 발생하는 것이 추가시도의 이유가 될 수 없다.
+- 5b+) [첨언] 선수는 이전에 발생한 퍼즐 파손을 수리하는 경우 외에는 의도적으로 퍼즐 파손을 일으킬 수 없다 ([규정 5b3b](regulations:regulation:5b3b)와 [규정 5b3c](regulations:regulation:5b3c) 참고). 의도적인 퍼즐 파손의 예: 부착된 센터 캡 제거, 코너 조각의 방향 돌리기, 스티커 벗기기.
+- 5b5+) [예시] 부품이 물리적으로 떨어져 있지만, 맞추어진 상태로 간주하는 경우의 예: 하나의 3x3x3 센터 캡, 하나의 빅큐브 센터 조각, 하나의 빅큐브 내부 조각.
+- 5b5++) [예시] 부품이 물리적으로 떨어져 있으며 DNF로 처리되는 경우의 예: 두 개의 3x3x3 센터 캡, 두 개의 빅큐브 센터 조각, 하나의 3x3x3 엣지 조각, 하나의 4x4x4 엣지 조각("윙"), 색이 있는 부품을 지닌 두 조각의 조합.
+- 5b5f+) [예시] [규정 5b5f](regulations:regulation:5b5f)에 대한 [시각적 가이드](https://drive.google.com/file/d/15XszaCGNvy3Dk6X6qERzZWZaDH1RH04z/view)가 있다.
+- 5b5f++) [예시] 4x4x4 큐브의 엣지 "윙"이 제자리에서 뒤틀린 경우, 맞추어진 것으로 간주된다.
+- 5b5f+++) [예시] 코너 뒤틀림의 영향을 받은 코너는 유효한 위치에 자리한 것으로 간주되지만, 해당 위치로 인해 해당 조각이 맞추어진 것이 되는 것은 아니다.
+- 5c+) [상기] 선수의 퍼즐에 파손이 있는 경우, 이것이 추가 시도를 할 수 있는 권리를 부여하는 것은 아니다.
 
 ## <article-7><environment><environment> 제7조: 환경
 
-- 7f1a+) [명확화] 완전한 크기의 매트는 최소 가로 30cm, 세로 25cm이어야 한다.
-- 7h2+) [첨언] 대기 장소에 있는 선수들은 무대의 선수들의 퍼즐을 볼 수 없어야 한다.
+- 7f1a+) [명확화] 풀 사이즈 매트는 최소 크기는 가로 30cm, 세로 25cm이어야 한다.
+- 7h2+) [첨언] 선수 대기 구역에서 시도들 사이에 대기하고 있는 선수는 기록 측정 구역에 있는 선수의 퍼즐을 볼 수 없어야 한다.
 
 ## <article-9><events><events> 제9조: 종목
 
