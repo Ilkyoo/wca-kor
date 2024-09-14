@@ -113,34 +113,34 @@ WCA 지침은 [WCA 규정](regulations:top)을 보완한다. WCA에 대한 자�
 
 ## <article-9><events><events> 제9조: 종목
 
-- 9b+) [첨언] 가능하다면 종목의 결승의 형식은 “5회 평균 기록”이나 “3회 평균 기록”을 추천한다.
-- 9b++) [첨언] [규정 9b항](regulations:regulation:9b)에 명시된 종목 외의 종목이 대회 중에 열릴 수 있으나. 비공인 기록으로 인정될 것이며, 따라서 대회의 공식 결과에는 포함되지 않을 것이다.
-- 9b3b+) [명확화] "3회 평균 기록" 통계는 "3회 최고 기록" 라운드(최고기록에 근거함)의 순위에 영향을 미치지 않는다. WCA는 이것을 대회 형식이 아닌 것으로 간주한다.
-- 9f1+) [예시] 타이머가 어떤 시도에 대해 12.678을 나타낸다면 본래의 기록은 소수점 셋째자리 이하를 버려 12.67이다. 기록자가 공식 기록에 버림을 계산하기 전까지 심판은 기록지에 정확한 기록을 쓸 수 있다(페널티 계산에서도 정확성을 유지할 수 있다).
-- 9f2+) [첨언] For 3x3x3 Multi-Blind, the judge should record the number of puzzles solved, the number of puzzles attempted, and the final time. For example, if the competitor solves 3 cubes out of 5 attempted cubes in 40 minutes and 30 seconds, the judge should write down 3/5 40:30.
-- 9f4+) [명확화] The result of an attempt should be a DNF if the competitor began the attempt by indicating that they are ready (see [Regulation A3b2](regulations:regulation:A3b2)) but the attempt was disqualified.
-- 9f5+) [명확화] 시도의 결과가 DNS인 경우는 선수가 시도를 할 수 있었으나 시도하지 하지 않은 것이다. 선수가 시도할 자격이 없었으면 (예: 통합 라운드), 그 선수의 시도에 대한 기록은 없다.
-- 9p2+) [명확화] Result refers to the single or average that determines the ranking of the corresponding round.
+- 9b+) [첨언] 여러 라운드로 구성된 종목의 경우, 첫 번째 라운드 이후의 모든 라운드(특히 결승 라운드)는 "평균(5회)" 또는 "평균(3회)"이어야 한다(이 중 하나가 유효한 형식인 경우).
+- 9b++) [첨언] [규정 9b](regulations:regulation:9b)에 명시된 것 외의 이벤트도 대회 중에 개최될 수 있지만, 비공식적인 것으로 간주되므로 대회의 공식 결과에 포함되지 않습니다.
+- 9b3b+) [명확화] "평균(3회)" 통계는 "단일(3회)" 라운드에서 (최고 기록에 기반을 둔)선수의 순위에 영향을 주지 않는다. WCA는 이 통계를 대회 형식 외의 것으로 인정한다.
+- 9f1+) [예시] 타이머가 어떤 시도에 대해 12.678을 나타낸다면, 본래의 기록은 12.67(100분의 1초 뒤의 숫자는 버림)이다. 심판은 기록 입력자가 공식적인 결과를 위해 이를 절사 할지라도, 기록지에 버림하기 전의 기록을 적을 수 있다(페널티를 계산하는 데에 있어 정확성을 유지함).
+- 9f2+) [첨언] 3x3x3 눈 가리고 맞추기(복수) 종목에서, 심판은 맞추어진 퍼즐의 개수, 시도한 퍼즐의 개수, 최종 시간을 기록해야 한다. 예시로, 선수가 40분 30초 동안 5개의 큐브를 시도하여 3개의 큐브를 맞춘 경우, 심판은 "3/5 40:30"라고 작성한다.
+- 9f4+) [명확화] 선수가 본인이 준비가 되었음을 알림으로써 시도를 시작(규정 [A3b2](regulations:regulation:A3b2) 참고)하였으나 시도가 실격 처리된 경우, 시도의 결과는 DNF가 되어야 한다.
+- 9f5+) [명확화] 선수가 시도를 시작할 수 있었지만 시작을 하지 않으면 시도의 결과는 DNS가 된다. 선수가 시도에 대한 자격(예: 컷오프 라운드)을 얻지 못한 경우, 시도에 대한 결과는 없다.
+- 9p2+) [명확화] 결과는 해당하는 라운드의 순위를 결정하는 단일 기록 혹은 평균 기록을 가리킨다.
 - 9q+) [권장] 종목과 라운드는 적어도 2명의 선수가 있어야 한다.
-- 9t+) [설명] Because of [9t1](regulations:regulation:9t1) and [9t2](regulations:regulation:9t2), rounds may look like they do not comply with [9p1](regulations:regulation:9p1), [9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) or [9m3](regulations:regulation:9m3). However, making changes to comply to these rules would affect innocent competitors, which is why the results must stay the same.
-- 9t++) [첨언] If the change of results happens during the competition, this rule must also be applied. In that case, [9t1](regulations:regulation:9t1), [9t2](regulations:regulation:9t2) and [9t3](regulations:regulation:9t3) should also be followed, at the discretion of the WCA Delegate.
-- 9t3+) [예시] Suppose competitor A gets a 10.00 average and competitor B gets a 10.05 average in the first round of an event, such that competitor A advances to the final round but not B. If a score-taking mistake is discovered, and competitor B actually got a 9.95 average (and should have proceeded instead of A), competitor A keeps their result for the final round.
-- 9u+) [첨언] For competitions with multiple physical locations (e.g. "3x3x3 Fewest Moves simultaneous competitions"), all the requirements must be met in every location to consider the competition as ended.
-- 9u2+) [권장] The WCA Delegate should announce the end of the competition (e.g. prior to the awards ceremony).
-- 9u2b+) [첨언] The calendar date of the end of the competition is determined by the local time for the location in which the competition took place.
+- 9t+) [설명] [9t1](regulations:regulation:9t1)과 [9t2](regulations:regulation:9t2)로 인해, 라운드가 [9p1](regulations:regulation:9p1), [9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2), 혹은 [9m3](regulations:regulation:9m3)을 준수하지 않는 것처럼 보일 수 있다. 하지만 이러한 규칙을 준수하기 위해 결과에 변경을 일으키면 무고한 선수에게 영향을 미치게 되므로, 결과는 동일하게 유지되어야 한다.
+- 9t++) [첨언] 대회 도중에 결과의 변경이 일어날 때에도 이러한 규칙은 적용되어야 한다. 이러한 경우, [9t1](regulations:regulation:9t1), [9t2](regulations:regulation:9t2), 그리고 [9t3](regulations:regulation:9t3) 또한 WCA 파견위원의 재량하에 준수되어야 한다.
+- 9t3+) [예시] 어느 종목의 첫 번째 라운드에서 A 선수가 평균 10.00을 기록하고 B 선수가 평균 10.05를 기록하였다고 가정하자. 이때 A 선수는 결승 라운드에 진출하고 B 선수는 진출하지 못하였다. 만약 기록 입력 실수가 발견되어 실제로는 B 선수가 평균 기록 9.95를 획득하게 된 경우(또한 A 선수 대신에 결승에 진출했어야 함), A 선수의 결승 라운드에서의 결과는 유지되어야 한다.
+- 9u+) [첨언] 복수의 물리적 장소에서 진행되는 대회(예: "3x3x3 최소회전 동시 대회")의 경우, 대회가 종료되었다고 간주되려면 반드시 모든 요구 사항이 모든 위치에서 충족되어야 한다.
+- 9u2+) [권장] WCA 파견위원은 대회의 종료를 발표하여야 한다(예: 시상식 전).
+- 9u2b+) [첨언] 대회 종료의 달력 표시 일자는 대회가 개최된 장소의 현지 시간을 기준으로 결정된다.
 
 ## <article-10><solved-state><solvedstate> 제10조: 맞추어진 상태
 
-- 10e1+) [명확화] For Square-1, because of the shape-shifting property of the puzzle, the metric for misalignments defined in [Regulation 10f4](regulations:regulation:10f4) is different from the metric for the notation, used by the scramble program and defined in [Regulation 12c4](regulations:regulation:12c4).
-- 10f+) [설명] 어긋남의 기준은 퍼즐의 맞추어진 상태(페널티 없이)와 한 회전 떨어져있는 상태의 자연스러운 경계를 제공하기 위해 선택되었다.
-- 10f4+) [명확화] When counting the moves in case of a misalignment at the end of a solve, X and Y are considered separately. Example: (5, 1) is considered one misalignment, (5, 5) is considered two misalignments.
-- 10h1+) [첨언] 클락의 맞춰진 상태는 헐거워지거나 빠져나간 핀 캡과 상관없다.
+- 10e1+) [명확화] 스퀘어-1 종목에서, 퍼즐의 모양이 변화하는 특성으로 인해, [규정 10f4](regulations:regulation:10f4)에서 정의된 오정렬에 대한 표기법이 스크램블 프로그램에서 사용되는 [규정 12c4](regulations:regulation:12c4)에서 정의된 표기법과 다르다.
+- 10f+) [설명] 오정렬의 한도는 퍼즐의 한 상태(페널티 없이)와 한 번의 회전이 가해진 상태의 자연스러운 구분점을 제공하기 위해 선택되었다.
+- 10f4+) [명확화] 솔브 종료 후에 오정렬의 회전수를 세는 경우, X와 Y는 별개로 간주되어야 한다. 예: (5, 1)은 하나의 오정렬로, (5, 5)는 두 개의 오정렬로 간주된다.
+- 10h1+) [첨언] 클락의 맞추어진 상태는 느슨해지거나 튀어나온 핀 캡에 영향을 받지 않는다.
 
 ## <article-11><incidents><incidents> 제11조: 사건
 
-- 11e+) [명확화] 어필이 항상 성공적이라는 것을 보장할 수 없으므로, 선수는 어필 중에 타이머가 계속 작동되도록 한 후 적절한 때에 시도를 다시 시작하는 방법을 선택할 수 있다.
-- 11e++) [권장] The WCA Delegate should record the reason(s) for the extra attempt (e.g. on the back of the score sheet).
-- 11e+++) [권장] The WCA Delegate should use stronger discretion when granting an extra attempt after the solve is finished. The extra attempt should be granted only in exceptional circumstances.
+- 11e+) [명확화] 어필이 항상 성공적이라는 것을 보장할 수 없으므로, 선수는 어필 중에 타이머가 계속 작동되도록 한 후 적절한 때에 솔브를 재개할 수 있다.
+- 11e++) [권장] WCA 파견위원은 추가 시도에 대한 이유를 기록해야 한다(예: 기록지 뒷면).
+- 11e+++) [권장] 솔브 종료 후에 추가 시도를 부여할 때, WCA 파견위원은 더욱 강력한 재량권을 사용해야 한다. 추가 시도는 예외적인 상황에서만 부여되어야 한다.
 - 11e++++) [상기] The attempt is finished after the competitor checks the recorded result and signs on the score sheet (see [Regulation A7c](regulations:regulation:A7c)).
 - 11e+++++) [첨언] If the WCA Delegate does not have time to investigate this claim during the competition, they should grant the competitor a provisional extra.
 - 11e++++++) [첨언] An extra attempt is considered to be done at the time that the original solve happened. For example, if a round was originally scheduled for January 21st, and a competitor receives an extra on January 22nd, the extra solve is considered to be done on January 21st.
