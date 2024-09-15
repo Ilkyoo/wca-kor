@@ -104,7 +104,7 @@ WCA 지침은 [WCA 규정](regulations:top)을 보완한다. WCA에 대한 자�
 - 5b5f+) [예시] [규정 5b5f](regulations:regulation:5b5f)에 대한 [시각적 가이드](https://drive.google.com/file/d/15XszaCGNvy3Dk6X6qERzZWZaDH1RH04z/view)가 있다.
 - 5b5f++) [예시] 4x4x4 큐브의 엣지 "윙"이 제자리에서 뒤틀린 경우, 맞추어진 것으로 간주된다.
 - 5b5f+++) [예시] 코너 뒤틀림의 영향을 받은 코너는 유효한 위치에 자리한 것으로 간주되지만, 해당 위치로 인해 해당 조각이 맞추어진 것이 되는 것은 아니다.
-- 5c+) [상기] 선수의 퍼즐에 파손이 있는 경우, 이것이 추가 시도를 할 수 있는 권리를 부여하는 것은 아니다.
+- 5c+) [상기] 선수의 퍼즐에 파손이 있는 경우, 이것이 추가 시도를 할 수 있는 권한을 부여하는 것은 아니다.
 
 ## <article-7><environment><environment> 제7조: 환경
 
@@ -140,9 +140,9 @@ WCA 지침은 [WCA 규정](regulations:top)을 보완한다. WCA에 대한 자�
 
 - 11e+) [명확화] 어필이 항상 성공적이라는 것을 보장할 수 없으므로, 선수는 어필 중에 타이머가 계속 작동되도록 한 후 적절한 때에 솔브를 재개할 수 있다.
 - 11e++) [권장] WCA 파견위원은 추가 시도에 대한 이유를 기록해야 한다(예: 기록지 뒷면).
-- 11e+++) [권장] 솔브 종료 후에 추가 시도를 부여할 때, WCA 파견위원은 더욱 강력한 재량권을 사용해야 한다. 추가 시도는 예외적인 상황에서만 부여되어야 한다.
+- 11e+++) [권장] 솔브 종료 후에 추가 시도를 허용할 때, WCA 파견위원은 더욱 강력한 재량권을 사용해야 한다. 추가 시도는 예외적인 상황에서만 허용되어야 한다.
 - 11e++++) [상기] 선수가 기록된 결과를 확인하고 기록지에 서명을 하면 시도가 종료된다([규정 A7c](regulations:regulation:A7c) 참고).
-- 11e+++++) [첨언] WCA 파견위원이 대회 동안 해당 어필을 조사할 시간이 없다면, 선수에게 임시 추가 시도를 부여해야 한다.
+- 11e+++++) [첨언] WCA 파견위원이 대회 동안 해당 어필을 조사할 시간이 없다면, 선수에게 임시 추가 시도를 허용해야 한다.
 - 11e++++++) [첨언] 추가 시도는 본래의 솔브가 일어난 때에 완료된 것으로 간주된다. 예시로, 어느 라운드가 원래 1월 21일에 진행되기로 했고 선수가 추가 시도를 1월 22일에 받았다면, 추가 시도는 1월 21일에 완료된 것으로 간주된다.
 - 11e+++++++) [권장] 어느 라운드에 대한 추가 시도가 후속 라운드가 종료된 후에 부여되었고, 선수가 추가 시도로 인해 다음 라운드에 진출하게 되었다면, WCA 파견위원 재량하에 선수는 후속 라운드에 참가해서는 안 된다.
 - 11e1+) [상기] 추가 시도는 반드시 공식 스크램블 프로그램에 의해 생성된 수정되지 않은 스크램블 시퀀스를 사용하여 섞어야 한다 ([규정 4f](regulations:regulation:4f), [지침 4f+](guidelines:guideline:4f+) 참고).
@@ -178,57 +178,57 @@ WCA 지침은 [WCA 규정](regulations:top)을 보완한다. WCA에 대한 자�
 - A4d2+) [명확화] 미리보기가 정확히 17초(즉, 17.00) 소요되었다면, 해당 시도는 반드시 실격 처리(DNF)되어야 한다.
 - A5b+) [명확화] 미리보기 혹은 퍼즐 솔빙 도중, 선수는 자신의 어느 신체 부위로든 퍼즐과 접촉할 수 있다. 예외: 3x3x3 한 손([규정 C1b](regulations:regulation:C1b) 참고).
 - A5b++) [명확화] 선수의 퍼즐의 부품이 튀어 나오거나 분리된 경우([규정 5a](regulations:regulation:5a) 참고), 선수는 해당 부품을 찾거나 찾는 데 도움을 요청해서는 절대로 안 되며, 심판은 타인이 돕는 것을 막아야 한다. 만약 누군가가 튀어나간 부품을 선수를 위해 집어 든다면, 심판 혹은 선수는 해당 부품을 기록 측정 구역에 놓고 더 이상 돕지 말라고 요청할 수 있다.
-- A5b+++) [명확화] WCA 파견위원은 선수의 퍼즐의 튀어 나오거나 분리된 부품을 누군가가 집어 들었다는 이유만으로 선수에게 추가 시도를 부여해서는 안 된다.
+- A5b+++) [명확화] WCA 파견위원은 선수의 퍼즐의 튀어 나오거나 분리된 부품을 누군가가 집어 들었다는 이유만으로 선수에게 추가 시도를 허용해서는 안 된다.
 - A6b+) [설명] 임의의 값 0.06초는 스택 매트 타이머의 오작동에 대한 우려를 수용하기 위해 선택되었다.
 - A6e+) [명확화] 타이머를 멈춘 후 퍼즐이 선수의 무릎에 떨어진 경우, 이는 퍼즐을 만진 것으로 간주된다.
 - A7c+) [첨언] 선수가 서명한 결과가 불완전하거나 읽을 수 없는 것으로 밝혀지면, 가장 타당한 최악의 방식으로 해석되어야 한다(예: "1:05"는 1:05.99로 간주되고, "25.X3"은 X가 1 혹은 7일 수 있는 경우 25.73으로 간주된다). 스택 매트 타이머가 X:0Y.ss의 시간을 X:Y.ss로 표시한다는 점을 감안할 때, 10의 자릿수가 누락된 것은 1의 자릿수가 누락된 것보다 더 가능성이 높은 것으로 간주해야 한다(예: "1:2.27"은 1:02.27로 간주된다). 모호한 결과에 서명한 심판은 기록 입력자의 재량하에 결과를 명확히 하도록 요청받을 수 있다.
-- A7g+) [예시] 경험 부족으로 인해 선수에게 추가 시도를 부여할 수 있는 사건의 예: 초록 불을 기다리지 않음, 타이머를 부적절하게 시작하거나 중지함, 솔브를 시작하는 방법의 잘못된 이해로 인한 미리보기 시간 초과, 혹은 다른 절차적인 시간 페널티.
-- A7g++) [명확화] 개별적인 페널티는 면제될 수 없다. 반드시 완전한 추가 시도가 부여되어야 한다.
-- A7g+++) [권장] WCA 파견위원은 동일한 선수에게 하나 이상의 추가 시도를 부여할 때 더욱 강력한 재량권을 사용하여야 한다. 둘 이상의 추가 시도가 부여된다면, 이는 상이한 유형의 사건으로 인한 것이어야 한다. 예: WCA 파견위원이 이미 선수가 초록 불을 충분한 시간 동안 기다리지 않은 것에 대해 추가 시도를 부여했다면, 선수가 또 다시 초록 불을 충분히 기다리지 않은 것에 대해 또 다른 추가 시도를 부여해서는 안 된다.
+- A7g+) [예시] 경험 부족으로 인해 선수에게 추가 시도를 허용할 수 있는 사건의 예: 초록 불을 기다리지 않음, 타이머를 부적절하게 시작하거나 중지함, 솔브를 시작하는 방법의 잘못된 이해로 인한 미리보기 시간 초과, 혹은 다른 절차적인 시간 페널티.
+- A7g++) [명확화] 개별적인 페널티는 면제될 수 없다. 반드시 완전한 추가 시도가 허용되어야 한다.
+- A7g+++) [권장] WCA 파견위원은 동일한 선수에게 하나 이상의 추가 시도를 허용할 때 더욱 강력한 재량권을 사용하여야 한다. 둘 이상의 추가 시도가 허용된다면, 이는 상이한 유형의 사건으로 인한 것이어야 한다. 예: WCA 파견위원이 이미 선수가 초록 불을 충분한 시간 동안 기다리지 않은 것에 대해 추가 시도를 부여했다면, 선수가 또 다시 초록 불을 충분히 기다리지 않은 것에 대해 또 다른 추가 시도를 부여해서는 안 된다.
 - A7g++++) [명확화] 선수는 최초 참가자이거나, 특정 종목에 처음 참가하거나, 특정 종목에 상당 기간 참가하지 않은 경우 경험이 부족한 것으로 간주될 수 있다. 경험 부족은 반드시 사건과 관련이 있어야 한다.
 
 ## <article-B><blindfolded><blindfoldedsolving> 제B조: 눈 가리고 맞추기
 
-- B1+) [상기] 선수는 비슷한 다른 조각으로부터 구별이 가능하도록 하는 질감, 표시, 또는 다른 특징이 없는 퍼즐을 사용해야 한다.([규정 3k항](regulations:regulation:3k) 참고) 이것은 눈 가리기 종목에서 특별한 주의가 필요하다.
-- B1b+) [권장] 안대는 대회에서 사용되기 전 WCA 파견위원에 의해 확인되어야 한다.
-- B2d+) [첨언] By default, the competitor starts the solve the first time that they start the timer after the judge has indicated that they are ready (see [Regulation B2a](regulations:regulation:B2a)). If they want to check that the timer is in working order, they must (ask and) receive confirmation from the judge each time before starting/resetting the timer during this phase. Penalty for starting and resetting a timer without confirmation from the judge: disqualification of the attempt (DNF).
-- B2f+) [명확화] Since the competitor starts the solve by lifting the cover, penalties for starting the timer and for touching the cover while starting the attempt do not apply (see [Regulation B2b](regulations:regulation:B2b) and [Regulation B2c](regulations:regulation:B2c)).
-- B4c+) [첨언] If the judge forgot to put a sight blocker, or places it in a way that the competitor's view of the puzzle is not fully blocked, the WCA Delegate should grant an extra attempt.
-- B4c++) [첨언] If the WCA Delegate does not suspect that the competitor intentionally violated any WCA Regulations, the original attempt may stand.
+- B1+) [상기] 선수는 반드시 비슷한 조각끼리 구별([규정 3k](regulations:regulation:3k) 참고)할 수 있게 하는 로고([규정 3l](regulations:regulation:3l) 참고), 질감, 표시, 혹은 다른 특징이 없는 퍼즐을 사용해야 한다. 이는 눈 가리고 맞추기에서 각별한 주의가 필요하다.
+- B1b+) [권장] 안대는 대회에서 사용되기 전에 WCA 파견위원에 의해 확인되어야 한다.
+- B2d+) [첨언] 기본적으로, 선수는 심판이 준비가 되었다고 알린 후 타이머를 처음 시작할 때 솔브를 시작한다([규정 B2a](regulations:regulation:B2a) 참고). 타이머가 제대로 작동하는지 점검하려면, 이 단계에서 타이머를 시작/초기화하기 전에 반드시 심판에게 (질문하고) 확인을 받아야 한다. 심판의 확인 없이 타이머를 시작하거나 초기화하는 것에 대한 페널티: 해당 시도의 실격(DNF).
+- B2f+) [명확화] 선수가 덮개를 들어 올림으로써 솔브가 시작되기 때문에, 타이머 시작과 시도 시작 시 덮개를 만지는 것에 대한 페널티는 적용되지 않는다(규정 [B2b](regulations:regulation:B2b)와 [규정 B2c](regulations:regulation:B2c) 참고).
+- B4c+) [첨언] 심판이 시야 가리개를 놓는 것을 잊어버리거나 퍼즐에 대한 선수의 시야를 완전히 가리지 못하는 방식으로 놓여졌다면, WCA 파견위원은 추가 시도를 허용해야 한다.
+- B4c++) [첨언] WCA 파견위원이 선수가 고의로 WCA 규정을 위반했다고 의심하지 않으면, 본래의 시도는 유지될 수 있다.
 
 ## <article-C><one-handed><onehandedsolving> 제C조: 한 손으로 맞추기
 
-- C1b+) [명확화] 선수는 미리 보기 시간 동안 두 손을 사용할 수 있다.
-- C1b++) [명확화] 선수는 같은 라운드의 다른 시도에서 반드시 같은 손을 사용하지 않아도 된다.
+- C1b+) [명확화] 선수는 미리보기 동안 양손을 사용할 수 있다.
+- C1b++) [명확화] 선수는 같은 라운드의 다른 시도에서 같은 손을 사용할 필요는 없다.
 
 ## <article-E><fewest-moves><fewestmovessolving> 제E조: 최소회전
 
-- E2a1+) [권장] If a judge finds a submitted solution that does not appear to have information to identify the attempt, they should check both sides of the paper.
-- E2b+) [명확화] 선수는 시간제한이 끝나기 전 해법을 제출함으로써 시도를 일찍 끝낼 수 있다.
-- E2b++) [첨언] A competitor may join a 3x3x3 Fewest Moves attempt that is already in progress, at the discretion of the WCA Delegate. In this case, their time limit is the time remaining (i.e. they must finish when other competitors reach their 60 minute time limit). Exception: a competitor must not be permitted to join a 3x3x3 Fewest Moves attempt if any competitor has finished their attempt already (see [Guideline E2b+](guidelines:guideline:E2b+)), or if there is any other risk that information about the scramble may have become known to the competitor who wishes to join.
-- E2c+) [명확화] 심판이 제출용 표준 기록지를 선수들에게 주어도 제출할 해법으로써 하나의 공식이 명확히 적힌 다른 종이에 해법을 제출할 수 있다(그 종이도 [규정 E3a항](regulations:regulation:E3a)에 따라 심판이 제공한 것이어야 한다).
-- E2c1+) [설명] A competition registrant ID is an identifier (e.g. a number) assigned to a competitor for the competition. Some competitions use this to keep track of score sheets and enter results.
-- E2c1++) [첨언] If the competitor forgot to write information to identify the attempt on their intended solution paper, they are permitted to add it in front of a judge after the time limit. In this case, the competitor must ask the judge while submitting their solution and then immediately write information to identify the attempt (without making other changes) under direct supervision of the judge. Once a competitor has finished submitting their solution (e.g. placing it in the judge's hands and allowing the judge to move on to the next competitor, placing it on the judge's table and walking away), they are not permitted to add any information. If the competitor writes anything after the time limit but before asking the judge, the attempt remains disqualified (DNF).
-- E2c1+++) [설명] The competitor is not required to write the competition name, round, and/or attempt number on their submitted paper, but may wish to do so in order to help the organization team keep track of submitted solutions.
-- E2c1++++) [첨언] If a judge finds a submitted solution without information to identify the attempt (e.g. while grading the attempt), they should find out the competitor who wrote the solution in order to assign them a DNF (rather than DNS). Note that the competitor must not be allowed to write information to identify the attempt at this point, so they must receive a DNF result.
-- E2c2+) [예시] Examples that are not considered a single unambiguous move sequence: multiple solution sequences without exactly one clearly indicated solution, a solution with ambiguous symbols (e.g. a letter that looks similar to "B" and "R" but is not clearly one or the other), a solution with stars or arrows indicating moves to be performed out of written order (e.g. "insertions" that are not written in-line with the rest of the move sequence, "pre-moves" that are not incorporated into the move sequence using valid notation), a move sequence that is not written out roughly as a series of lines in reading order, any arrangement of symbols that cannot be interpreted as an unambiguous move sequence. Exceptions to the examples above: small typographic corrections (e.g. blacking out moves and writing moves above that are clearly meant to replace them, moves written in subscript or superscript to fit between other moves).
-- E2c2++) [상기] In the past, bracket notations (e.g. [r] or [u2]) were permitted for Fewest Moves. Only rotations based on x, y, or z are permitted now (see [Regulation 12a4a](regulations:regulation:12a4a)).
-- E2c3+) [명확화] If a move is not clearly blacked out/scribbled out and it is not clear whether the move is part of the solution, the judge should consider it an ambiguous move sequence (see [Regulation E2c2](regulations:regulation:E2c2) and [Guideline E2c2+](guidelines:guideline:E2c2+)).
-- E2c4+) [명확화] Examples of symbols or combinations of symbols that are not permitted in solutions for 3x3x3 Fewest Moves: M, e, r, Y (uppercase), T, U1, Ui, U3, U-, R++, R2', R'2, L'w, 1R, 2U, 2f, 2-3r, 1Rw, 3Rw, 2-3Rw, rw, Rr, \*, →, ⮐, /, ., ?, [r], [r u], [F], &lt;f&gt;, [f]', [f]2, [x], (x), (L), 2(Rw), (U)2, (U)', (R U)', (R U R'), [R, U], [R: U].
-- E2e+) [명확화] 선수는 해법을 스크램블 시퀀스의 어떤 부분도 이용해선 안되고, 해법이 역공식과 상당부분을 공유해서도 안된다.
-- E2e++) [예시] 시도의 실격(DNF)로 처리되는 해법의 예: 첫 4회전 이상이 역공식과 동일한 해법
-- E3d+) [명확화] 스톱워치나 시계는 해법을 찾을 수 있는 어떠한 기능도 있어선 안된다.
-- E3d++) [명확화] 선수들은 자신의 스톱워치나 시계를 공식적인 시간으로 생각하면 안되며, 심판이 '정지' 라고 말한 후에는 해법을 제출해야 한다.
+- E2a1+) [권장] 심판이 제출된 해답에서 시도를 식별할 수 있는 정보가 없다고 판단할 경우, 종이의 양면을 확인해야 한다.
+- E2b+) [명확화] 선수는 제한 시간 이전에 해답을 제출하여 시도를 조기에 종료할 수 있다.
+- E2b++) [첨언] WCA 파견위원의 재량하에, 선수는 이미 진행 중인 3x3x3 최소회전 시도에 참여할 수 있다. 이 경우, 해당 선수의 시간 제한은 남은 시간만큼이다(즉, 다른 선수들이 60분 시간 제한에 도달할 때 반드시 함께 마쳐야 한다). 예외: 다른 선수가 이미 시도를 완료했거나([지침 E2b+](guidelines:guideline:E2b+) 참고) 참여하려는 선수가 스크램블 이미 알게 되었을 가능성이 있는 경우, 해당 선수는 3x3x3 최소회전 시도에 참여할 수 없다.
+- E2c+) [명확화] 심판이 해답을 제출할 수 있는 표준 종이를 제공할 수 있을지라도, 선수는 다른 종이에 해답을 제출할 수 있다. (이때, 종이는 반드시 [규정 E3a](regulations:regulation:E3a)에 따라 심판으로부터 제공받은 종이어야 한다.)
+- E2c1+) [설명] 대회 신청 ID는 대회에 대한 선수에게 부여되는 식별자(예: 번호)이다. 일부 대회는 기록지 추적 및 결과 입력을 위해 이를 사용한다.
+- E2c1++) [첨언] 선수가 시도 식별 정보를 해답지에 쓰는 것을 잊었다면, 시간 제한 이후에 심판 앞에서 해당 정보를 추가할 수 있다. 이 경우, 선수는 해답을 제출할 때 심판에게 요청한 후 즉시 시도의 식별 정보를 작성해야 하며(다른 변경 사항 없이), 심판의 직접적인 감독 하에 진행되어야 한다. 선수가 해답 제출을 완료한 후(예: 심판에게 종이를 건네고 다음 참가자로 넘어가게 하거나, 심판의 탁자에 두고 자리를 떠남)에는 어떠한 정보도 추가할 수 없다. 만약 선수가 시간 제한 이후 심판에게 요청하기 전에 무언가를 작성했다면, 시도는 실격(DNF) 상태로 유지된다.
+- E2c1+++) [설명] 선수는 제출된 종이에 대회명, 라운드, 또는 시도 회차를 기입할 의무는 없지만, 제출된 해답을 추적하는 데 도움이 되도록 이를 작성할 수 있다.
+- E2c1++++) [첨언] 심판이 시도를 식별할 수 있는 정보가 없는 해답을 발견한 경우(예: 시도를 채점하는 동안), 해당 해답을 작성한 선수를 찾아 실격 처리(DNF)해야 한다(DNS 대신). 이때, 선수에게 시도를 식별할 수 있는 정보를 추가로 작성하게 해서는 절대로 안 되므로, 반드시 DNF 결과가 부여되어야 한다.
+- E2c2+) [예시] 명확한 단일 회전 시퀀스로 간주되지 않는 예시: 하나의 명확하게 표시된 해답 없이 여러 개의 해답 시퀀스가 있는 경우, 모호한 기호가 포함된 해답(예: "B"와 "R"과 비슷하지만 둘 중 어느것도 명확하지 않은 문자), 별 또는 화살표가 표시된 해답으로 쓰여진 순서와 다르게 수행해야 할 회전을 나타낸 경우(예: 나머지 회전 시퀀스와 일렬로 쓰여지지 않은 "insertions", 유효한 표기법을 사용하여 회전 시퀀스에 포함되지 않은 "pre-moves"), 읽는 순서대로 선형으로 작성되지 않는 회전 시퀀스, 명확한 회전 시퀀스로 해석될 수 없는 기호의 배열. 위의 예에 대한 예외: 사소한 오타 수정(예: 회전을 검은색으로 칠하고 명백히 그것을 대체하는 회전을 위에 쓰는 것, 다른 회전 사이에 맞추기 위해 아래첨자나 윗첨자로 작성된 회전).
+- E2c2++) [상기] 과거에는 괄호 표기법(예: [r] 혹은 [u2])이 최소회전 종목에서 허용되었다. 이제는 x, y, z 기반의 시점 변환만 허용된다([규정 12a4a](regulations:regulation:12a4a) 참고).
+- E2c3+) [명확화] 만약 회전이 명확히 지워지거나 삭제되지 않고 해당 회전이 해답의 일부인지 확실하지 않은 경우, 심판은 이를 모호한 회전 시퀀스로 간주해야 한다([규정 E2c2](regulations:regulation:E2c2)와 [지침 E2c2+](guidelines:guideline:E2c2+) 참고).
+- E2c4+) [명확화] 3x3x3 최소회전 해답에서 허용되지 않는 기호 또는 기호 조합의 예시: M, e, r, Y (대문자), T, U1, Ui, U3, U-, R++, R2', R'2, L'w, 1R, 2U, 2f, 2-3r, 1Rw, 3Rw, 2-3Rw, rw, Rr, \*, →, ⮐, /, ., ?, [r], [r u], [F], &lt;f&gt;, [f]', [f]2, [x], (x), (L), 2(Rw), (U)2, (U)', (R U)', (R U R'), [R, U], [R: U].
+- E2e+) [명확화] 선수는 스크램블 시퀀스의 어떤 부분에서도 해답을 도출해내서는 절대로 안 되며, 해답은 역스크램블 시퀀스와 상당한 부분을 공유해서는 안 된다.
+- E2e++) [예시] 시도의 실격(DNF)로 처리되는 해답의 예: 역스크램블 시퀀스와 동일한 4개 이상의 회전으로 시작하는 해답.
+- E3d+) [명확화] 선수가 사용하는 스톱워치나 시계는 선수가 해답을 찾는 데 도움을 주는 기능이 절대로 있어서는 안 된다.
+- E3d++) [명확화] 선수는 개인 스톱워치나 시계를 공식적인 시간으로 간주해서는 안 되며, 심판이 "멈추세요"라고 외칠 때 해답을 반드시 제출해야 한다.
 
 ## <article-F><clock><clocksolving> 제F조: 클락
 
-- F1+) [상기] In the past, the competitor had to place the puzzle onto the mat in a standing position. This is no longer required.
+- F1+) [상기] 과거에, 선수는 퍼즐을 매트 위에 세워진 상태로 놓았어야 했다. 이는 더이상 요구되지 않는다.
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> 제H조: 눈 가리고 맞추기(복수)
 
-- H1+) [첨언] If a puzzle with a duplicate scramble is found during an attempt, the puzzle may be re-scrambled using a different scramble sequence, at the discretion of the WCA Delegate.
-- H1b+) [첨언] A competitor may join a Multi-Blind attempt that is already in progress, at the discretion of the WCA Delegate. In this case, their time limit is the time remaining (i.e. they must finish when other competitors reach their time limit). Exception: a competitor must not be permitted to join a Multi-Blind attempt if any competitor has finished their attempt already, or if there is any other risk that information about the scramble may have become known to the competitor who wishes to join.
-- H1b1+) [상기] 복수 눈 가리기의 예외사항([규정 A1a4항](regulations:regulation:A1a4)과 [규정 A1a5항](regulations:regulation:A1a5) 참고)에 따라, 시간제한이 되어도 시도는 실격 처리되지 않는다.
-- H1b1++) [첨언] 심판은 공식 기록으로 포함되진 않지만 선수가 시도를 계속 하도록 해도 되지만, 시도는 규정에 따라 먼저 멈추어지고 판정이 내려져야 한다.
-- H1d+) [예시] 예시: 선수가 10개의 큐브를 시도하고, 59분 57초에 멈추고, 두 개의 시간 페널티가 있다면, 기록은 59:57 + 2\*2 = 60:01 이다.([규정 A1a5항](regulations:regulation:A1a5) 참고)
-- H1d++) [예시] 예시: 선수가 10개의 큐브를 시도하고, 심판이 60분이 되었을 때 멈추게 했으며, 두 개의 시간 페널티들이 있으면, 기록은 60:00 + 2\*2 = 60:04 이다.
+- H1+) [첨언] 시도 도중에 중복된 스크램블이 적용된 퍼즐이 발견된 경우, WCA 파견위원의 재량 하에 해당 퍼즐을 다른 스크램블 시퀀스를 사용하여 다시 섞을 수 있다.
+- H1b+) [첨언] WCA 파견위원의 재량하에, 선수는 이미 진행 중인 눈 가리고 맞추기(복수) 시도에 참여할 수 있다. 이 경우, 해당 선수의 시간 제한은 남은 시간만큼이다(즉, 다른 선수들이 시간 제한에 도달할 때 반드시 함께 마쳐야 한다). 예외: 다른 선수가 이미 시도를 완료했거나 참여하려는 선수가 스크램블 이미 알게 되었을 가능성이 있는 경우, 해당 선수는 눈 가리고 맞추기(복수) 시도에 참여할 수 없다.
+- H1b1+) [상기] 눈 가리고 맞추기(복수) 종목에 대한 예외([규정 A1a4](regulations:regulation:A1a4)와 [규정 A1a5](regulations:regulation:A1a5) 참고)에 따라, 제한 시간에 도달하여도 시도는 실격 처리되지 않는다.
+- H1b1++) [첨언] 심판은 공식 기록으로 포함되진 않지만 선수가 시도를 계속 하도록 해도 되지만, 시도는 규정에 따라 먼저 멈추어지고 판정이 내려져야 한다. 심판은 선수가 비공식적으로 시도를 계속하도록 허용할 수 있지만, 해당 시도는 반드시 완전히 규정을 준수하여 먼저 중단되고 채점되어야 한다.
+- H1d+) [예시] 예: 선수가 10개의 큐브를 시도하여 59:57에 솔브를 멈추고, 두 개의 시간 페널티를 받았다고 가정하자. 결과의 최종 시간은 59:57 + 2*2 = 60:01(또한 [규정 A1a5](regulations:regulation:A1a5) 참고)이다. 
+- H1d++) [예시] 예: 선수가 10개의 큐브를 시도하고 심판이 60분이 되었을 때 선수를 멈추고, 두 개의 시간 페널티가 있다고 가정하자. 최종 결과의 시간은 60:00 + 2*2 = 60:04이다.
