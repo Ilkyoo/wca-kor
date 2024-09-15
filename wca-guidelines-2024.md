@@ -141,51 +141,51 @@ WCA 지침은 [WCA 규정](regulations:top)을 보완한다. WCA에 대한 자�
 - 11e+) [명확화] 어필이 항상 성공적이라는 것을 보장할 수 없으므로, 선수는 어필 중에 타이머가 계속 작동되도록 한 후 적절한 때에 솔브를 재개할 수 있다.
 - 11e++) [권장] WCA 파견위원은 추가 시도에 대한 이유를 기록해야 한다(예: 기록지 뒷면).
 - 11e+++) [권장] 솔브 종료 후에 추가 시도를 부여할 때, WCA 파견위원은 더욱 강력한 재량권을 사용해야 한다. 추가 시도는 예외적인 상황에서만 부여되어야 한다.
-- 11e++++) [상기] The attempt is finished after the competitor checks the recorded result and signs on the score sheet (see [Regulation A7c](regulations:regulation:A7c)).
-- 11e+++++) [첨언] If the WCA Delegate does not have time to investigate this claim during the competition, they should grant the competitor a provisional extra.
-- 11e++++++) [첨언] An extra attempt is considered to be done at the time that the original solve happened. For example, if a round was originally scheduled for January 21st, and a competitor receives an extra on January 22nd, the extra solve is considered to be done on January 21st.
-- 11e+++++++) [권장] If an extra attempt is given for a round after a subsequent round has finished, and the extra attempt causes the competitor to advance to the next round, the competitor should not compete in the subsequent round, at the discretion of the WCA Delegate.
-- 11e1+) [상기] 추가 시도에선 공인 스크램블 프로그램으로 생성된 변형되지 않은 스크램블 시퀀스으로 퍼즐이 섞여야 한다.([규정 4f항](regulations:regulation:4f), [지침 4f+항](guidelines:guideline:4f+) 참고)
-- 11e2+) [첨언] 추가시도가 새로운 추가시도로 연결되는 경우, 선수는 정규시도를 대체할 수 있는 유효한 기록이 나올 때 까지 추가시도를 계속해야 한다.
-- 11e2++) [예시] 한 선수가 5회의 정규시도가 있었다 하고 2번 시도에서 추가시도를 부여받았다 하자. 선수는 2번시도를 대체할 수 있는 유효한 기록이 나올 때 까지 추가시도를 계속해야 한다. 만약 이후에 또 다른 추가시도가 필요하다면, 선수는 2번 시도와 비슷한 방식으로 진행해야 한다.
+- 11e++++) [상기] 선수가 기록된 결과를 확인하고 기록지에 서명을 하면 시도가 종료된다([규정 A7c](regulations:regulation:A7c) 참고).
+- 11e+++++) [첨언] WCA 파견위원이 대회 동안 해당 어필을 조사할 시간이 없다면, 선수에게 임시 추가 시도를 부여해야 한다.
+- 11e++++++) [첨언] 추가 시도는 본래의 솔브가 일어난 때에 완료된 것으로 간주된다. 예시로, 어느 라운드가 원래 1월 21일에 진행되기로 했고 선수가 추가 시도를 1월 22일에 받았다면, 추가 시도는 1월 21일에 완료된 것으로 간주된다.
+- 11e+++++++) [권장] 어느 라운드에 대한 추가 시도가 후속 라운드가 종료된 후에 부여되었고, 선수가 추가 시도로 인해 다음 라운드에 진출하게 되었다면, WCA 파견위원 재량하에 선수는 후속 라운드에 참가해서는 안 된다.
+- 11e1+) [상기] 추가 시도는 반드시 공식 스크램블 프로그램에 의해 생성된 수정되지 않은 스크램블 시퀀스를 사용하여 섞어야 한다 ([규정 4f](regulations:regulation:4f), [지침 4f+](guidelines:guideline:4f+) 참고).
+- 11e2+) [첨언] 추가 시도 자체가 추가 시도로 이어지는 경우, 선수는 원래의 정규 시도를 대체할 유효한 추가 시도가 있을 때까지 추가 시도를 계속해야 한다.
+- 11e2++) [예시] 선수에게 5번의 정규 시도가 있고, 2회차 시도가 추가 시도로 이어진다고 가정하자. 선수는 2회차 시도를 대체할 유효한 추가 시도가 있을 때까지 추가 시도를 이행해야 한다. 나중에 또다른 시도가 추가 시도로 이어지게 되었다고 가정하면, 선수는 2회차 시도에 대한 방식과 유사한 방식으로 진행해야 한다.
 
 ## <article-12><notation><notation> 제12조: 표기법
 
-- 12a2+) [명확화] For example, both Rw and 2Rw are valid notation for the same physical move for the 3x3x3 Cube. 1Rw is not valid notation for any NxNxN Cube, and 3Rw is not valid notation for the 2x2x2 Cube or the 3x3x3 Cube (but 3Rw is valid notation for the 4x4x4 Cube and larger NxNxN Cubes).
-- 12g2+) [상기] In the past, the penalty for changing state of the pins in inspection was a DNF. This is no longer the case.
-- 12i+) [명확화] Rotations do not change the puzzle state.
+- 12a2+) [명확화] 예시로, Rw와 2Rw 모두 3x3x3 큐브에서의 동일한 물리적 회전에 대한 유효한 표기법이다. 1Rw는 어떠한 NxNxN 큐브에서도 유효하지 않은 표기법이며, 3Rw는 2x2x2 큐브와 3x3x3 큐브에 대한 유효한 표기법이 아니다(그러나 3Rw는 4x4x4 큐브와 그 이상의 NxNxN 큐브에서는 유효한 표기법이다).
+- 12g2+) [상기] 과거에는, 미리보기 단계에서 핀의 상태를 변경하는 것에 대한 페널티는 DNF였다. 이는 더이상 그렇지 않다.
+- 12i+) [명확화] 시전 변환은 퍼즐의 상태를 바뀌도록 하지 않는다.
 
 ## <article-A><speedsolving><speedsolving> 제A조: 스피드 솔빙
 
-- A1a+) [명확화] If both limits are applied, the time limit per attempt must not be greater than the cumulative time limit.
-- A1a2+) [첨언] 누적 시간제한이 있는 경우, 심판은 DNF의 경우 원래의 시간 기록을 스코어시트 괄호 안에 써넣는다. 예를 들어: “DNF (1:02.27)"
-- A1a2++) [예시] If a round has only a cumulative time limit of 30 minutes and the competitor's results of the first two attempts are 6:00 and DNF (10:00), then the time limit for the third attempt is 30:00 - 6:00 - 10:00 = 14:00. For this particular example, note that only the final result for an attempt counts. Therefore, a third attempt with an original recorded time of 13:59 without penalties meets the time limit because the final result is 13:59 (see [Regulation 9f2](regulations:regulation:9f2)), while a third attempt with a result of 13:59 + 2 = 14:01 does not meet the time limit.
-- A1a2+++) [첨언] If the result from an attempt is unavailable (e.g. the timer was reset), the judge should consult the WCA Delegate and make an estimate of the elapsed time for the attempt. This estimate counts towards the time limit, but must not be used as the basis of an official result for the individual attempt.
-- A1a2++++) [예시] If a round has a cumulative time limit of 20 minutes and a time limit of 8 minutes, and the competitor's results of the first two attempts are 7:00 and 7:30, then the time limit for the third attempt is the lower time of 5:30 (calculated as 20:00 - 7:00 - 7:30) and 8:00, i.e. 5:30.
-- A1a2+++++) [명확화] If a competitor reaches a cumulative time limit, the result for each of their remaining attempts in the round is recorded as DNS (Did Not Start).
-- A1a2++++++) [명확화] If a cumulative time limit applies to a combination of rounds for different events, the order in which attempts are done is the order in which those attempts count towards the cumulative time limit.
-- A1a3+) [상기] 운영진과 WCA 파견위원은 시간제한이 선수의 계획(예를 들어, 통합 라운드에서 처음 두 번의 시도에서 최선을 다하여 컷 오프를 통과하려고 노력하는 것)에 영향을 주며, 시간제한을 라운드의 시작 이후 변경하는 것은 몇몇 선수들에게 불이익을 줄 수 있다는 것을 염두에 두어야 한다.
-- A1a4+) [상기] 만약 뜻하지 않게 선수가 시간제한을 넘는 기록을 내도 된다고 허가 받았을 경우, 시간제한이 반드시 소급적으로 적용되어야 하며, 심판, 선수, 그리고 WCA 파견위원에게 알려져야 한다.([규정 1g2항](regulations:regulation:1g2) 참고) 심판들은 반드시 당시의 시도에 대한 시간제한(누적 시간제한의 경우 이전의 시도에 따라 결정될 것이다)을 알고 있어야 한다.
-- A2c1+) [상기] 이전에는 스코어 카드들이 퍼즐을 가리는 데 쓰였으나 몇몇 면들이 보였다. 이것은 더 이상 허용되지 않는다.
-- A2d1+) [첨언] If the scramble signature is found to be missing before an attempt, the puzzle should immediately be returned to a scrambler for verification and a corresponding signature.
-- A2d1++) [첨언] An attempt must not be disqualified solely due to a missing scramble signature. If a scramble signature is missing after the beginning of an attempt, the judge must allow the attempt to continue (if it is still in progress) and the WCA Delegate should allow the result to be kept. However, the WCA Delegate may replace the attempt with an extra attempt if they have a reason (other than the missing signature) to suspect that the scramble was incorrect.
-- A2d1+++) [상기] Although the WCA Delegate may allow several individual attempts with missing scramble signatures to count, they should ensure that missing scramble signatures do not become common.
-- A3c3+) [명확화] 심판이 실수로 초기화하지 않은 경우 미리 보기 시간 전/중 초기화시켜도 된다. 그러나 타이머가 초기화되었는지 확인하는 것은 심판의 책임이다([규정 A3b항](regulations:regulation:A3b) 참고). 실수로 선수가 타이머가 초기화되지 않은 채 맞추기 시작하면, (즉, 선수가 미리보기를 하고, 타이머가 정상이라 여기고 적당한 시간동안 손을 올려놨으며, 이후 퍼즐을 조작하기 시작함) 그 시도는 WCA 파견위원의 결정에 따라서 새로운 시도로 대체되어야 한다.
-- A3c3++) [명확화] The competitor cannot "test" or "restart" the timer during inspection, since inspection ends once the competitor starts the solve (see [Regulation A4d](regulations:regulation:A4d)). If the competitor stops the timer after they have started it for the first time, this is considered stopping the solve (see [Regulation A6](regulations:regulation:A6)), even if they do so within 15 seconds of starting inspection.
-- A3c4+) [명확화] 큐브에 앏은 물체를 사용한 경우, 심판은 선수 대신 물체를 제거하면 안된다.
-- A3c4++) [명확화] 물체를 미리보기 도중에 제거하지 않았다면(예: 잊어버림), 선수는 물체를 맞추는 도중에 제거할 수 있다.
-- A4d1+) [명확화] If the inspection took exactly 15 seconds (i.e. 15.00), the time penalty (+2 seconds) must be applied.
-- A4d2+) [명확화] If the inspection took exactly 17 seconds (i.e. 17.00), the attempt must be disqualified (DNF).
-- A5b+) [명확화] 미리보기나 맞추는 도중 선수는 몸의 어떤 부분으로 퍼즐을 만지던지 상관없다. 예외: 3x3x3 한손 ([규정 C1b항](regulations:regulation:C1b) 참고).
-- A5b++) [명확화] If a part of the competitor's puzzle is popped out or detached (see [Regulation 5a](regulations:regulation:5a)), the competitor must not ask for assistance retrieving or locating the part and the judge should attempt to prevent others from assisting. If someone picks up a popped part for the competitor, the judge or competitor may ask them to place it on the solving station and not to assist any further.
-- A5b+++) [명확화] The WCA Delegate should not grant the competitor an extra attempt solely based on someone picking up a popped or detached part of the competitor's puzzle.
-- A6b+) [설명] 임의의 값 0.06초는 스택맷 타이머의 오작동에 대한 문제를 해결하기 위해 정해졌다.
-- A6e+) [명확화] If the puzzle falls into the lap of the competitor after stopping the timer, this is considered touching the puzzle.
-- A7c+) [첨언] 선수가 서명한 기록이 불완전하거나 읽을수 없다면 그 기록은 가능한 기록 중 최악의 기록으로 해석해야 한다(예: "1:05"는 "1:05.99"로, "X"가 1 또는 7인 경우 "25.X3"은 "25.73"으로 간주한다). 기록자의 결정에 따라 모호한 기록을 심판에게 명확히 할 것을 요청할 수 있다.
-- A7g+) [예시] 초보 선수에게 별도의 기회를 줄 수 있는 사고의 예: 초록불이 켜지길 기다리지 않는 경우, 타이머를 부적절하게 시작하거나 멈춘 경우, 시도 시작에 대한 오해로 인한 미리보기 시간 초과 혹은 절차에 관한 시간 페널티
-- A7g++) [명확화] 초보선수의 페널티늠 면제될 수 없으며, 반드시 새 시도를 주어야 한다.
-- A7g+++) [권장] WCA 파견위원은 같은 선수들에게 1번을 넘는 추가 시도가 주어지는 것에 대해선 더 강한 결정권을 사용해야 한다. 1번을 넘는 추가시도가 주어진 경우, 그 시도는 다른 사고에 대한 것이어야 한다.
-- A7g++++) [명확화] A competitor may be considered inexperienced if they are a new competitor, it is their first time competing in a specific event, or they have not competed in a specific event for a significant period of time. The inexperience must be related to the incident.
+- A1a+) [명확화] 두 기록 제한이 모두 적용되는 경우, 각 시도에 대한 기록 제한은 절대로 누적 기록 제한보다 커서는 안 된다.
+- A1a2+) [첨언] 누적 기록 제한이 있는 경우, 심판은 DNF에 대한 본래의 기록된 시간을 괄호 안에 기록한다, 예: “DNF (1:02.27)"
+- A1a2++) [예시] 어느 라운드가 30분의 누적 기록 제한만을 가지고 있고 선수의 처음 두 개 시도의 결과가 6:00과 DNF (10:00)라면, 세 번째 시도에 대한 기록 제한은 30:00 - 6:00 - 10:00 = 14:00이다. 이 특정한 예시에 대해, 시도에 대한 최종 결과만이 집계되는 것을 염두에 두어야 한다. 그러므로, 세 번째 시도에 대한 본래의 기록된 시간이 페널티 없이 13:59라면, 최종 결과는 13:59이기 때문에 기록 제한을 충족한다([규정 9f2](regulations:regulation:9f2) 참고), 반면에 세번째 시도의 결과가 13:59 + 2 = 14:01이면 기록 제한을 충족하지 못한다.
+- A1a2+++) [첨언] 시도에 대한 결과를 이용할 수 없는 경우(예: 타이머가 초기화됨), 심판은 WCA 파견위원과 상담해야하며 시도에 대한 경과된 시간의 추정치를 구해야 한다. 이러한 추정은 기록 제한에는 포함되지만, 절대로 개별 시도의 공식 결과의 기초로 사용되어서는 안 된다.
+- A1a2++++) [예시] 어느 라운드가 20분의 누적 기록 제한과 8분의 기록 제한을 가지고 있고 선수의 처음 두 개 시도의 결과가 7:00과 7:30이라면, 세 번째 시도의 기록 제한은 5:30(20:00 - 7:00 - 7:30으로 계산됨)과 8:00 중 작은 시간이다, 즉, 5:30이다.
+- A1a2+++++) [명확화] 선수가 누적 기록 제한에 도달하게 되면, 해당 라운드에서 남은 시도들에 대한 결과는 DNS (Did Not Start)로 기록된다.
+- A1a2++++++) [명확화] 누적 기록 제한이 상이한 종목에 대한 라운드의 조합에 적용되는 경우, 시도가 완료된 순서는 누적 시간 제한에 포함된 순서이다.
+- A1a3+) [상기] 운영진과 WCA 파견위원은 기록 제한이 선수의 전략(예: 컷오프 라운드에서 컷오프를 충족하는 희망을 가지고 처음 두 시도를 서두르는 것)에 영향을 준다는 것과, 라운드가 시작된 후에 기록 제한을 변경하는 것은 몇몇 선수에게 부당한 불이익을 줄 수 있다는 것을 유념해야 한다.
+- A1a4+) [상기] 선수가 뜻하지 않게 기록 제한을 초과하는 것이 허용된다면, 기록 제한은 반드시 소급적으로 시행되어야 하며 심판, 선수, WCA 파견위원에게 알려야 한다([규정 1g2](regulations:regulation:1g2) 참고). 심판은 항상 현재 시도에 대한 기록 제한을 반드시 유의해야 한다(누적 기록 제한의 경우 이전 시도에 따라 달라질 수 있음).
+- A2c1+) [상기] 과거에는, 기록지가 퍼즐을 가리기 위해 사용되었으며 퍼즐의 몇몇 면은 노출되었었다. 이는 더 이상 허용되지 않는다.
+- A2d1+) [첨언] 시도 전에 스크램블 서명이 누락된 것이 발견되면, 퍼즐은 즉시 스크램블러에게 반환되어 확인을 받고 해당 서명을 받아야 한다.
+- A2d1++) [첨언] 시도는 절대로 스크램블 서명 누락의 이유만으로 실격되어서는 안 된다. 시도 시작 후에 스크램블 서명 누락이 발견되면, 심판은 시도를 이어나가는 것을 반드시 허용해야 하며(아직 시도를 진행중이라면), WCA 파견위원은 해당 결과가 유지되는 것을 허용해야 한다. 하지만, 스크램블이 틀렸다고 (서명 누락 외에)의심을 할 이유가 있다면 WCA 파견위원은 해당 시도를 추가 시도로 대체할 수 있다.
+- A2d1+++) [상기] WCA 파견위원이 스크램블 서명이 누락된 몇몇 개별 시도를 허용할 수 있을지라도, 스크램블 서명이 누락되는 일이 흔해지지 않도록 해야 한다.
+- A3c3+) [명확화] 심판이 실수로 타이머를 초기화하지 않은 경우, 선수는 미리보기 단계 전/중에 타이머를 초기화할 수 있다. 하지만, 타이머가 초기화 되어있는지 확인하는 것은 심판의 책임이다([규정 A3b](regulations:regulation:A3b) 참고). 심판이 초기화하지 않은 타이머로 선수가 의도치 않게 솔브를 시작하려고 시도하는 경우(즉, 선수가 미리보기를 수행하고, 스택 매트 타이머에 충분한 시간 동안 손을 올리고, 타이머가 정상적으로 시작될 것이라고 가정하고, 퍼즐을 작동하기 시작하는 경우), WCA 파견위원의 재량하에 해당 시도를 추가 시도로 대체해야 한다.
+- A3c3++) [명확화] 미리보기는 선수가 솔브를 시작하면 종료되기에, 선수는 미리보기 동안 타이머를 "시험" 해보거나 "재시작" 할 수 없다([규정 A4d](regulations:regulation:A4d) 참고). 선수가 최초로 타이머를 시작한 후 타이머를 중지한 경우, 미리보기를 시작한 지 15초 안에 타이머를 멈추더라도 이는 솔브를 중지한 것으로 간주된다([규정 A6](regulations:regulation:A6) 참고).
+- A3c4+) [명확화] 퍼즐 속에 얇은 물체를 사용하는 것이 강제되었다면, 심판은 절대로 심판을 대신하여 해당 물제를 제거해서는 안 된다.
+- A3c4++) [명확화] 선수가 미리보기 동안 물체를 제거하지 않았다면(예: 잊어버림), 선수는 솔브 도중에 이를 제거할 수 있다.
+- A4d1+) [명확화] 미리보기가 정확히 15초(즉, 15.00) 소요되었다면, 시간 페널티(+2초)가 반드시 적용되어야 한다.
+- A4d2+) [명확화] 미리보기가 정확히 17초(즉, 17.00) 소요되었다면, 해당 시도는 반드시 실격 처리(DNF)되어야 한다.
+- A5b+) [명확화] 미리보기 혹은 퍼즐 솔빙 도중, 선수는 자신의 어느 신체 부위로든 퍼즐과 접촉할 수 있다. 예외: 3x3x3 한 손([규정 C1b](regulations:regulation:C1b) 참고).
+- A5b++) [명확화] 선수의 퍼즐의 부품이 튀어 나오거나 분리된 경우([규정 5a](regulations:regulation:5a) 참고), 선수는 해당 부품을 찾거나 찾는 데 도움을 요청해서는 절대로 안 되며, 심판은 타인이 돕는 것을 막아야 한다. 만약 누군가가 튀어나간 부품을 선수를 위해 집어 든다면, 심판 혹은 선수는 해당 부품을 기록 측정 구역에 놓고 더 이상 돕지 말라고 요청할 수 있다.
+- A5b+++) [명확화] WCA 파견위원은 선수의 퍼즐의 튀어 나오거나 분리된 부품을 누군가가 집어 들었다는 이유만으로 선수에게 추가 시도를 부여해서는 안 된다.
+- A6b+) [설명] 임의의 값 0.06초는 스택 매트 타이머의 오작동에 대한 우려를 수용하기 위해 선택되었다.
+- A6e+) [명확화] 타이머를 멈춘 후 퍼즐이 선수의 무릎에 떨어진 경우, 이는 퍼즐을 만진 것으로 간주된다.
+- A7c+) [첨언] 선수가 서명한 결과가 불완전하거나 읽을 수 없는 것으로 밝혀지면, 가장 타당한 최악의 방식으로 해석되어야 한다(예: "1:05"는 1:05.99로 간주되고, "25.X3"은 X가 1 혹은 7일 수 있는 경우 25.73으로 간주된다). 스택 매트 타이머가 X:0Y.ss의 시간을 X:Y.ss로 표시한다는 점을 감안할 때, 10의 자릿수가 누락된 것은 1의 자릿수가 누락된 것보다 더 가능성이 높은 것으로 간주해야 한다(예: "1:2.27"은 1:02.27로 간주된다). 모호한 결과에 서명한 심판은 기록 입력자의 재량하에 결과를 명확히 하도록 요청받을 수 있다.
+- A7g+) [예시] 경험 부족으로 인해 선수에게 추가 시도를 부여할 수 있는 사건의 예: 초록 불을 기다리지 않음, 타이머를 부적절하게 시작하거나 중지함, 솔브를 시작하는 방법의 잘못된 이해로 인한 미리보기 시간 초과, 혹은 다른 절차적인 시간 페널티.
+- A7g++) [명확화] 개별적인 페널티는 면제될 수 없다. 반드시 완전한 추가 시도가 부여되어야 한다.
+- A7g+++) [권장] WCA 파견위원은 동일한 선수에게 하나 이상의 추가 시도를 부여할 때 더욱 강력한 재량권을 사용하여야 한다. 둘 이상의 추가 시도가 부여된다면, 이는 상이한 유형의 사건으로 인한 것이어야 한다. 예: WCA 파견위원이 이미 선수가 초록 불을 충분한 시간 동안 기다리지 않은 것에 대해 추가 시도를 부여했다면, 선수가 또 다시 초록 불을 충분히 기다리지 않은 것에 대해 또 다른 추가 시도를 부여해서는 안 된다.
+- A7g++++) [명확화] 선수는 최초 참가자이거나, 특정 종목에 처음 참가하거나, 특정 종목에 상당 기간 참가하지 않은 경우 경험이 부족한 것으로 간주될 수 있다. 경험 부족은 반드시 사건과 관련이 있어야 한다.
 
 ## <article-B><blindfolded><blindfoldedsolving> 제B조: 눈 가리고 맞추기
 
