@@ -31,7 +31,7 @@ WCA 규정과 지침의 변천은 [GitHub](https://github.com/thewca/wca-regulat
 ### 연락
 
 질문 사항 및 피드백이 있다면 [WCA 규정 위원회(WRC)](mailto:wrc@worldcubeassociation.org)로 연락 바랍니다.
-번역본에 대한 질문 사항 및 피드백이 있다면 [구민서](mailto:goomseo1743@gmail.com), [장석원](mailto:sj@worldcubeassociation.org), 혹은 [최일규](mailto:ichoi@worldcubeassociation.org)에게 연락 바랍니다.
+번역본에 대한 질문 사항 및 피드백이 있다면 [고영진](mailto:ko0starx@naver.com), [구민서](mailto:goomseo1743@gmail.com), [장석원](mailto:sj@worldcubeassociation.org), 혹은 [최일규](mailto:ichoi@worldcubeassociation.org)에게 연락 바랍니다.
 
 ## <contents> [목차](regulations:contents)
 
